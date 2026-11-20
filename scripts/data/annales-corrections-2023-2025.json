@@ -1,0 +1,1618 @@
+{
+  "annale-2023-2024-q1": {
+    "answers": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : La chaîne latérale –CH₂–CH(CH₃)₂ identifie la leucine (Leu, L), et non la valine.\nB. Vrai : La leucine fait partie des acides aminés essentiels, à apporter par l’alimentation.\nC. Faux : La figure montre COOH et NH₃⁺ : la charge nette est +1. Au pI, la forme zwitterion majoritaire porte COO⁻ et NH₃⁺.\nD. Faux : Le pic à 210 nm est la propriété utilisée pour les liaisons peptidiques ; cette leucine libre ne possède ni liaison peptidique ni noyau aromatique.\nE. Faux : La leucine est un acide aminé aliphatique apolaire.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 14,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 22,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 5,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q2": {
+    "answers": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Vrai : Le premier plateau, à faible pH, correspond à la demi-neutralisation de la fonction α-carboxylique.\nB. Vrai : Les deux premiers plateaux sont à faible pH : il existe une seconde fonction acide ionisable sur la chaîne latérale.\nC. Vrai : Pour cet acide aminé acide, le pI se situe entre les deux pKa acides, donc au point 2.\nD. Faux : À pH 8, les deux fonctions carboxyliques sont déprotonées ; la forme majoritaire porte une charge globale négative, et non nulle.\nE. Vrai : La fonction α-aminée, dont le pKa est voisin de 9, est principalement NH₃⁺ à pH 8 ; les carboxyles sont négatifs.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 16,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 20,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 21,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 22,
+        "label": "Acides aminés"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q3": {
+    "answers": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : La condensation formant une liaison peptidique demande un apport énergétique : elle est thermodynamiquement défavorable.\nB. Faux : Le β-mercaptoéthanol réduit les ponts disulfure, pas les liaisons peptidiques.\nC. Faux : Le pouvoir rotatoire provient de la chiralité des résidus, notamment des carbones α ; il n’est pas créé par la liaison amide plane.\nD. Faux : La liaison peptidique absorbe vers 210 nm. Le dosage à 280 nm exploite les résidus aromatiques.\nE. Vrai : L’hydrolyse acide forte, HCl 6 N à 110 °C pendant 24 h, rompt les liaisons peptidiques.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 5,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 6,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 9,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 9,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q4": {
+    "answers": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : Le peptide comporte 8 résidus : la règle de 110 Da par résidu donne environ 880 Da, compatible avec 900 ± 150 Da.\nB. Faux : La trypsine coupe après R, qui est ici suivi de G : on obtient AR et GENTIN.\nC. Vrai : La forme de charge nulle est encadrée par le pKa de E (4,1) et celui du N-terminal (9), soit pI ≈ (4,1 + 9)/2 = 6,55 avec les valeurs du cours.\nD. Faux : À pH 7 : N-terminal +1, R +1, E −1 et C-terminal −1, soit une charge nette nulle.\nE. Faux : Il ne contient ni cystéine (C) ni méthionine (M), les deux résidus soufrés usuels.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 16,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 26,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 9,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 14,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q5": {
+    "answers": [
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : La lettre E désigne une hélice α ; les boucles entre hélices portent deux lettres, par exemple EF.\nB. Vrai : F8 est le huitième résidu de l’hélice F, correspondant à l’histidine proximale.\nC. Vrai : Une hélice α s’allonge d’environ 1,5 Å par résidu : 19 résidus donnent environ 28,5 Å, dans l’intervalle annoncé.\nD. Faux : Chaque sous-unité contient une globine et un hème : ce sont des hétéroprotéines.\nE. Vrai : Les liaisons ioniques stabilisent la forme T ; leur rupture accompagne la transition vers la forme R à forte affinité pour O₂.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 6,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 10,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 12,
+        "label": "Niveaux d’architecture des protéines"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q6": {
+    "answers": [
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "explanation": "A. Faux : Au pI, la solubilité est minimale et une précipitation peut survenir sans dénaturation : la structure secondaire n’est pas nécessairement altérée.\nB. Faux : Un brin β est plus étiré qu’une hélice α (3,6₁₃) à nombre égal de résidus.\nC. Vrai : PrPᶜ et PrPˢᶜ possèdent la même séquence primaire ; elles diffèrent par leur conformation.\nD. Vrai : PrPˢᶜ peut induire le passage d’hélices α vers des feuillets β chez PrPᶜ.\nE. Vrai : Les anticorps sont des glycoprotéines ; leurs chaînes sont associées notamment par des ponts disulfure interchaînes.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 7,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 15,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 23,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 25,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 26,
+        "label": "Niveaux d’architecture des protéines"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q7": {
+    "answers": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : Les trois protéines contiennent de nombreuses liaisons peptidiques, permettant un dosage total par le réactif de Biuret.\nB. Faux : À pH 7, a (pI 8) est positive tandis que b (pI 6) et c (pI 3) sont négatives : ce sont b et c qui peuvent être retenues par un échangeur d’anions.\nC. Vrai : À pH 5, c est négative et sort sans adsorption ; b et a sont positives et retenues. Un pH croissant élue b puis a, permettant la séparation.\nD. Faux : La chromatographie d’exclusion élue les plus grosses molécules d’abord : a ≈ 110 kDa, puis b = 100 kDa, puis c = 60 kDa.\nE. Faux : En SDS + réducteur, l’hétérotrimère c doit être dissocié en ses chaînes ; une unique bande de c à 60 kDa n’est pas compatible avec trois sous-unités totalisant 60 kDa.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 6,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 10,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 11,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 6,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q8": {
+    "answers": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : DGRFTRNW contient deux R et ne respecte ni la composition ni les fragments décrits.\nB. Faux : WGTRNFGD commence par W et se termine par D, à l’inverse des extrémités observées D et W.\nC. Faux : DGRNFTGW donnerait un tripeptide trypsique DGR, dont le N-terminal serait D, alors que TP3 commence par T.\nD. Vrai : DGFNRTGW est compatible : trypsine → DGFNR + TGW ; chymotrypsine → DGF + NRTGW ; DNFB identifie D puis T et N dans les fragments indiqués.\nE. Faux : TGWRNFGD commence par T et se termine par D, contrairement aux extrémités déterminées expérimentalement.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 9,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 10,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 14,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q9": {
+    "answers": [
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Vrai : ADN et ARN sont des polymères de nucléotides.\nB. Faux : L’ARN contient les bases puriques adénine et guanine.\nC. Faux : Les liaisons phosphodiester relient les sucres de nucléotides successifs via le phosphate ; le lien sucre–base est une liaison N-glycosidique.\nD. Vrai : Les bases de l’ARN sont A, G, C et U : U remplace T.\nE. Vrai : Les bases complémentaires des deux brins s’apparient par des liaisons hydrogène.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n7_carnet_Acides-Nucleiques.pdf",
+        "page": 5,
+        "label": "Acides nucléiques"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n7_carnet_Acides-Nucleiques.pdf",
+        "page": 7,
+        "label": "Acides nucléiques"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q10": {
+    "answers": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : Un génome procaryote petit se renature plus rapidement ; la complexité accrue ralentit la réassociation.\nB. Vrai : Une richesse en GC augmente la stabilité de l’ADN et sa température de fusion.\nC. Vrai : Le noyau d’une cellule humaine diploïde contient 46 chromosomes linéaires, organisés en 23 paires.\nD. Vrai : Le génome mitochondrial humain est un ADN circulaire.\nE. Faux : Les fonctions cellulaires vitales, comme la mitose, imposent une conservation plus forte que des fonctions telles que l’olfaction.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 5,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 7,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n°6_carnet_Introduction_au_genome.pdf",
+        "page": 5,
+        "label": "Introduction au génome"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n°6_carnet_Introduction_au_genome.pdf",
+        "page": 9,
+        "label": "Introduction au génome"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q11": {
+    "answers": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : Les chromosomes eucaryotes possèdent plusieurs origines de réplication.\nB. Vrai : Les ADN polymérases allongent une extrémité 3′-OH préexistante ; la primase produit les amorces ARN.\nC. Vrai : Le brin tardif est synthétisé sous forme de fragments d’Okazaki.\nD. Faux : Chaque fragment est synthétisé 5′ → 3′, comme tout ADN néosynthétisé.\nE. Faux : La progression est plus lente chez les eucaryotes : environ 100 nucléotides/s contre 1 000 chez les procaryotes dans le cours.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 7,
+        "label": "Réplication"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 12,
+        "label": "Réplication"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 13,
+        "label": "Réplication"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 16,
+        "label": "Réplication"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q12": {
+    "answers": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : Il faut d’abord convertir l’ARN en ADN complémentaire par transcription inverse.\nB. Vrai : La PCR décrite dans le cours utilise une ADN polymérase thermostable, la Taq polymérase.\nC. Faux : La PCR emploie deux amorces ; le séquençage Sanger en utilise une.\nD. Vrai : Le thermocycleur enchaîne les températures de dénaturation, hybridation et élongation.\nE. Faux : Dans le modèle idéal, l’amplification est 2ᴺ, et non 10ᴺ.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 11,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 12,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 13,
+        "label": "Techniques de biologie moléculaire"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q13": {
+    "answers": [
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Vrai : La méthode de Sanger repose sur une synthèse enzymatique d’ADN complémentaire.\nB. Faux : Les ddNTP sont minoritaires, environ 1 % dans le cours, en présence d’une majorité de dNTP.\nC. Vrai : Les ddNTP, privés de 3′-OH, empêchent l’ajout du nucléotide suivant.\nD. Vrai : Les fragments sont séparés selon leur longueur par électrophorèse.\nE. Faux : La méthode classique de Sanger n’est pas le séquençage massif parallèle à haut débit.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 13,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 14,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 15,
+        "label": "Techniques de biologie moléculaire"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q14": {
+    "answers": [
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : Pour un gène donné, la transcription progresse dans un sens défini depuis son promoteur.\nB. Vrai : La séquence du transcrit correspond au brin codant, avec U à la place de T ; le brin matrice est complémentaire.\nC. Faux : L’ARN polymérase peut initier une chaîne sans amorce.\nD. Faux : Les introns sont en moyenne plus longs que les exons dans les gènes eucaryotes.\nE. Vrai : L’ARNm doit être maturé avant son export nucléaire : coiffe, maturation 3′ et épissage selon le transcrit.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 6,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 7,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 11,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 15,
+        "label": "Transcription"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q15": {
+    "answers": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Vrai : Le chargement de l’ARNt commence par l’activation de l’acide aminé grâce à l’ATP.\nB. Vrai : La petite sous-unité intervient d’abord ; la grande sous-unité rejoint ensuite le complexe pour former le ribosome d’initiation fonctionnel.\nC. Vrai : L’élongation et la translocation utilisent des facteurs associés au GTP.\nD. Faux : La traduction des ARN messagers vaccinaux a lieu dans le cytoplasme, pas dans le noyau.\nE. Vrai : AUG est le codon d’initiation usuel et code la méthionine.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 4,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 7,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 10,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 11,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 12,
+        "label": "Traduction"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q16": {
+    "answers": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : Les modifications des queues N-terminales des histones participent au contrôle de l’accessibilité de la chromatine.\nB. Faux : Les protéines régulatrices reconnaissent normalement l’ADN par des interactions non covalentes.\nC. Faux : Le motif de méthylation étudié est 5′-CG-3′ (CpG), et non 5′-GC-3′.\nD. Faux : La régulation peut être réversible et varier selon l’état et les besoins de la cellule.\nE. Faux : Les domaines de reconnaissance décrits dans le cours interagissent avec le grand sillon.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 4,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 8,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 9,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 18,
+        "label": "Régulation de l’expression des gènes"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q17": {
+    "answers": [
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Vrai : Le thiol de la cystéine est ionisable et peut donner ou accepter un proton.\nB. Faux : L’acylation impliquant la sérine est un exemple de catalyse covalente, distincte du simple transfert de proton.\nC. Vrai : La fonction carboxylique de l’aspartate peut participer comme donneur ou accepteur de proton.\nD. Faux : La catalyse acide-base repose sur le transfert de protons ; l’attaque d’un carbone électrophile par un nucléophile relève de la catalyse covalente.\nE. Vrai : La catalyse enzymatique facilite le passage par l’état de transition et abaisse l’énergie d’activation.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 12,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 13,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 14,
+        "label": "Enzymologie 1"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q18": {
+    "answers": [
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "explanation": "A. Vrai : La représentation de Lineweaver-Burk utilise 1/[S] en abscisse et 1/v₀ en ordonnée (unités inverses de concentration et de vitesse).\nB. Faux : En A, l’ordonnée à l’origine est inchangée et la pente augmente : c’est une inhibition compétitive.\nC. Faux : En B, l’abscisse à l’origine est inchangée et 1/Vm augmente : c’est une inhibition non compétitive pure.\nD. Faux : En C, la droite I a une ordonnée à l’origine plus faible que R, soit une Vm plus élevée : ce tracé n’est pas celui d’un inhibiteur non compétitif.\nE. Vrai : En D, les droites sont parallèles, signature de l’inhibition incompétitive avec diminution de Vm et de Km dans le même rapport.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 19,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 21,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 23,
+        "label": "Enzymologie 2"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q19": {
+    "answers": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : La formule correcte est Vm = v₀(Km + [S])/[S]. L’expression proposée contient Vm au dénominateur et est fausse.\nB. Vrai : En isolant Vm dans v₀ = Vm[S]/(Km + [S]), on obtient bien Vm = v₀(Km/[S] + 1).\nC. Vrai : En isolant Km, on obtient Km = [S](Vm/v₀ − 1).\nD. Vrai : L’inversion donne 1/v₀ = (Km/Vm)(1/[S]) + 1/Vm.\nE. Faux : La forme correcte est v₀/[S] = Vm/Km − v₀/Km ; le premier terme proposé Km/Vm est inversé.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 9,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 12,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 13,
+        "label": "Enzymologie 2"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q20": {
+    "answers": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Faux : Le substrat se fixe au site de liaison du substrat ; les effecteurs ont des sites régulateurs distincts.\nB. Faux : Pour l’allostérie coopérative de type K visée ici, la courbe est sigmoïde. Le cours distingue aussi des systèmes V à allure hyperbolique.\nC. Faux : La vitesse tend vers une valeur maximale finie lorsque l’enzyme est saturée.\nD. Vrai : K₀,₅ (ou K½) est la concentration en substrat donnant la moitié de la vitesse maximale.\nE. Vrai : Un effecteur négatif favorise la conformation T, moins affine pour le substrat.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°15_Enzymologie3-1.pdf",
+        "page": 8,
+        "label": "Enzymologie 3"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°15_Enzymologie3-1.pdf",
+        "page": 9,
+        "label": "Enzymologie 3"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°15_Enzymologie3-1.pdf",
+        "page": 10,
+        "label": "Enzymologie 3"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q21": {
+    "answers": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : La citrate synthase condense l’acétyl-CoA avec l’oxaloacétate ; elle ne réduit pas le NAD⁺.\nB. Vrai : Le cours retient environ trois protons traversant l’ATP synthase par ATP formé ; cette valeur est celle à utiliser dans ce QCM.\nC. Vrai : La malate déshydrogénase oxyde le malate en oxaloacétate avec production de NADH,H⁺.\nD. Faux : Le NADH,H⁺ cède ses électrons au complexe I ; le complexe II correspond à la succinate déshydrogénase liée au FAD.\nE. Faux : La succinate déshydrogénase est le complexe II, pas le complexe I.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°17-cycle-de-Krebs-et-phosphorylation-oxydative-LAS.pdf",
+        "page": 5,
+        "label": "Cycle de Krebs et phosphorylation oxydative"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°17-cycle-de-Krebs-et-phosphorylation-oxydative-LAS.pdf",
+        "page": 9,
+        "label": "Cycle de Krebs et phosphorylation oxydative"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°17-cycle-de-Krebs-et-phosphorylation-oxydative-LAS.pdf",
+        "page": 11,
+        "label": "Cycle de Krebs et phosphorylation oxydative"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q22": {
+    "answers": [
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : La phosphorylation du glucose par ces deux kinases est irréversible dans les conditions cellulaires.\nB. Vrai : La glucokinase hépatique est particulièrement active en période postprandiale.\nC. Vrai : Dans le cours, l’hexokinase a une régulation allostérique ; la glucokinase est distinguée par sa régulation hormonale et métabolique.\nD. Faux : La glucokinase est plus spécifique du glucose ; l’hexokinase accepte plusieurs hexoses.\nE. Faux : La glucokinase produit du glucose-6-phosphate à partir du glucose. Le trajet inverse utilise la glucose-6-phosphatase.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 5,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 6,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 8,
+        "label": "Digestion des glucides et glycolyse"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q23": {
+    "answers": [
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Vrai : Chaque cycle d’allongement utilise un malonyl-CoA, dont deux carbones sont incorporés après décarboxylation.\nB. Faux : Le tableau du cours donne environ 86 % de triglycérides pour les chylomicrons, bien davantage que 20 %.\nC. Faux : –OOC–CO–CH₃ correspond au pyruvate. L’acétoacétate est –OOC–CH₂–CO–CH₃.\nD. Vrai : La synthèse des acides gras par l’acide gras synthase est cytosolique.\nE. Vrai : Les réductions de la lipogenèse utilisent le NADPH,H⁺.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 4,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 7,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 8,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 12,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 7,
+        "label": "Métabolisme et transport des lipides"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q24": {
+    "answers": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Faux : La PEPCK utilise l’oxaloacétate et le GTP pour produire le phosphoénolpyruvate, pas directement le malate.\nB. Faux : L’oxaloacétate est converti, notamment en malate, pour transférer son équivalent vers le cytosol.\nC. Faux : Le glycogène possède des liaisons α1→4 et des ramifications α1→6, pas des liaisons β.\nD. Vrai : La glycogène phosphorylase réalise une phosphorolyse libérant du glucose-1-phosphate.\nE. Vrai : Le foie exprime la glucose-6-phosphatase et peut libérer du glucose dans le sang.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 8,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 9,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 12,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 14,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 6,
+        "label": "Digestion des glucides et glycolyse"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2023-2024-q25": {
+    "answers": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : Dans le cadre du cours, les deux grandes réserves de glycogène sont le foie et le muscle ; le rein intervient surtout dans la néoglucogenèse.\nB. Faux : Le cours distingue l’hexokinase de la glucokinase : c’est la glucokinase qui est retenue pour le foie (la glucokinase est aussi appelée hexokinase IV dans une nomenclature plus large).\nC. Faux : La cétogenèse étudiée est hépatique ; le muscle utilise les corps cétoniques.\nD. Faux : Le foie produit et exporte l’acétoacétate mais ne l’utilise pas dans la cétolyse.\nE. Vrai : Le muscle oxyde le pyruvate en acétyl-CoA grâce à la pyruvate déshydrogénase mitochondriale.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 4,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 11,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 5,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 12,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 15,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°22-interrelations-metaboliques-LAS.pdf",
+        "page": 7,
+        "label": "Interrelations métaboliques"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q1": {
+    "answers": [
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "explanation": "A. Faux : La figure est celle de l’asparagine (N) : sa chaîne latérale amide est polaire mais non chargée.\nB. Vrai : L’asparagine est synthétisable par l’organisme et n’appartient pas aux acides aminés essentiels.\nC. Vrai : Le pI usuel de l’asparagine est d’environ 5,41, inférieur à celui de l’isoleucine (environ 6,02). Ces valeurs complètent les pKa simplifiés du cours.\nD. Vrai : Un résidu d’asparagine peut être modifié, notamment par N-glycosylation dans une protéine et un contexte appropriés.\nE. Vrai : Le code à une lettre de l’asparagine est N ; celui de la glutamine est Q.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 17,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 22,
+        "label": "Acides aminés"
+      }
+    ],
+    "correctionStatus": "unofficial",
+    "externalReferences": [
+      {
+        "url": "https://chem.ucalgary.ca/courses/351/Carey5th/Ch27/ch27-1-4-2.html",
+        "label": "University of Calgary — pKa et pI des acides aminés (complément pour l’item C)"
+      }
+    ]
+  },
+  "annale-2024-2025-q2": {
+    "answers": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : Les hélices gauches se placent dans la zone φ et ψ positifs du diagramme de Ramachandran.\nB. Faux : La proline introduit une contrainte et interrompt une hélice α régulière ; cette séquence n’est donc pas favorable à sa formation.\nC. Vrai : Dans les feuillets parallèles, un résidu établit ses liaisons hydrogène avec deux résidus distincts du brin voisin.\nD. Faux : Les chaînes latérales des résidus d’une hélice α sont orientées vers l’extérieur.\nE. Faux : Les feuillets antiparallèles ont des liaisons hydrogène plus rectilignes et sont plus stables que les parallèles.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 9,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 12,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 13,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 15,
+        "label": "Niveaux d’architecture des protéines"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q3": {
+    "answers": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : Le DNFB identifie le résidu N-terminal de chaque chaîne, et ne séquence pas successivement 3 à 5 résidus.\nB. Faux : La liaison peptidique absorbe à 210 nm. Le signal à 280 nm dépend surtout des résidus aromatiques.\nC. Vrai : Le pI de la protéine et le pH de travail déterminent sa charge et orientent le choix de l’échangeur d’ions.\nD. Faux : Le bleu de Coomassie, anionique, interagit notamment avec les groupements basiques des protéines.\nE. Faux : Après clivage au CNBr et séparation, les fragments peuvent être séquencés par dégradation d’Edman.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 9,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 10,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 13,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 5,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 6,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 11,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q4": {
+    "answers": [
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : Les liaisons ioniques qui se rompent stabilisent la forme T désoxygénée, et non la forme R.\nB. Vrai : La position du fer et de l’histidine proximale varie avec la fixation d’O₂ : la myoglobine présente deux conformations tertiaires légèrement différentes.\nC. Vrai : Le 2,3-BPG se lie aux résidus β His H21, stabilise la forme T et diminue l’affinité de l’hémoglobine pour O₂.\nD. Faux : Une augmentation de la pCO₂ favorise la libération de l’oxygène par l’hémoglobine dans les tissus.\nE. Vrai : La chaîne γ de l’Hb fœtale lie moins le 2,3-BPG que la chaîne β adulte, ce qui contribue à sa plus forte affinité pour O₂.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 8,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 10,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 13,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 14,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q5": {
+    "answers": [
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Vrai : Il s’agit de la convention de signe de φ et ψ présentée dans le cours, vue depuis le carbone α.\nB. Vrai : Un rapprochement inférieur à la distance de contact de van der Waals crée un encombrement stérique et interdit la conformation.\nC. Faux : La formation de la liaison peptidique est thermodynamiquement défavorable et demande de l’énergie.\nD. Vrai : Le plan peptidique inclut les deux Cα, le carbone du carbonyle, O, N et H : trois carbones et trois autres atomes.\nE. Vrai : La glycine, dont la chaîne latérale est un hydrogène, a un très faible encombrement et autorise de nombreux angles et repliements.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 5,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 6,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 8,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 9,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 14,
+        "label": "Acides aminés"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q6": {
+    "answers": [
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Vrai : La carboxypeptidase A peut libérer la valine C-terminale : le fragment restant compte huit résidus.\nB. Faux : La tyrosine est suivie de proline ; l’exception Y–P empêche la coupure attendue par la chymotrypsine.\nC. Faux : La proline réagit avec la ninhydrine en donnant une couleur jaune, contrairement à la plupart des autres acides aminés.\nD. Vrai : Le CNBr coupe après la méthionine en position 5 : AGQKM et YPSV comptent cinq et quatre résidus.\nE. Vrai : Neuf résidus à environ 110 Da donnent environ 990 Da, compatible avec l’intervalle proposé autour de 1 kDa.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 9,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 13,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-Copie-de-2526_biochimie_las_№3.2_methode-detude.pdf",
+        "page": 14,
+        "label": "Méthodes d’étude des protéines — séquençage"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q7": {
+    "answers": [
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : Les ponts disulfure peuvent stabiliser certaines protéines, mais ne sont pas indispensables à toute structure tertiaire ; les interactions faibles jouent un rôle majeur.\nB. Vrai : La conformation tertiaire native d’une protéine globulaire conditionne son activité biologique.\nC. Vrai : L’enrichissement en feuillets β de PrPˢᶜ accompagne sa conformation anormale et son pouvoir pathogène.\nD. Faux : Un protomère est une unité répétée fonctionnelle d’un oligomère et peut réunir plusieurs chaînes ; il ne se réduit pas nécessairement à une chaîne.\nE. Vrai : Les trois hélices gauches du tropocollagène sont associées en superhélice droite stabilisée par des liaisons hydrogène interchaînes.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 17,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 23,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 24,
+        "label": "Niveaux d’architecture des protéines"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2425_Bch_las_n°2_carnet_Niveaux-darchitecture-des.pdf",
+        "page": 28,
+        "label": "Niveaux d’architecture des protéines"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q8": {
+    "answers": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : À pH 5, N-terminal, R et K apportent +3 ; E et C-terminal apportent −2 : la charge nette est +1, pas +2.\nB. Vrai : Le peptide contient de l’asparagine, résidu support de N-glycosylation dans le cours. Cette réponse suit la règle pédagogique ; la glycosylation effective dépend du contexte et du motif de reconnaissance.\nC. Faux : À pH 8, ce peptide conserve une charge globale positive dans le modèle du cours ; il ne sera pas retenu efficacement par la résine DEAE, échangeuse d’anions.\nD. Faux : Parmi ces résidus, M et K sont essentiels. L’arginine est conditionnellement essentielle et n’appartient pas à la liste des neuf essentiels de l’adulte.\nE. Faux : À pH 5, les chaînes latérales portent deux charges positives (R et K) et une négative (E), donc pas autant.",
+    "courseReferences": [
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 16,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 17,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Carnet20120-20Acide20AmineCC81s20-20LAS.pdf",
+        "page": 26,
+        "label": "Acides aminés"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 11,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/Copie-de-2526_biochimie_las_№3.1_carnet_methode-detude.pdf",
+        "page": 12,
+        "label": "Méthodes d’étude des protéines — dosages et chromatographie"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q9": {
+    "answers": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Vrai : Les orientations des deux brins complémentaires de l’ADN sont antiparallèles.\nB. Vrai : L’adénine et la guanine sont les bases puriques.\nC. Vrai : L’appariement A–T comporte deux liaisons hydrogène entre les bases portées par les nucléosides.\nD. Faux : Les acides nucléiques sont des polymères de nucléotides, qui comportent aussi un phosphate.\nE. Vrai : La complémentarité des bases permet l’hybridation par liaisons hydrogène.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n7_carnet_Acides-Nucleiques.pdf",
+        "page": 5,
+        "label": "Acides nucléiques"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n7_carnet_Acides-Nucleiques.pdf",
+        "page": 7,
+        "label": "Acides nucléiques"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q10": {
+    "answers": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Vrai : À conditions comparables, les génomes procaryotes plus petits se renaturent plus vite.\nB. Vrai : Dans un ADN bicaténaire, plus de G signifie plus de paires GC, ce qui augmente la température de fusion.\nC. Vrai : L’ADN mitochondrial humain est circulaire.\nD. Vrai : Une cellule somatique diploïde humaine possède 22 paires d’autosomes et une paire de chromosomes sexuels.\nE. Faux : La taille totale du génome n’est pas directement proportionnelle à la complexité d’un organisme.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 5,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 7,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n°6_carnet_Introduction_au_genome.pdf",
+        "page": 5,
+        "label": "Introduction au génome"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_biochimie_las_n°6_carnet_Introduction_au_genome.pdf",
+        "page": 6,
+        "label": "Introduction au génome"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q11": {
+    "answers": [
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Vrai : Plusieurs origines par chromosome permettent la réplication du génome eucaryote.\nB. Faux : Semi-conservative signifie que chaque double hélice fille conserve un brin parental et contient un brin nouveau.\nC. Vrai : La polymérase ajoute successivement des nucléotides sans se détacher à chaque ajout : c’est la processivité.\nD. Vrai : Le clamp stabilise l’association polymérase–ADN et augmente la processivité.\nE. Faux : Les fragments d’Okazaki sont synthétisés 5′ → 3′.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 4,
+        "label": "Réplication"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 6,
+        "label": "Réplication"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 7,
+        "label": "Réplication"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°9_Replication.pdf",
+        "page": 13,
+        "label": "Réplication"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q12": {
+    "answers": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Faux : Le choix du brin matrice dépend de l’orientation du gène ; le même brin d’un chromosome ne sert pas toujours de matrice.\nB. Faux : Les niveaux de transcription varient fortement entre les gènes et selon le type cellulaire.\nC. Faux : Un exon est une séquence conservée après épissage ; les régions 5′-UTR et 3′-UTR sont exoniques mais non codantes.\nD. Vrai : L’épissage élimine les introns du pré-ARNm.\nE. Vrai : La coiffe et la queue poly(A), notamment, contribuent à la stabilité et au devenir des ARNm.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 6,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 7,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 11,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 13,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 14,
+        "label": "Transcription"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°10_carnet_Transcription.pdf",
+        "page": 15,
+        "label": "Transcription"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q13": {
+    "answers": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : La traduction a lieu sur les ribosomes cytoplasmiques, avec une traduction spécifique supplémentaire dans les mitochondries, pas dans le noyau.\nB. Vrai : La chaîne peptidique s’allonge de l’extrémité N-terminale vers l’extrémité C-terminale.\nC. Faux : C’est l’ARN messager qui est traduit ; les ARNt sont les adaptateurs portant les acides aminés.\nD. Vrai : Plusieurs codons peuvent désigner le même acide aminé, d’où la dégénérescence du code.\nE. Faux : Le wobble concerne le troisième nucléotide du codon et le premier de l’anticodon.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 3,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 4,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 6,
+        "label": "Traduction"
+      },
+      {
+        "file": "COURS/2 Biomol/BIOCHIMIE_CARNET_n°11_TRADUCTION.pdf",
+        "page": 7,
+        "label": "Traduction"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q14": {
+    "answers": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : Les interactions physiologiques entre protéines régulatrices et ADN sont non covalentes.\nB. Faux : Certaines protéines régulatrices agissent via d’autres protéines ou la chromatine sans lier directement l’ADN.\nC. Vrai : Les doigts de zinc font partie des motifs de liaison à l’ADN décrits dans le cours.\nD. Faux : Le mécanisme étudié concerne surtout les cytosines de motifs CpG ; toutes les cytosines ne sont pas équivalentes.\nE. Faux : L’empreinte parentale est un mécanisme épigénétique eucaryote, notamment chez les mammifères.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 8,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 9,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 18,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 20,
+        "label": "Régulation de l’expression des gènes"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°12_carnet_regulation-et-expression-des-genes.pdf",
+        "page": 21,
+        "label": "Régulation de l’expression des gènes"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q15": {
+    "answers": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : L’ARN viral doit d’abord être rétrotranscrit en ADN complémentaire.\nB. Vrai : Dans le modèle idéal de PCR, chaque cycle double la quantité d’ADN cible.\nC. Vrai : Le protocole du cours utilise une Taq polymérase thermostable.\nD. Vrai : La séparation des brins d’ADN est obtenue par une étape de chauffage.\nE. Faux : Deux amorces encadrant le fragment cible sont nécessaires.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 11,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 12,
+        "label": "Techniques de biologie moléculaire"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q16": {
+    "answers": [
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "explanation": "A. Vrai : Les ddNTP sont les terminateurs de chaîne utilisés par Sanger.\nB. Vrai : Dans la méthode automatisée, ils portent des marqueurs fluorescents permettant de reconnaître la base terminale.\nC. Faux : La modification décisive est l’absence de OH en 3′, qui empêche la poursuite de la polymérisation, et non une modification du carbone 5′.\nD. Faux : Une seule amorce est utilisée pour séquencer un brin par Sanger.\nE. Vrai : Les fragments de tailles différentes sont séparés par électrophorèse avant lecture.",
+    "courseReferences": [
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 13,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 14,
+        "label": "Techniques de biologie moléculaire"
+      },
+      {
+        "file": "COURS/2 Biomol/2526_bch_las_n°8_carnet_techniques-de-biologie-moleculaire.pdf",
+        "page": 15,
+        "label": "Techniques de biologie moléculaire"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q17": {
+    "answers": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : Un catalyseur change la vitesse d’atteinte de l’équilibre, pas la position de cet équilibre.\nB. Faux : Les enzymes sont flexibles ; la fixation d’un ligand peut modifier leur conformation.\nC. Faux : L’enzyme est régénérée à la fin du cycle catalytique et n’est pas consommée globalement.\nD. Faux : Il n’existe pas de domaine de dimérisation universel : de nombreuses enzymes ne sont pas dimériques.\nE. Vrai : L’état d’ionisation des groupements du site actif et la conformation dépendent du pH.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 4,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 9,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 10,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 14,
+        "label": "Enzymologie 2"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q18": {
+    "answers": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : La catalyse covalente passe par un intermédiaire transitoire instable, et non un composé covalent stable accumulé.\nB. Faux : Les coenzymes sont des molécules organiques non protéiques ; plusieurs dérivent de vitamines.\nC. Faux : L’enzyme abaisse la barrière d’énergie d’activation.\nD. Vrai : Mg²⁺ est un cofacteur métallique possible, par exemple pour des réactions impliquant des nucléotides phosphorylés.\nE. Faux : La vitesse initiale se mesure dans la phase stationnaire initiale, avant que consommation du substrat et accumulation du produit ne modifient fortement la pente.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 11,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 12,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2525_biochimie_Carnet_Enzymo1_n°13.pdf",
+        "page": 13,
+        "label": "Enzymologie 1"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 5,
+        "label": "Enzymologie 2"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q19": {
+    "answers": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : v₀ = Vm[S]/(Km + [S]) exprime la dépendance de la vitesse initiale à la concentration en substrat.\nB. Vrai : Dans le modèle simple, v₀ = kcat[ES] : elle est proportionnelle à la quantité de complexe enzyme–substrat.\nC. Faux : La température modifie la vitesse de réaction et peut aussi dénaturer l’enzyme.\nD. Faux : Km est une constante caractérisant le système enzyme–substrat dans des conditions fixées ; elle ne varie pas simplement parce que l’on change [S].\nE. Faux : Un inhibiteur incompétitif diminue Vm et Km dans le même rapport ; Vm apparente/Km apparente reste donc inchangé.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 8,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 9,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 15,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 23,
+        "label": "Enzymologie 2"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q20": {
+    "answers": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Faux : Le graphe présente directement v₀ en fonction de [S] : c’est une représentation de Michaelis, pas d’Eadie-Hofstee.\nB. Faux : Une inhibition compétitive conserve la même Vm à saturation, contrairement aux plateaux B et C plus bas.\nC. Vrai : B et C montrent une Vm diminuée avec un Km inchangé, ce qui correspond à l’inhibition non compétitive pure.\nD. Faux : L’inhibition incompétitive diminue à la fois Vm et Km ; les demi-vitesses ne seraient pas obtenues au même [S] comme ici.\nE. Faux : Un activateur allostérique augmente l’activité dans les conditions considérées ; B et C représentent ici des activités diminuées.",
+    "courseReferences": [
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 19,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 21,
+        "label": "Enzymologie 2"
+      },
+      {
+        "file": "COURS/3 Enzymiologie/2526_bch_las_carnet_n°14_Enzymologie2-1-1.pdf",
+        "page": 23,
+        "label": "Enzymologie 2"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q21": {
+    "answers": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "explanation": "A. Faux : Le NADH,H⁺ alimente le complexe I ; le complexe II est associé à la succinate déshydrogénase et au FAD.\nB. Faux : Le cytochrome c est hydrophile et mobile à la face intermembranaire ; c’est l’ubiquinone qui diffuse dans la membrane.\nC. Vrai : Les électrons issus du FADH₂ rejoignent la chaîne et permettent au complexe IV de réduire O₂ en eau avec des protons matriciels.\nD. Faux : L’enzyme est l’ATP synthase, et non une « ATP phosphorylase ».\nE. Vrai : Le complexe II est la succinate déshydrogénase.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°17-cycle-de-Krebs-et-phosphorylation-oxydative-LAS.pdf",
+        "page": 9,
+        "label": "Cycle de Krebs et phosphorylation oxydative"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°17-cycle-de-Krebs-et-phosphorylation-oxydative-LAS.pdf",
+        "page": 10,
+        "label": "Cycle de Krebs et phosphorylation oxydative"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°17-cycle-de-Krebs-et-phosphorylation-oxydative-LAS.pdf",
+        "page": 11,
+        "label": "Cycle de Krebs et phosphorylation oxydative"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q22": {
+    "answers": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : La PFK1 catalyse une étape irréversible propre à la glycolyse ; le trajet opposé utilise la fructose-1,6-bisphosphatase.\nB. Faux : Le glucose-6-phosphate inhibe l’hexokinase. La pyruvate kinase est notamment inhibée par l’ATP et activée par le fructose-1,6-bisphosphate.\nC. Faux : Le 2,3-BPG appartient surtout à une dérivation de la glycolyse des hématies ; il n’est pas un intermédiaire obligatoire dans toutes les cellules.\nD. Vrai : La PFK1 phosphoryle le fructose-6-phosphate en fructose-1,6-bisphosphate.\nE. Faux : Une charge énergétique élevée, signalée par l’ATP, inhibe allostériquement la PFK1.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 8,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 9,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°18-digestion-des-glucides-et-glycolyse-LAS.pdf",
+        "page": 10,
+        "label": "Digestion des glucides et glycolyse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526_biochimie_las_n°19_carnet_neoglucogenese-et-metabolisme-du-glycogene-1.pdf",
+        "page": 6,
+        "label": "Néoglucogenèse et métabolisme du glycogène"
+      },
+      {
+        "file": "COURS/1 Biochimie structurale/2526-biochimie-carnet-n°3-relation-structure-fonction-LAS-1.pdf",
+        "page": 14,
+        "label": "Relations structure-fonction : myoglobine et hémoglobine"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q23": {
+    "answers": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "explanation": "A. Faux : Le tableau du cours donne environ 44 % de cholestérol pour les LDL, pas 10 %.\nB. Faux : Le foie synthétise VLDL et HDL, mais les chylomicrons sont synthétisés dans l’intestin.\nC. Vrai : Les HDL sont les plus denses des grandes classes de lipoprotéines.\nD. Vrai : Le cours indique 49 % de triglycérides dans les VLDL, soit environ la moitié.\nE. Faux : La lipoprotéine lipase hydrolyse les triglycérides, et non le cholestérol.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 6,
+        "label": "Métabolisme et transport des lipides"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 7,
+        "label": "Métabolisme et transport des lipides"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 8,
+        "label": "Métabolisme et transport des lipides"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q24": {
+    "answers": [
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "explanation": "A. Vrai : L’acide gras doit être activé par l’acyl-CoA synthétase avant sa β-oxydation.\nB. Faux : Le fragment terminal à trois carbones est le propionyl-CoA, transformé en succinyl-CoA, pas directement en oxaloacétate.\nC. Faux : La β-oxydation n’est pas limitée au foie et au muscle ; d’autres tissus oxydent aussi les acides gras.\nD. Vrai : Dans le cadre mitochondrial décrit au cours, les acyl-CoA à plus de 12 carbones empruntent la navette carnitine.\nE. Vrai : La β-oxydation libère de l’acétyl-CoA, utilisable par le cycle de Krebs ou la cétogenèse hépatique.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 10,
+        "label": "Métabolisme et transport des lipides"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 11,
+        "label": "Métabolisme et transport des lipides"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 12,
+        "label": "Métabolisme et transport des lipides"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°20-metabolisme-et-transport-des-lipides-LAS.pdf",
+        "page": 14,
+        "label": "Métabolisme et transport des lipides"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 3,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  },
+  "annale-2024-2025-q25": {
+    "answers": [
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "explanation": "A. Vrai : Le myocarde utilise notamment le glucose, les acides gras et les corps cétoniques comme substrats énergétiques.\nB. Vrai : Le cours situe la cétogenèse exclusivement dans les mitochondries hépatiques ; c’est la convention retenue pour cette annale.\nC. Vrai : L’acétoacétate est activé en acétoacétyl-CoA, puis clivé en deux acétyl-CoA.\nD. Faux : L’α-cétoglutarate est un intermédiaire du cycle de Krebs, pas un corps cétonique.\nE. Faux : Les corps cétoniques sont exportés vers les tissus utilisateurs ; ils ne sont pas stockés en polymères dans le foie.",
+    "courseReferences": [
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°22-interrelations-metaboliques-LAS.pdf",
+        "page": 7,
+        "label": "Interrelations métaboliques"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 12,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 14,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 15,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      },
+      {
+        "file": "COURS/4 Métabolisme/2526-biochimie-carnet-n°21-biosynthese-des-acides-gras-et-cetogenese-LAS.pdf",
+        "page": 16,
+        "label": "Biosynthèse des acides gras et cétogenèse"
+      }
+    ],
+    "correctionStatus": "unofficial"
+  }
+}
