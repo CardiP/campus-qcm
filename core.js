@@ -1,4 +1,4 @@
-export function hasCorrection(q) { return Array.isArray(q.answers) && q.answers.length===5 && q.answers.every(v=>typeof v==='boolean'); }
+export function hasCorrection(q) { return !q.missingFigure && Array.isArray(q.answers) && q.answers.length===5 && q.answers.every(v=>typeof v==='boolean'); }
 export const LETTERS = ['A','B','C','D','E'];
 export function shuffled(items, rng = Math.random) { const out=[...items]; for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]];} return out; }
 export function filterQuestions(questions, filters, progress = {}) {
@@ -30,6 +30,9 @@ export function validateQuestion(raw, index, subject='anatomie') {
 }
 // Offer selectable text alongside the faithful original images only when all five item boundaries are unambiguous.
 export function readableQuestion(q) {
+ // Anatomy imports include reviewed boundaries (inline PDF item numbers and TD
+ // adaptations cannot reliably be reparsed from the raw text at display time).
+ if(q.transcriptionVerified===true && Array.isArray(q.choices) && q.choices.length===5 && q.choices.every(t=>typeof t==='string'&&t.trim()))return {intro:q.title||'',choices:q.choices};
  if(!q.text || !Array.isArray(q.itemNumbers) || q.itemNumbers.length!==5) return null;
  const matches=q.itemNumbers.map(n=>new RegExp('(?:^|\\n)\\s*'+Number(n)+'\\s*[.)]\\s*(?:(?:OUI\\s*[/]\\s*NON)\\s*:?\\s*)?','i').exec(q.text));
  if(matches.some(m=>!m))return null;
