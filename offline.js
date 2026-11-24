@@ -1,4 +1,4 @@
-export const RELEASE = '20261124-5';
+export const RELEASE = '20261124-6';
 export const MEDIA_CACHE = 'campus-qcm-media-v1';
 
 export function questionAssets(questions, baseURL) {
@@ -6,7 +6,12 @@ export function questionAssets(questions, baseURL) {
     .map(path => new URL(path, baseURL).href))];
 }
 
-// One queue for the whole library: the current session always goes first.
+export function orderedSessionAssets(questions, index, baseURL) {
+  const current = Math.max(0, Math.min(index, questions.length - 1));
+  return questionAssets([...questions.slice(current), ...questions.slice(0, current)], baseURL);
+}
+
+// Only the selected session is downloaded, starting at the current question.
 export class ImageDownloader {
   constructor({urls, cache, fetcher = (url, options) => fetch(url, options), onChange = () => {}, concurrency = 4}) {
     this.urls = [...new Set(urls)];
@@ -15,24 +20,27 @@ export class ImageDownloader {
     this.onChange = onChange;
     this.concurrency = concurrency;
     this.cached = new Set();
-    this.priority = [];
     this.running = false;
     this.paused = false;
     this.failures = 0;
-    this.controllers = new Set();
+    this.controllers = new Map();
   }
   async scan() {
     const keys = await this.cache.keys();
     this.cached = new Set(keys.map(key => key.url));
     this.onChange();
   }
-  prioritize(urls) {
-    this.priority = urls;
-    this.queue = [...new Set([...urls, ...this.urls])].filter(url => !this.cached.has(url) && !this.inFlight?.has(url));
+  setTargets(urls) {
+    this.urls = [...new Set(urls)];
+    const targets = new Set(this.urls);
+    for (const [url, controller] of this.controllers) {
+      if (!targets.has(url)) controller.abort();
+    }
+    this.queue = this.urls.filter(url => !this.cached.has(url) && !this.inFlight?.has(url));
   }
   pause() {
     this.paused = true;
-    for (const controller of this.controllers) controller.abort();
+    for (const controller of this.controllers.values()) controller.abort();
     this.onChange();
   }
   async resume() {
@@ -40,7 +48,7 @@ export class ImageDownloader {
     this.paused = false;
     this.failures = 0;
     this.inFlight = new Set();
-    this.prioritize(this.priority);
+    this.setTargets(this.urls);
     this.running = true;
     this.onChange();
     this.task = Promise.all(Array.from({length: this.concurrency}, () => this.work()))
@@ -52,7 +60,7 @@ export class ImageDownloader {
       const url = this.queue.shift();
       this.inFlight.add(url);
       const controller = new AbortController();
-      this.controllers.add(controller);
+      this.controllers.set(url, controller);
       const timer = setTimeout(() => controller.abort(), 15000);
       try {
         const response = await this.fetcher(url, {signal: controller.signal});
@@ -61,10 +69,11 @@ export class ImageDownloader {
         this.cached.add(url);
         this.failures = 0;
       } catch {
-        if (++this.failures >= 3) this.paused = true;
+        // Switching sessions deliberately cancels old requests; it is not a network failure.
+        if (this.urls.includes(url) && ++this.failures >= 3) this.paused = true;
       } finally {
         clearTimeout(timer);
-        this.controllers.delete(controller);
+        this.controllers.delete(url);
         this.inFlight.delete(url);
         this.onChange();
       }
@@ -72,7 +81,7 @@ export class ImageDownloader {
   }
 }
 
-export async function prepareOffline(questions, onChange) {
+export async function prepareOffline(onChange) {
   if (!('serviceWorker' in navigator) || !('caches' in window)) throw new Error('Offline storage unavailable');
   let registration;
   try {
@@ -98,7 +107,7 @@ export async function prepareOffline(questions, onChange) {
     done();
   });
   const downloader = new ImageDownloader({
-    urls: questionAssets(questions, document.baseURI),
+    urls: [],
     cache: await caches.open(MEDIA_CACHE),
     onChange
   });
