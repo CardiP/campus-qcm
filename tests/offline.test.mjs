@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import vm from 'node:vm';
-import {ImageDownloader, questionAssets, RELEASE, MEDIA_CACHE} from '../public/offline.js';
+import {ImageDownloader, questionAssets, orderedSessionAssets, RELEASE, MEDIA_CACHE} from '../public/offline.js';
 
 const root = 'https://example.test/campus-qcm/';
 const image = () => new Response('image bytes', {headers: {'Content-Type': 'image/webp'}});
@@ -31,7 +31,7 @@ test('prefetch prioritizes a session, persists images, and skips already saved f
   const fetched = [];
   const downloader = new ImageDownloader({urls, cache, concurrency: 1, fetcher: async url => {fetched.push(url); return image();}});
   await downloader.scan();
-  downloader.prioritize(urls.slice(2));
+  downloader.setTargets([urls[2], urls[3], urls[0], urls[1]]);
   await downloader.resume();
   assert.deepEqual(fetched, [urls[2], urls[3], urls[1]]);
   assert.equal(downloader.cached.size, 4);
@@ -39,6 +39,54 @@ test('prefetch prioritizes a session, persists images, and skips already saved f
   await reopened.scan();
   await reopened.resume();
   assert.equal(reopened.cached.size, 4);
+});
+
+test('no session means no image requests, even when previous sessions are cached', async () => {
+  const cache=memoryCache();
+  await cache.put(root+'old.webp',image());
+  const downloader=new ImageDownloader({urls:[],cache,fetcher:()=>{throw Error('no session selected');}});
+  await downloader.scan();
+  await downloader.resume();
+  assert.equal(downloader.failures,0);
+  assert.deepEqual(downloader.urls,[]);
+});
+
+test('answering or jumping ahead promotes the current and next QCM before earlier missing images', async () => {
+  const questions=Array.from({length:5},(_,i)=>({images:[`q${i}.webp`],correctionImages:[`c${i}.webp`]}));
+  const initial=questionAssets(questions,root);
+  const order=orderedSessionAssets(questions,3,root);
+  assert.deepEqual(order.slice(0,4),['q3.webp','c3.webp','q4.webp','c4.webp'].map(path=>root+path));
+  let releaseFirst;
+  const first=new Promise(resolve=>{releaseFirst=resolve;});
+  const fetched=[];
+  const downloader=new ImageDownloader({urls:initial,cache:memoryCache(),concurrency:1,fetcher:async url=>{
+    fetched.push(url);
+    if(url===initial[0])await first;
+    return image();
+  }});
+  const task=downloader.resume();
+  downloader.setTargets(order);
+  releaseFirst();
+  await task;
+  assert.deepEqual(fetched.slice(1,5),order.slice(0,4));
+  assert.equal(new Set(fetched).size,10);
+});
+
+test('changing sessions cancels the old request and downloads only the new selection', async () => {
+  const fetched=[];
+  const old=root+'old.webp', next=[root+'new.webp',root+'new-correction.webp'];
+  const downloader=new ImageDownloader({urls:[old,root+'unwanted.webp'],cache:memoryCache(),concurrency:1,
+    fetcher:async(url,{signal})=>{
+      fetched.push(url);
+      if(url===old)await new Promise((resolve,reject)=>signal.addEventListener('abort',()=>reject(Error('aborted'))));
+      return image();
+    }});
+  const task=downloader.resume();
+  downloader.setTargets(next);
+  await task;
+  assert.deepEqual(fetched,[old,...next]);
+  assert.deepEqual([...downloader.cached],next);
+  assert.equal(downloader.failures,0);
 });
 
 test('network loss pauses downloads without discarding saved images; reconnection downloads the rest', async () => {
