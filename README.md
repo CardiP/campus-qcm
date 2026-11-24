@@ -2,7 +2,7 @@
 
 **Site en ligne : [cardip.github.io/campus-qcm](https://cardip.github.io/campus-qcm/)**
 
-Site de révision adapté au téléphone et au PC, créé à partir des documents de biochimie et d’anatomie fournis.
+Site de révision adapté au téléphone et au PC, créé à partir des documents de biochimie, d’anatomie et de médicament fournis.
 
 - Biochimie : 869 QCM — 130 annales (2020–2025), 50 examens blancs, 25 TD et 664 questions des banques.
 - Filtrage par type, document, domaine et chapitre ; mélange et sélection de la longueur de session.
@@ -13,7 +13,7 @@ Site de révision adapté au téléphone et au PC, créé à partir des document
 - QCM dont une réponse reste ambiguë accessibles, avec explication, mais exclus du score.
 - Progression, reprise de session, travail des erreurs et import/export des sauvegardes.
 - Anatomie : 1 261 QCM — 988 questions de banques, 175 annales, 70 examens blancs et 28 TD. Les 58 PDF du dossier fourni sont inventoriés.
-- Médicament reste disponible pour les imports JSON et la saisie de questions. Le S2 reste à créer.
+- Médicament : 1 007 QCM distincts issus des banques, des examens blancs, des annales et des ACC fournis ; 502 occurrences répétées sont regroupées. Le S2 reste à créer.
 
 Les données personnelles sont conservées dans le navigateur (`localStorage`). La sauvegarde JSON permet de les transférer entre appareils. Il n’y a ni compte ni synchronisation automatique. Les imports personnels ne modifient pas le site partagé.
 
@@ -74,3 +74,21 @@ node scripts/validate-data.mjs
 ```
 
 Le PDF scanné de 2020–2021 utilise la transcription OCR locale et ses coordonnées conservées dans `scripts/data/anatomie-2021-ocr.json`. Les PDF originaux et les cours ne sont pas nécessaires pour utiliser le site déjà généré.
+
+## Import Médicament
+
+Les dossiers `qcm medicament`, `ACC MED` et `ACC MEDS PASS`, ainsi que leurs copies dans `MEDS`, sont inventoriés par empreinte SHA-256. Les 92 PDF uniques de QCM et corrigés sont pris en compte. Les 1 509 occurrences exploitables donnent 1 007 QCM distincts. Les 80 copies identiques de fichiers de l’ensemble QCM/cours ne sont pas réimportées. Les questions supplémentaires complètes trouvées uniquement dans un corrigé sont également récupérées.
+
+Chaque question conserve toutes ses provenances. Un filtre de document retrouve la question dans l’ordre de ce document ; une session mélangée ne la répète pas. Les cinq annales contiennent chacune 28 questions. Des variantes qui changent un chiffre, une négation, un contexte ou la consigne exacte/inexacte restent distinctes. Les tableaux communs et les données des questions précédentes accompagnent les questions dépendantes.
+
+83 corrections sont complétées ou arbitrées et marquées **non officielles**, avec références aux carnets. Les questions biologiques qui dépassent les cours fournis indiquent aussi leurs références institutionnelles complémentaires. Neuf questions comportent au moins un item ambigu : toutes leurs propositions sont discutées, mais elles sont exclues du score. Les 302 QCM disposant uniquement d’une grille fournie l’indiquent explicitement ; aucune justification détaillée n’est attribuée à tort au document.
+
+Le rapport `scripts/data/medicament-import-report.json` conserve inventaire, groupes de doublons, différences entre corrections et provenance des occurrences. Les choix manuels de transcription, fusion et correction sont versionnés sous `scripts/data/medicament-*.json` ; le générateur lisible des corrections est `scripts/medicament_curate.py`. Les mises en page et transcriptions OCR sont archivées dans `medicament-layout-cache.json.gz`, sans nécessiter de service OCR externe pour reconstruire. Les PDF originaux ne sont pas inclus dans le dépôt.
+
+Reconstruction avec les mêmes dossiers sous un répertoire commun (PyMuPDF et Pillow requis) :
+
+```sh
+python scripts/medicament_import.py "/chemin/Downloads" /tmp/campus-meds
+npm test
+node scripts/validate-data.mjs
+```

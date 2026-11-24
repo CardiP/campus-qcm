@@ -1,14 +1,19 @@
-export function hasCorrection(q) { return !q.missingFigure && Array.isArray(q.answers) && q.answers.length===5 && q.answers.every(v=>typeof v==='boolean'); }
+export function hasCorrection(q) { return !q.missingFigure && q.correctionStatus!=='conflict' && Array.isArray(q.answers) && q.answers.length===5 && q.answers.every(v=>typeof v==='boolean'); }
+export function questionSources(q) { return q.sources?.length ? q.sources : [q]; }
+export function matchesSource(q, filters) {
+ return questionSources(q).some(s=>(!filters.category || filters.category==='all' || s.category===filters.category) && (!filters.source || s.sourceId===filters.source));
+}
 export const LETTERS = ['A','B','C','D','E'];
 export function shuffled(items, rng = Math.random) { const out=[...items]; for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]];} return out; }
 export function filterQuestions(questions, filters, progress = {}) {
- return questions.filter(q => (!filters.category || filters.category==='all' || q.category===filters.category)
- && (!filters.source || q.sourceId===filters.source)
+ const result=questions.filter(q => matchesSource(q,filters)
  && (!filters.chapter || q.chapter===filters.chapter)
  && (!filters.topic || q.topic===filters.topic)
  && (!filters.correctedOnly || hasCorrection(q))
  && (!filters.onlyErrors || progress[q.id]?.lastCorrect===false)
- && (!filters.search || `${q.title} ${q.text} ${q.sourceLabel} ${q.topic}`.toLocaleLowerCase('fr').includes(filters.search.toLocaleLowerCase('fr'))));
+ && (!filters.search || `${q.title} ${q.text} ${questionSources(q).map(s=>s.sourceLabel).join(' ')} ${q.topic}`.toLocaleLowerCase('fr').includes(filters.search.toLocaleLowerCase('fr'))));
+ if(filters.source) result.sort((a,b)=>Math.min(...questionSources(a).filter(s=>s.sourceId===filters.source).map(s=>s.number))-Math.min(...questionSources(b).filter(s=>s.sourceId===filters.source).map(s=>s.number)));
+ return result;
 }
 export function evaluate(question, responses = []) {
  const complete = responses.length===5 && responses.every(v=>typeof v==='boolean');
@@ -26,7 +31,7 @@ export function validateQuestion(raw, index, subject='anatomie') {
  if(typeof raw.title!=='string' || !raw.title.trim()) throw new Error(`Question ${index+1} : un énoncé est nécessaire.`);
  if(!Array.isArray(raw.choices) || raw.choices.length!==5 || raw.choices.some(v=>typeof v!=='string'||!v.trim())) throw new Error(`Question ${index+1} : cinq propositions sont nécessaires.`);
  if(!Array.isArray(raw.answers) || raw.answers.length!==5 || raw.answers.some(v=>typeof v!=='boolean')) throw new Error(`Question ${index+1} : cinq réponses true/false sont nécessaires.`);
- return {id:`custom-${subject}-${Date.now()}-${index}`,subject,category:['annales','eb','td','banques'].includes(raw.category)?raw.category:'banques',sourceId:`custom-${subject}-${String(raw.sourceLabel||'Mes QCM').toLowerCase().replace(/[^a-z0-9]+/g,'-')}`,sourceLabel:String(raw.sourceLabel||'Mes QCM').slice(0,120),number:index+1,chapter:String(raw.chapter||'personnel').slice(0,100),topic:String(raw.topic||'Mes questions').slice(0,120),title:raw.title.slice(0,6000),text:raw.choices.join(' '),choices:raw.choices.map(v=>v.slice(0,4000)),answers:raw.answers,explanation:String(raw.explanation||'').slice(0,12000),images:[],correctionImages:[],correctionStatus:'personal',sourcePages:[],sourceFile:'Import personnel'};
+ return {id:`custom-${subject}-${Date.now()}-${index}`,subject,category:['acc','annales','eb','td','banques'].includes(raw.category)?raw.category:'banques',sourceId:`custom-${subject}-${String(raw.sourceLabel||'Mes QCM').toLowerCase().replace(/[^a-z0-9]+/g,'-')}`,sourceLabel:String(raw.sourceLabel||'Mes QCM').slice(0,120),number:index+1,chapter:String(raw.chapter||'personnel').slice(0,100),topic:String(raw.topic||'Mes questions').slice(0,120),title:raw.title.slice(0,6000),text:raw.choices.join(' '),choices:raw.choices.map(v=>v.slice(0,4000)),answers:raw.answers,explanation:String(raw.explanation||'').slice(0,12000),images:[],correctionImages:[],correctionStatus:'personal',sourcePages:[],sourceFile:'Import personnel'};
 }
 // Offer selectable text alongside the faithful original images only when all five item boundaries are unambiguous.
 export function readableQuestion(q) {

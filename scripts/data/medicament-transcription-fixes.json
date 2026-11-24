@@ -1,0 +1,167 @@
+{
+  "med-d081-q013": {
+    "choices": [
+      "Tout dispositif médical mis sur le marché en France doit être conforme à des exigences essentielles.",
+      "Tous les dispositifs médicaux, sans exception, sont revêtus du marquage CE.",
+      "En cas de litige sur les règles de classification entre le fabricant d’un dispositif médical et l’organisme notifié, c’est le régime le moins strict qui doit s’appliquer.",
+      "D'après la définition juridique, un produit cosmétique ne peut être appliqué que sur des peaux saines.",
+      "Produit cosmétique : la notion de \"exclusivement ou principalement\" dans la définition a été introduite afin de prendre en compte les produits ayant plusieurs fonctions cosmétiques."
+    ],
+    "itemNumbers": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  "med-d080-q007": {
+    "choices": [
+      "Un médicament contient un ou plusieurs principe(s) actif(s) et des excipients.",
+      "Une forme galénique est le résultat de l'association physique du principe actif et des excipients pour former une entité facile à administrer au patient.",
+      "Les excipients sont des matériaux biologiquement actifs qui permettent la préparation, la conservation et l'utilisation du médicament.",
+      "Le conditionnement secondaire est au contact direct de la forme galénique, ce qui peut être à la source d'interactions dites \"contenant-contenu\" et non maitrisées.",
+      "La préparation industrielle d'un médicament nécessite la mise en œuvre d'une série d'Opérations Pharmaceutiques."
+    ],
+    "itemNumbers": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ]
+  },
+  "med-d051-q039": {
+    "choices": [
+      "Pour les médicaments stupéfiants : en principe, le \"chevauchement d'ordonnances\" est exclu, sauf si le prescripteur en décide autrement par une mention expresse portée sur l'ordonnance.",
+      "Pour les médicaments de liste I et II, le pharmacien doit toujours reporter sur l'ordonnance : la posologie, les numéros d'ordonnancier, les quantités délivrées en unités de prise, la date d'exécution de la délivrance et doit y apposer le timbre de l'officine.",
+      "Conservation de l'ordonnancier : un pharmacien titulaire doit conserver le registre et les enregistrements dix ans à compter de la première mention.",
+      "La délivrance d'un médicament relevant de la liste II ne peut être renouvelée que sur indication écrite du prescripteur précisant le nombre de renouvellements ou la durée de traitement.",
+      "Le pharmacien doit toujours enregistrer le nom et l'adresse du porteur de l'ordonnance lorsque celui-ci n'est pas le malade."
+    ],
+    "itemNumbers": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  "med-d051-q003": {
+    "choices": [
+      "Les externes en médecine sont habilités à prescrire des substituts nicotiniques.",
+      "Les médicaments listés (liste I, II et stupéfiants) sont obligatoirement remboursables.",
+      "Les médicaments à prescription hospitalière sont obligatoirement dispensés par les Pharmacies à Usage Intérieur (PUI) des établissements de santé.",
+      "Le pharmacien peut être tenu responsable en cas d'erreur dans une prescription parce qu'il n'a pas exercé son devoir d'analyse pharmaceutique de l'ordonnance.",
+      "Toute personne qui travaille dans une officine de pharmacie peut dispenser des médicaments."
+    ],
+    "itemNumbers": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "med-d051-q050": {
+    "choices": [
+      "Soit un médicament contenant deux substances vénéneuses de liste I à doses non exonérées. Ce médicament peut être délivré sans ordonnance.",
+      "Les bonnes pratiques de dispensation des médicaments sont opposables aux pharmaciens.",
+      "Les médicaments à prescription hospitalière peuvent être prescrits en ville.",
+      "Pour les médicaments stupéfiants, la durée maximale de prescription est de 12 semaines.",
+      "Pour les médicaments stupéfiants, le prescripteur est tenu d’indiquer sur l’ordonnance en toutes lettres le dosage, le nombre d’unités thérapeutiques par prise et le nombre de prises lorsqu’il s’agit de spécialités."
+    ],
+    "itemNumbers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  "med-d051-q051": {
+    "choices": [
+      "Les kinésithérapeutes sont des praticiens habilités à prescrire des substituts nicotiniques.",
+      "Les sages-femmes, les pédicures-podologues et les psychologues sont des praticiens habilités à prescrire des médicaments.",
+      "Le pharmacien doit refuser l’exécution d’une prescription lorsque l’intérêt du patient l’exige.",
+      "Les étudiants en pharmacie ayant validé leur 5ème année hospitalo-universitaire ainsi que leur stage officinal d’initiation peuvent remplacer un pharmacien.",
+      "Toute personne qui travaille dans une officine de pharmacie peut dispenser des médicaments."
+    ],
+    "itemNumbers": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "med-d034-q005": {
+    "choices": [
+      "Les kinésithérapeutes sont des praticiens habilités à prescrire des substituts nicotiniques.",
+      "Les étudiants en médecine ayant validé leur 3ème année d’étude peuvent remplacer un médecin.",
+      "Les médicaments d’exception peuvent être prescrits par tout médecin, sauf s’ils sont également soumis à la réglementation des médicaments à prescription restreinte (PH, PIH et PRS).",
+      "Les préparateurs en pharmacie sont habilités à dispenser des médicaments sous le contrôle d’un pharmacien (titulaire ou adjoint).",
+      "Le pharmacien doit refuser l’exécution d’une prescription lorsqu’il a un doute quant au bien-fondé de la prescription."
+    ],
+    "itemNumbers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  "med-d034-q006": {
+    "choices": [
+      "Trois comprimés.",
+      "Vingt-et-un comprimés.",
+      "Six comprimés.",
+      "Rien.",
+      "Neuf comprimés."
+    ],
+    "itemNumbers": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "title": "Un médecin prescrit à un malade des comprimés d’Actiskénan (stupéfiant à dose non exonérée) pour une cure de 7 jours, à raison de trois comprimés par jour. Si le malade se présente à la pharmacie le 6e jour à compter de la date de prescription, combien de comprimés recevra-t-il ?"
+  },
+  "med-d039-q033": {
+    "title": "Les propriétés pharmacologiques d’un antagoniste de récepteur peuvent correspondre à :",
+    "choices": [
+      "une valeur de KD = 0 et une valeur d’activité intrinsèque α = 0.",
+      "une valeur de KD = 0 et une valeur d’activité intrinsèque 0 < α < 1.",
+      "une valeur de KD = 10-8 et une valeur d’activité intrinsèque α = 0.",
+      "une valeur de KD = 10-6 et une valeur d’activité intrinsèque α = 1.",
+      "une valeur de KD = 10-7 et une valeur d’activité intrinsèque 0 < α < 1."
+    ],
+    "itemNumbers": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "verifiedDuplicate": "med-d086-q036"
+  },
+  "med-d040-q016": {
+    "title": "Un principe actif Z est caractérisé par une demi-vie d'élimination de 6 heures et un volume de distribution de 20 L. La fraction éliminée par excrétion urinaire est égale à 20% chez le patient normal. On administre ce principe actif par voie intraveineuse.",
+    "choices": [
+      "Pour obtenir une concentration plasmatique initiale de 4 mg/L il faudra utiliser une dose d'attaque de 80 mg.",
+      "Sachant que la concentration minimale efficace est égale à 0,5 mg/L, lorsqu'on administrera une dose d'attaque de 40 mg, la durée d'action de Z sera égale à 24 heures.",
+      "Sachant que la concentration minimale efficace est égale à 0,5 mg/L, lorsqu'on administrera une dose d'attaque de 40 mg, la dose d'entretien nécessaire à la poursuite du traitement sera de 30 mg.",
+      "Lorsqu'on administrera une dose d'attaque de 40 mg, la quantité totale excrétée sera de 32 mg.",
+      "Le principe actif Z est éliminé à la fois par excrétion urinaire et par métabolisation."
+    ],
+    "itemNumbers": [
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "verifiedDuplicate": "med-d076-q019"
+  }
+}
