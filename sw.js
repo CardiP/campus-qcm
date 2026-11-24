@@ -1,10 +1,10 @@
-const RELEASE = '20261124-4';
+const RELEASE = '20261124-5';
 const SHELL_CACHE = `campus-qcm-shell-${RELEASE}`;
 const MEDIA_CACHE = 'campus-qcm-media-v1';
 const ROOT = self.registration.scope;
 const SHELL = [
   './', './index.html', './manifest.webmanifest', './assets/icon.svg',
-  ...['app.js', 'core.js', 'offline.js', 'styles.css', 'data/annales.json', 'data/banques.json', 'data/image-sizes.json']
+  ...['app.js', 'core.js', 'offline.js', 'styles.css', 'data/annales.json', 'data/banques.json', 'data/anatomie.json', 'data/medicament.json', 'data/image-sizes.json']
     .map(path => `./${path}?v=${RELEASE}`)
 ].map(path => new URL(path, ROOT).href);
 
