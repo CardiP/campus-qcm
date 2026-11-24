@@ -16,6 +16,14 @@ Site de révision adapté au téléphone et au PC, créé à partir des document
 
 Les données personnelles sont conservées dans le navigateur (`localStorage`). La sauvegarde JSON permet de les transférer entre appareils. Il n’y a ni compte ni synchronisation automatique. Les imports personnels ne modifient pas le site partagé.
 
+## Réviser hors connexion
+
+Le site télécharge automatiquement les énoncés, images et corrections sur l’appareil (environ 50 Mo pour la bibliothèque). Les fichiers de la session en cours passent en priorité. Avant un trajet, laisser la page ouverte jusqu’à **Session prête hors connexion**, ou **Tout est prêt hors connexion** pour disposer de toute la bibliothèque. Les réponses et la progression restent enregistrées lors des coupures, y compris après un rechargement de la page.
+
+À chaque visite, les fichiers déjà enregistrés sont réutilisés ; seuls les manquants sont téléchargés. Une interruption reprend au retour du réseau. L’indicateur ne déclare pas une session prête si une image manque ou si le stockage échoue. Chaque appareil et navigateur doit effectuer son propre téléchargement ; effacer les données du site efface aussi sa copie hors connexion. Les liens vers des sources externes nécessitent une connexion.
+
+Le service worker conserve une version cohérente de l’application et des données. Une mise à jour propose **Actualiser** sans interrompre une session. Lors d’une publication modifiant le code ou les données, changer la version dans `index.html`, `app.js`, `offline.js` et `sw.js`. Les images sont réutilisées entre versions : donner un nouveau nom à une image modifiée (ou changer `MEDIA_CACHE` dans les deux modules). `data/image-sizes.json` réserve leurs dimensions pour éviter les déplacements pendant leur chargement.
+
 ## Utilisation locale
 
 ```sh
