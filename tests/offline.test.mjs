@@ -19,9 +19,9 @@ function memoryCache() {
 
 test('session assets include unseen questions and corrections, with GitHub Pages base paths', () => {
   assert.deepEqual(questionAssets([
-    {images: ['assets/q.webp'], correctionImages: ['assets/c.webp']},
+    {images: ['assets/q.webp'], contextImages: ['assets/context.webp'], correctionImages: ['assets/c.webp']},
     {images: ['assets/next.webp', 'assets/q.webp']}
-  ], root), ['assets/q.webp', 'assets/c.webp', 'assets/next.webp'].map(path => root + path));
+  ], root), ['assets/q.webp', 'assets/context.webp', 'assets/c.webp', 'assets/next.webp'].map(path => root + path));
 });
 
 test('prefetch prioritizes a session, persists images, and skips already saved files on a new visit', async () => {
@@ -93,7 +93,7 @@ test('worker serves the shell, question data, unseen images and correction image
   const media = await caches.open(MEDIA_CACHE);
   await media.put(root+'assets/unseen.webp', image());
   await media.put(root+'assets/correction.webp', image());
-  for (const [path, mode] of [['?reopen=1', 'navigate'], [`data/annales.json?v=${RELEASE}`, 'cors'], [`app.js?v=${RELEASE}`, 'cors'], ['assets/unseen.webp', 'cors'], ['assets/correction.webp', 'cors']]) {
+  for (const [path, mode] of [['?reopen=1', 'navigate'], ...['annales','banques','anatomie','medicament'].map(name => [`data/${name}.json?v=${RELEASE}`, 'cors']), [`app.js?v=${RELEASE}`, 'cors'], ['assets/unseen.webp', 'cors'], ['assets/correction.webp', 'cors']]) {
     let result;
     handlers.fetch({request: {url: root+path, method:'GET', mode}, respondWith: task => result = task});
     assert.equal((await result).status, 200, path);
@@ -103,8 +103,8 @@ test('worker serves the shell, question data, unseen images and correction image
 
 test('every published question and correction image reserves its real dimensions', async () => {
   const data = async name => JSON.parse(await readFile(new URL(`../public/data/${name}.json`, import.meta.url), 'utf8'));
-  const [annales, banques, sizes] = await Promise.all(['annales', 'banques', 'image-sizes'].map(data));
-  for (const q of [...annales,...banques]) for (const path of [...q.images,...q.correctionImages]) {
+  const [annales, banques, anatomie, medicament, sizes] = await Promise.all(['annales', 'banques', 'anatomie', 'medicament', 'image-sizes'].map(data));
+  for (const q of [...annales,...banques,...anatomie,...medicament]) for (const path of [...(q.images||[]),...(q.contextImages||[]),...(q.correctionImages||[])]) {
     assert.ok(sizes[path]?.every(n => Number.isInteger(n) && n>0), path);
   }
   const html = await readFile(new URL('../public/index.html', import.meta.url), 'utf8');

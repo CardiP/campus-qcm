@@ -1,0 +1,232 @@
+[
+  {
+    "a": "med-d032-q002",
+    "b": "med-d079-q038",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d032-q009",
+    "b": "med-d083-q024",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d032-q021",
+    "b": "med-d086-q073",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d032-q026",
+    "b": "med-d076-q033",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d032-q028",
+    "b": "med-b11-q014",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q003",
+    "b": "med-d079-q034",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q008",
+    "b": "med-d083-q016",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q009",
+    "b": "med-b5-q004",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q009",
+    "b": "med-d083-q017",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q012",
+    "b": "med-d034-q010",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q018",
+    "b": "med-d091-q035",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q020",
+    "b": "med-d086-q063",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d033-q022",
+    "b": "med-d086-q065",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d035-q004",
+    "b": "med-d051-q047",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d035-q007",
+    "b": "med-d083-q019",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d035-q009",
+    "b": "med-d083-q021",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d035-q021",
+    "b": "med-d086-q069",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d035-q026",
+    "b": "med-d076-q031",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d037-q004",
+    "b": "med-d051-q052",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d037-q005",
+    "b": "med-d051-q053",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d037-q007",
+    "b": "med-b6-q008",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d037-q023",
+    "b": "med-d085-q024",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d037-q025",
+    "b": "med-d076-q021",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-beb1-q008",
+    "b": "med-d080-q010",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-beb1-q016",
+    "b": "med-d077-q010",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-beb2-q011",
+    "b": "med-b4.1-q019",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-beb2-q012",
+    "b": "med-b4.3-q012",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-beb2-q023",
+    "b": "med-b6-q020",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b11-q002",
+    "b": "med-d089-q002",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b2-q008",
+    "b": "med-b2-q027",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b9.1-q015",
+    "b": "med-b9.2-q026",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b5-q004",
+    "b": "med-d083-q017",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b6-q017",
+    "b": "med-b6-q028",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b1-q011",
+    "b": "med-b1-q019",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b1-q013",
+    "b": "med-b1-q021",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b4.3-q003",
+    "b": "med-b4.3-q020",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-b4.3-q008",
+    "b": "med-b4.3-q021",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d079-q016",
+    "b": "med-d051-q015",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d079-q020",
+    "b": "med-d084-q013",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d080-q007",
+    "b": "med-d044-q007",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d081-q013",
+    "b": "med-d049-q012",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d083-q029",
+    "b": "med-d083-q046",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d088-q002",
+    "b": "med-d088-q003",
+    "reason": "Même question : différence de transcription, de ponctuation, de titre ou de formulation sans changement de sens."
+  },
+  {
+    "a": "med-d032-q006",
+    "b": "med-d051-q051",
+    "reason": "Même énoncé et mêmes propositions ; différence de transcription ou titre absent."
+  },
+  {
+    "a": "med-d033-q007",
+    "b": "med-d051-q046",
+    "reason": "Même énoncé et mêmes propositions ; différence de transcription ou titre absent."
+  },
+  {
+    "a": "med-beb2-q013",
+    "b": "med-c027-q011",
+    "reason": "Même énoncé et mêmes propositions ; différence de transcription ou titre absent."
+  }
+]

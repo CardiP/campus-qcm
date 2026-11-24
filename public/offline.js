@@ -1,8 +1,8 @@
-export const RELEASE = '20261124-4';
+export const RELEASE = '20261124-5';
 export const MEDIA_CACHE = 'campus-qcm-media-v1';
 
 export function questionAssets(questions, baseURL) {
-  return [...new Set(questions.flatMap(q => [...(q.images || []), ...(q.correctionImages || [])])
+  return [...new Set(questions.flatMap(q => [...(q.images || []), ...(q.contextImages || []), ...(q.correctionImages || [])])
     .map(path => new URL(path, baseURL).href))];
 }
 
