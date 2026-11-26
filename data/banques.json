@@ -47,7 +47,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-2",
@@ -97,7 +97,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-3",
@@ -148,7 +148,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-4",
@@ -198,7 +198,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-5",
@@ -248,7 +248,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-6",
@@ -298,7 +298,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-7",
@@ -348,7 +348,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-8",
@@ -398,7 +398,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-9",
@@ -448,7 +448,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-10",
@@ -498,7 +498,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-11",
@@ -549,7 +549,7 @@
       6,
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-12",
@@ -599,7 +599,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-13",
@@ -649,7 +649,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-14",
@@ -699,7 +699,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-15",
@@ -749,7 +749,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-16",
@@ -799,7 +799,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-17",
@@ -850,7 +850,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-18",
@@ -900,7 +900,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-19",
@@ -950,7 +950,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-20",
@@ -1102,7 +1102,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-23",
@@ -1152,7 +1152,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-24",
@@ -1202,7 +1202,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-25",
@@ -1253,7 +1253,7 @@
       11,
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-26",
@@ -1303,7 +1303,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-27",
@@ -1355,7 +1355,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-28",
@@ -1405,7 +1405,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-29",
@@ -1455,7 +1455,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-30",
@@ -1556,7 +1556,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-32",
@@ -1607,7 +1607,7 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-33",
@@ -1657,7 +1657,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-34",
@@ -1757,7 +1757,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-36",
@@ -1807,7 +1807,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-37",
@@ -1858,7 +1858,7 @@
       16,
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-38",
@@ -1908,7 +1908,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-39",
@@ -1959,7 +1959,7 @@
       17,
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-40",
@@ -2060,7 +2060,7 @@
       18,
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-42",
@@ -2112,7 +2112,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-43",
@@ -2163,7 +2163,7 @@
       19,
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-44",
@@ -2213,7 +2213,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-45",
@@ -2263,7 +2263,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-46",
@@ -2366,7 +2366,7 @@
     "correctionSourcePages": [
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-48",
@@ -2416,7 +2416,7 @@
     "correctionSourcePages": [
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-49",
@@ -2466,7 +2466,7 @@
     "correctionSourcePages": [
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-amines-50",
@@ -2516,7 +2516,7 @@
     "correctionSourcePages": [
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-1",
@@ -2559,7 +2559,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-2",
@@ -2602,7 +2602,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-3",
@@ -2645,7 +2645,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-4",
@@ -2690,7 +2690,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-5",
@@ -2734,7 +2734,7 @@
       4,
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-6",
@@ -2777,7 +2777,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-7",
@@ -2820,7 +2820,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-8",
@@ -2863,7 +2863,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-9",
@@ -2906,7 +2906,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-10",
@@ -3003,7 +3003,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-12",
@@ -3053,7 +3053,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-13",
@@ -3153,7 +3153,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-15",
@@ -3253,7 +3253,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-17",
@@ -3303,7 +3303,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-18",
@@ -3353,7 +3353,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-19",
@@ -3403,7 +3403,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-20",
@@ -3453,7 +3453,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-21",
@@ -3503,7 +3503,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-22",
@@ -3551,7 +3551,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-23",
@@ -3603,7 +3603,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-24",
@@ -3651,7 +3651,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-25",
@@ -3699,7 +3699,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-26",
@@ -3747,7 +3747,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-27",
@@ -3799,7 +3799,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-28",
@@ -3849,7 +3849,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-29",
@@ -3899,7 +3899,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-30",
@@ -3951,7 +3951,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-architecture-31",
@@ -4017,16 +4017,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
-    "text": "Question 1 : Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nDERKHNQST est un peptide.\nDERKHNQST est un polypeptide.\nDERKHNQST est une protéine.\nDERKHNQST est un oligopeptide.\nUn oligopeptide à un poids moyen inferieur 1100 Da.",
+    "text": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. DERKHNQST est un peptide.\nB. DERKHNQST est un polypeptide.\nC. DERKHNQST est une protéine.\nD. DERKHNQST est un oligopeptide.\nE. Un oligopeptide a un poids moyen inférieur à 1100 Da.",
     "images": [
       "assets/banques/banques-architecture-32-12.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "DERKHNQST est un peptide.",
+      "DERKHNQST est un polypeptide.",
+      "DERKHNQST est une protéine.",
+      "DERKHNQST est un oligopeptide.",
+      "Un oligopeptide a un poids moyen inférieur à 1100 Da."
     ],
     "answers": [
       true,
@@ -4048,7 +4048,9 @@
     "correctionSourcePages": [
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-33",
@@ -4060,16 +4062,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Concernant La liaison peptidique, Quelle(s) est (sont) la (les) réponse(s)",
-    "text": "Question 2 : Concernant La liaison peptidique, Quelle(s) est (sont) la (les) réponse(s)\nexacte(s) ?\nLa liaison peptidique est covalente.\nElle confère un pic d’absorption à 280 nm.\nC’est une réaction thermodynamiquement défavorable.\nUne molécule d’eau est libérée.\nLa liaison peptidique est une liaison amine particulière à caractère de double liaison.",
+    "text": "Concernant la liaison peptidique, quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. La liaison peptidique est covalente.\nB. Elle confère un pic d’absorption à 280 nm.\nC. C’est une réaction thermodynamiquement défavorable.\nD. Une molécule d’eau est libérée.\nE. La liaison peptidique est une liaison amine particulière à caractère de double liaison.",
     "images": [
       "assets/banques/banques-architecture-33-12.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La liaison peptidique est covalente.",
+      "Elle confère un pic d’absorption à 280 nm.",
+      "C’est une réaction thermodynamiquement défavorable.",
+      "Une molécule d’eau est libérée.",
+      "La liaison peptidique est une liaison amine particulière à caractère de double liaison."
     ],
     "answers": [
       true,
@@ -4091,7 +4093,9 @@
     "correctionSourcePages": [
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant la liaison peptidique, quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-34",
@@ -4103,16 +4107,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
-    "text": "Question 3 : Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nLa liaison peptidique est une liaison amide particulière, hybride de résonance entre trois\nformes extrêmes.\nLa liaison peptidique a un caractère partiel de double liaison Ω = 0 ou Ω = 180°.\nIl n’y a pas de liberté de rotation entre le C du carbonyle et le N.\nHabituellement configuration Trans angle de torsion Ω = 0°, exception : la liaison X-Pro\ndont 10% sont Cis (Ω = 180°).\nHabituellement configuration Trans angle de torsion Ω = 180°, exception : la liaison X-Pro\ndont 10% sont Cis (Ω = 0°).",
+    "text": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. La liaison peptidique est une liaison amide particulière, hybride de résonance entre trois formes extrêmes.\nB. La liaison peptidique a un caractère partiel de double liaison Ω = 0 ou Ω = 180°.\nC. Il n’y a pas de liberté de rotation entre le C du carbonyle et le N.\nD. Habituellement configuration Trans, angle de torsion Ω = 0°, exception : la liaison X-Pro dont 10 % sont Cis (Ω = 180°).\nE. Habituellement configuration Trans, angle de torsion Ω = 180°, exception : la liaison X-Pro dont 10 % sont Cis (Ω = 0°).",
     "images": [
       "assets/banques/banques-architecture-34-12.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La liaison peptidique est une liaison amide particulière, hybride de résonance entre trois formes extrêmes.",
+      "La liaison peptidique a un caractère partiel de double liaison Ω = 0 ou Ω = 180°.",
+      "Il n’y a pas de liberté de rotation entre le C du carbonyle et le N.",
+      "Habituellement configuration Trans, angle de torsion Ω = 0°, exception : la liaison X-Pro dont 10 % sont Cis (Ω = 180°).",
+      "Habituellement configuration Trans, angle de torsion Ω = 180°, exception : la liaison X-Pro dont 10 % sont Cis (Ω = 0°)."
     ],
     "answers": [
       false,
@@ -4135,7 +4139,9 @@
       21,
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-35",
@@ -4147,16 +4153,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "la liaison peptidique possède trois propriétés fondamentales, Quelle(s) est",
-    "text": "Question 4 : la liaison peptidique possède trois propriétés fondamentales, Quelle(s) est\n(sont) la (les) réponse(s) exacte(s) ?\nPlane.\nConfiguration cis\nRigide.\nApolaire.\nPolaire.",
+    "text": "La liaison peptidique possède trois propriétés fondamentales. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. Plane.\nB. Configuration cis.\nC. Rigide.\nD. Apolaire.\nE. Polaire.",
     "images": [
       "assets/banques/banques-architecture-35-13.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Plane.",
+      "Configuration cis.",
+      "Rigide.",
+      "Apolaire.",
+      "Polaire."
     ],
     "answers": [
       true,
@@ -4178,7 +4184,9 @@
     "correctionSourcePages": [
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "La liaison peptidique possède trois propriétés fondamentales. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-36",
@@ -4190,16 +4198,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
-    "text": "Question 5 : Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nϕ (phi) entre le Cα et l’N amidique.\nϕ (phi) entre le Cα et le carbonyle.\nPlus grandes libertés de rotation autour ϕ (phi) et ψ (psi).\nOn peut déterminer les valeurs de φ et ψ stériquement possibles (autorisées) en\ncalculant la distance entre les atomes d’un tetrapeptide.\nCertaines valeurs sont interdites par suite d’encombrements stériques entre la chaîne\nprincipale (squelette) et la chaîne latérale des AA.",
+    "text": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. φ (phi) entre le Cα et l’N amidique.\nB. φ (phi) entre le Cα et le carbonyle.\nC. Plus grandes libertés de rotation autour de φ (phi) et ψ (psi).\nD. On peut déterminer les valeurs de φ et ψ stériquement possibles (autorisées) en calculant la distance entre les atomes d’un tétrapeptide.\nE. Certaines valeurs sont interdites par suite d’encombrements stériques entre la chaîne principale (squelette) et la chaîne latérale des AA.",
     "images": [
       "assets/banques/banques-architecture-36-13.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "φ (phi) entre le Cα et l’N amidique.",
+      "φ (phi) entre le Cα et le carbonyle.",
+      "Plus grandes libertés de rotation autour de φ (phi) et ψ (psi).",
+      "On peut déterminer les valeurs de φ et ψ stériquement possibles (autorisées) en calculant la distance entre les atomes d’un tétrapeptide.",
+      "Certaines valeurs sont interdites par suite d’encombrements stériques entre la chaîne principale (squelette) et la chaîne latérale des AA."
     ],
     "answers": [
       true,
@@ -4221,7 +4229,9 @@
     "correctionSourcePages": [
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-37",
@@ -4233,16 +4243,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Concernant les résidus favorables à une hélice α. Quelle(s) est (sont) la (les)",
-    "text": "Question 6 : Concernant les résidus favorables à une hélice α. Quelle(s) est (sont) la (les)\nréponse(s) exacte(s) ?\nV, I, T\nD, E, R, K.\nP grâce à son groupement aminé.\nVolumineux, non ou peu polaires.\nL, F, W.",
+    "text": "Concernant les résidus favorables à une hélice α. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. V, I, T.\nB. D, E, R, K.\nC. P grâce à son groupement aminé.\nD. Volumineux, non ou peu polaires.\nE. L, F, W.",
     "images": [
       "assets/banques/banques-architecture-37-13.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "V, I, T.",
+      "D, E, R, K.",
+      "P grâce à son groupement aminé.",
+      "Volumineux, non ou peu polaires.",
+      "L, F, W."
     ],
     "answers": [
       false,
@@ -4264,7 +4274,9 @@
     "correctionSourcePages": [
       23
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant les résidus favorables à une hélice α. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-38",
@@ -4276,16 +4288,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
-    "text": "Question 7 : Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nHélice de jonction 3,613.\nHélice alpha3,613.\nHélice Pi 314.\nFeuillet ß antiparallèle plus stables que les feuillets parallèles.\nFeuillet ß parallèle plus stables que les feuillets antiparallèles.",
+    "text": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. Hélice de jonction 3,6₁₃.\nB. Hélice alpha 3,6₁₃.\nC. Hélice Pi 3₁₄.\nD. Feuillets β antiparallèles plus stables que les feuillets parallèles.\nE. Feuillets β parallèles plus stables que les feuillets antiparallèles.",
     "images": [
       "assets/banques/banques-architecture-38-13.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Hélice de jonction 3,6₁₃.",
+      "Hélice alpha 3,6₁₃.",
+      "Hélice Pi 3₁₄.",
+      "Feuillets β antiparallèles plus stables que les feuillets parallèles.",
+      "Feuillets β parallèles plus stables que les feuillets antiparallèles."
     ],
     "answers": [
       false,
@@ -4307,7 +4319,9 @@
     "correctionSourcePages": [
       23
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-39",
@@ -4319,16 +4333,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Enoncé de la question 11 avec toutes les informations nécessaires.",
-    "text": "Question 8 : Enoncé de la question 11 avec toutes les informations nécessaires.\nDonnées : Max veut faire une fiche de révisions pour les angles et le diagramme de\nRamachandran, je te propose de l’aider, et de la recopier dans ton carnet d’erreur\nQuelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nPhi Cα – N est l’ordonné et Cα - CO psi l’ordonné.\n1 : feuillet β ; 2 : Hélice droite fréquente (= hélice α) ; 3 : Hélice gauche très rare 4 :\nConformation généralement interdite sauf pour la Gly.\n1 : feuillet β ; 2 : Hélice droite très rare (= hélice α) ; 3 : Hélice gauche fréquente 4 :\nConformation généralement interdite pour tous.\n1 : Hélice droite fréquente (= hélice α) ; 2 : Conformation impossible ; 3 : Hélice gauche\nfréquente ; 4 : Conformation impossible.\n1 : feuillet β ; 2 : Hélice droite fréquente ; 3 : Hélice gauche fréquente (= hélice α) ; 4 :\nConformation interdite sauf pour la Gly.",
+    "text": "Énoncé de la question 11 avec toutes les informations nécessaires. Données : Max veut faire une fiche de révisions pour les angles et le diagramme de Ramachandran. Je te propose de l’aider et de la recopier dans ton carnet d’erreur. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ? Voir le diagramme de l’énoncé original.\nA. Phi Cα–N est l’ordonnée et Cα–CO psi l’ordonnée.\nB. 1 : feuillet β ; 2 : hélice droite fréquente (= hélice α) ; 3 : hélice gauche très rare ; 4 : conformation généralement interdite sauf pour la Gly.\nC. 1 : feuillet β ; 2 : hélice droite très rare (= hélice α) ; 3 : hélice gauche fréquente ; 4 : conformation généralement interdite pour tous.\nD. 1 : hélice droite fréquente (= hélice α) ; 2 : conformation impossible ; 3 : hélice gauche fréquente ; 4 : conformation impossible.\nE. 1 : feuillet β ; 2 : hélice droite fréquente ; 3 : hélice gauche fréquente (= hélice α) ; 4 : conformation interdite sauf pour la Gly.",
     "images": [
       "assets/banques/banques-architecture-39-14.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Phi Cα–N est l’ordonnée et Cα–CO psi l’ordonnée.",
+      "1 : feuillet β ; 2 : hélice droite fréquente (= hélice α) ; 3 : hélice gauche très rare ; 4 : conformation généralement interdite sauf pour la Gly.",
+      "1 : feuillet β ; 2 : hélice droite très rare (= hélice α) ; 3 : hélice gauche fréquente ; 4 : conformation généralement interdite pour tous.",
+      "1 : hélice droite fréquente (= hélice α) ; 2 : conformation impossible ; 3 : hélice gauche fréquente ; 4 : conformation impossible.",
+      "1 : feuillet β ; 2 : hélice droite fréquente ; 3 : hélice gauche fréquente (= hélice α) ; 4 : conformation interdite sauf pour la Gly."
     ],
     "answers": [
       false,
@@ -4350,7 +4364,9 @@
     "correctionSourcePages": [
       24
     ],
-    "matchScore": 0.857
+    "matchScore": 0.857,
+    "intro": "Énoncé de la question 11 avec toutes les informations nécessaires. Données : Max veut faire une fiche de révisions pour les angles et le diagramme de Ramachandran. Je te propose de l’aider et de la recopier dans ton carnet d’erreur. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ? Voir le diagramme de l’énoncé original.",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-40",
@@ -4362,16 +4378,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Max veut mettre des pointillés sur son diagramme pour se souvenir des",
-    "text": "Question 9 : Max veut mettre des pointillés sur son diagramme pour se souvenir des\nvaleurs, et c’est grâce au diagramme qu’on se souvient des valeurs, Quelle(s) est (sont) la\n(les) réponse(s) exacte(s) ?\n1 : feuillet β ϕ (phi)= -60° et ψ (psi)= 90° ; 2 : Hélice droite (= hélice α) ϕ (phi)= -60° et ψ\n(psi)= -60° ; 3 : Hélice gauche ϕ (phi)= +60° et ψ (psi)= +60° ; 4 : Conformation\ninterdite sauf pour la Gly ϕ (phi)> 0°et ψ (psi)<0°.\n1 : feuillet β ϕ (phi)= -60° et ψ (psi)= 90° ; 2 : Hélice gauche (= hélice α) ϕ (phi)= -60° et ψ\n(psi)= -60° ; 3 : Hélice droite ϕ (phi)= +60° et ψ (psi)= +60° ; 4 : Conformation interdite\nsauf pour la Gly ϕ (phi)> 0°et ψ (psi)<0°.\n1 : Conformation impossible ; 2 : Hélice droite (= hélice α) ϕ (phi)= -60° et ψ (psi)= -60° ;\n3 : Hélice gauche ϕ (phi)= +60° et ψ (psi)= +60° ; 4 : feuillet β ϕ (phi)= +60°.\nConformation impossible sauf pour la glycine ϕ (phi)= 0° et ψ (psi)= 0°.\nLes 4 cadrans sont possibles dans un cas particulier.",
+    "text": "Max veut mettre des pointillés sur son diagramme pour se souvenir des valeurs, et c’est grâce au diagramme qu’on se souvient des valeurs. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?\nA. 1 : feuillet β, φ (phi) = −60° et ψ (psi) = 90° ; 2 : hélice droite (= hélice α), φ = −60° et ψ = −60° ; 3 : hélice gauche, φ = +60° et ψ = +60° ; 4 : conformation interdite sauf pour la Gly, φ > 0° et ψ < 0°.\nB. 1 : feuillet β, φ (phi) = −60° et ψ (psi) = 90° ; 2 : hélice gauche (= hélice α), φ = −60° et ψ = −60° ; 3 : hélice droite, φ = +60° et ψ = +60° ; 4 : conformation interdite sauf pour la Gly, φ > 0° et ψ < 0°.\nC. 1 : conformation impossible ; 2 : hélice droite (= hélice α), φ (phi) = −60° et ψ (psi) = −60° ; 3 : hélice gauche, φ = +60° et ψ = +60° ; 4 : feuillet β, φ = +60°.\nD. Conformation impossible sauf pour la glycine, φ (phi) = 0° et ψ (psi) = 0°.\nE. Les 4 cadrans sont possibles dans un cas particulier.",
     "images": [
       "assets/banques/banques-architecture-40-14.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "1 : feuillet β, φ (phi) = −60° et ψ (psi) = 90° ; 2 : hélice droite (= hélice α), φ = −60° et ψ = −60° ; 3 : hélice gauche, φ = +60° et ψ = +60° ; 4 : conformation interdite sauf pour la Gly, φ > 0° et ψ < 0°.",
+      "1 : feuillet β, φ (phi) = −60° et ψ (psi) = 90° ; 2 : hélice gauche (= hélice α), φ = −60° et ψ = −60° ; 3 : hélice droite, φ = +60° et ψ = +60° ; 4 : conformation interdite sauf pour la Gly, φ > 0° et ψ < 0°.",
+      "1 : conformation impossible ; 2 : hélice droite (= hélice α), φ (phi) = −60° et ψ (psi) = −60° ; 3 : hélice gauche, φ = +60° et ψ = +60° ; 4 : feuillet β, φ = +60°.",
+      "Conformation impossible sauf pour la glycine, φ (phi) = 0° et ψ (psi) = 0°.",
+      "Les 4 cadrans sont possibles dans un cas particulier."
     ],
     "answers": [
       true,
@@ -4393,7 +4409,9 @@
     "correctionSourcePages": [
       25
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Max veut mettre des pointillés sur son diagramme pour se souvenir des valeurs, et c’est grâce au diagramme qu’on se souvient des valeurs. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-41",
@@ -4405,16 +4423,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Concernant la structure tertiaire des protéines :",
-    "text": "QUESTION 10 : Concernant la structure tertiaire des protéines :\nElle correspond à la forme native et fonctionnelle de la protéine.\nElle correspond à l'enchainement des AA liés entre eux par des liaisons peptidiques.\nElle ne porte pas l’activité biologique.\nLa ribonucléase A ne possède pas de pont disulfure.\nLa forme normale de Prion (PrPc) est extrêmement stable et insensible aux protéases et\naux agents dénaturants.",
+    "text": "Concernant la structure tertiaire des protéines :\nA. Elle correspond à la forme native et fonctionnelle de la protéine.\nB. Elle correspond à l’enchaînement des AA liés entre eux par des liaisons peptidiques.\nC. Elle ne porte pas l’activité biologique.\nD. La ribonucléase A ne possède pas de pont disulfure.\nE. La forme normale de Prion (PrPc) est extrêmement stable et insensible aux protéases et aux agents dénaturants.",
     "images": [
       "assets/banques/banques-architecture-41-15.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Elle correspond à la forme native et fonctionnelle de la protéine.",
+      "Elle correspond à l’enchaînement des AA liés entre eux par des liaisons peptidiques.",
+      "Elle ne porte pas l’activité biologique.",
+      "La ribonucléase A ne possède pas de pont disulfure.",
+      "La forme normale de Prion (PrPc) est extrêmement stable et insensible aux protéases et aux agents dénaturants."
     ],
     "answers": [
       true,
@@ -4436,7 +4454,9 @@
     "correctionSourcePages": [
       25
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant la structure tertiaire des protéines :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-42",
@@ -4448,16 +4468,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "À propos de la dénaturation des protéines :",
-    "text": "QUESTION 11 : À propos de la dénaturation des protéines :\nL’urée est un agent dénaturant réversible capable de rompre les ponts disulfures.\nLa chaleur est un agent dénaturant réversible.\nAprès une dénaturation irréversible, lorsque l’agent est retiré, la protéine sera incapable\nde retrouver ses structures secondaires et tertiaires.\nLe ph est un agent réducteur irréversible.\nLes ponts disulfures sont des liaisons non covalentes entre deux cystéines.",
+    "text": "À propos de la dénaturation des protéines :\nA. L’urée est un agent dénaturant réversible capable de rompre les ponts disulfures.\nB. La chaleur est un agent dénaturant réversible.\nC. Après une dénaturation irréversible, lorsque l’agent est retiré, la protéine sera incapable de retrouver ses structures secondaires et tertiaires.\nD. Le pH est un agent réducteur irréversible.\nE. Les ponts disulfures sont des liaisons non covalentes entre deux cystéines.",
     "images": [
       "assets/banques/banques-architecture-42-15.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "L’urée est un agent dénaturant réversible capable de rompre les ponts disulfures.",
+      "La chaleur est un agent dénaturant réversible.",
+      "Après une dénaturation irréversible, lorsque l’agent est retiré, la protéine sera incapable de retrouver ses structures secondaires et tertiaires.",
+      "Le pH est un agent réducteur irréversible.",
+      "Les ponts disulfures sont des liaisons non covalentes entre deux cystéines."
     ],
     "answers": [
       false,
@@ -4479,7 +4499,9 @@
     "correctionSourcePages": [
       26
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "À propos de la dénaturation des protéines :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-43",
@@ -4491,16 +4513,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Concernant les protéines globulaires à structure quaternaire :",
-    "text": "QUESTION 12 : Concernant les protéines globulaires à structure quaternaire :\nLa structure quaternaire concerne les protéines constituées de plusieurs chaines\npolypeptidiques.\nLes anticorps sont composés de 2 chaines légères et de 2 chaines lourdes.\nLes anticorps sont riches en feuillets alpha.\nLa protéine Spike est responsable de la liaison du virus à la surface des cellules hôtes.\nLes domaines constants CH2-CH3 des anticorps interviennent dans la reconnaissance de\nla cible des anticorps.",
+    "text": "Concernant les protéines globulaires à structure quaternaire :\nA. La structure quaternaire concerne les protéines constituées de plusieurs chaînes polypeptidiques.\nB. Les anticorps sont composés de 2 chaînes légères et de 2 chaînes lourdes.\nC. Les anticorps sont riches en feuillets alpha.\nD. La protéine Spike est responsable de la liaison du virus à la surface des cellules hôtes.\nE. Les domaines constants CH2–CH3 des anticorps interviennent dans la reconnaissance de la cible des anticorps.",
     "images": [
       "assets/banques/banques-architecture-43-15.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La structure quaternaire concerne les protéines constituées de plusieurs chaînes polypeptidiques.",
+      "Les anticorps sont composés de 2 chaînes légères et de 2 chaînes lourdes.",
+      "Les anticorps sont riches en feuillets alpha.",
+      "La protéine Spike est responsable de la liaison du virus à la surface des cellules hôtes.",
+      "Les domaines constants CH2–CH3 des anticorps interviennent dans la reconnaissance de la cible des anticorps."
     ],
     "answers": [
       true,
@@ -4522,7 +4544,9 @@
     "correctionSourcePages": [
       26
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant les protéines globulaires à structure quaternaire :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-44",
@@ -4534,16 +4558,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Concernant le collagène :",
-    "text": "QUESTION 13 : Concernant le collagène :\nSa structure primaire est pauvre en proline.\nSa structure secondaire est une hélice gauche de translation 0.29 nm.\nLa glycine assure la rigidité de l’hélice gauche.\nLa structure quaternaire du collagène est formée de 6 hélices gauches.\nLe tropocollagène est stabilisé par des liaisons inter-chaînes.",
+    "text": "Concernant le collagène :\nA. Sa structure primaire est pauvre en proline.\nB. Sa structure secondaire est une hélice gauche de translation 0,29 nm.\nC. La glycine assure la rigidité de l’hélice gauche.\nD. La structure quaternaire du collagène est formée de 6 hélices gauches.\nE. Le tropocollagène est stabilisé par des liaisons inter-chaînes.",
     "images": [
       "assets/banques/banques-architecture-44-15.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Sa structure primaire est pauvre en proline.",
+      "Sa structure secondaire est une hélice gauche de translation 0,29 nm.",
+      "La glycine assure la rigidité de l’hélice gauche.",
+      "La structure quaternaire du collagène est formée de 6 hélices gauches.",
+      "Le tropocollagène est stabilisé par des liaisons inter-chaînes."
     ],
     "answers": [
       false,
@@ -4565,7 +4589,9 @@
     "correctionSourcePages": [
       27
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant le collagène :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-architecture-45",
@@ -4577,16 +4603,16 @@
     "chapter": "structurale",
     "topic": "Architecture des protéines",
     "title": "Parmi les acides aminés suivants, lesquels ne sont pas présents dans la",
-    "text": "QUESTION 14 : Parmi les acides aminés suivants, lesquels ne sont pas présents dans la\nstructure du collagène ?\nLa lysine\nLe Glutamate\nL’arginine\nLa sérine\nLa proline\n2022-2023\nPas d’annales",
+    "text": "Parmi les acides aminés suivants, lesquels ne sont pas présents dans la structure du collagène ?\nA. La lysine.\nB. Le glutamate.\nC. L’arginine.\nD. La sérine.\nE. La proline.",
     "images": [
       "assets/banques/banques-architecture-45-16.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La lysine.",
+      "Le glutamate.",
+      "L’arginine.",
+      "La sérine.",
+      "La proline."
     ],
     "answers": [
       false,
@@ -4608,7 +4634,9 @@
     "correctionSourcePages": [
       27
     ],
-    "matchScore": 0.929
+    "matchScore": 0.929,
+    "intro": "Parmi les acides aminés suivants, lesquels ne sont pas présents dans la structure du collagène ?",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-methodes-1",
@@ -4658,7 +4686,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-2",
@@ -4708,7 +4736,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-3",
@@ -4758,7 +4786,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-4",
@@ -4857,7 +4885,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-6",
@@ -4907,7 +4935,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-7",
@@ -4957,7 +4985,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-8",
@@ -5007,7 +5035,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-9",
@@ -5160,7 +5188,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-12",
@@ -5210,7 +5238,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-13",
@@ -5260,7 +5288,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-14",
@@ -5310,7 +5338,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-15",
@@ -5465,7 +5493,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-18",
@@ -5515,7 +5543,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-19",
@@ -5565,7 +5593,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-20",
@@ -5616,7 +5644,7 @@
       15,
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-21",
@@ -5716,7 +5744,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-23",
@@ -5767,7 +5795,7 @@
       17,
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-24",
@@ -5871,7 +5899,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-26",
@@ -5975,7 +6003,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-28",
@@ -6026,7 +6054,7 @@
       20,
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-29",
@@ -6076,7 +6104,7 @@
     "correctionSourcePages": [
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-methodes-30",
@@ -6126,7 +6154,7 @@
     "correctionSourcePages": [
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-1",
@@ -6276,7 +6304,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-4",
@@ -6326,7 +6354,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-5",
@@ -6376,7 +6404,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-6",
@@ -6426,7 +6454,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-7",
@@ -6476,7 +6504,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-8",
@@ -6526,7 +6554,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-9",
@@ -6576,7 +6604,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-structure-fonction-10",
@@ -6676,7 +6704,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-2",
@@ -6726,7 +6754,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-3",
@@ -6776,7 +6804,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-4",
@@ -6826,7 +6854,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-5",
@@ -6877,7 +6905,7 @@
       4,
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-6",
@@ -6978,7 +7006,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-8",
@@ -7028,7 +7056,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-9",
@@ -7078,7 +7106,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-10",
@@ -7232,7 +7260,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-13",
@@ -7333,7 +7361,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-15",
@@ -7384,7 +7412,7 @@
       9,
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-16",
@@ -7434,7 +7462,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-17",
@@ -7485,7 +7513,7 @@
       10,
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-18",
@@ -7535,7 +7563,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-19",
@@ -7586,7 +7614,7 @@
       11,
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-20",
@@ -7636,7 +7664,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-21",
@@ -7686,7 +7714,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-22",
@@ -7736,7 +7764,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-23",
@@ -7786,7 +7814,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-24",
@@ -7837,7 +7865,7 @@
       13,
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-25",
@@ -7887,7 +7915,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-26",
@@ -7938,7 +7966,7 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-genome-27",
@@ -7988,7 +8016,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-1",
@@ -8038,7 +8066,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-2",
@@ -8088,7 +8116,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-3",
@@ -8187,7 +8215,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-5",
@@ -8287,7 +8315,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-7",
@@ -8337,7 +8365,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-8",
@@ -8387,7 +8415,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-9",
@@ -8591,7 +8619,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-13",
@@ -8691,7 +8719,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-15",
@@ -8742,7 +8770,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-16",
@@ -8792,7 +8820,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-17",
@@ -8942,7 +8970,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-20",
@@ -8992,7 +9020,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-21",
@@ -9042,7 +9070,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-22",
@@ -9092,7 +9120,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-23",
@@ -9142,7 +9170,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-24",
@@ -9192,7 +9220,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-25",
@@ -9291,7 +9319,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-27",
@@ -9341,7 +9369,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-28",
@@ -9391,7 +9419,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-29",
@@ -9441,7 +9469,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-30",
@@ -9492,7 +9520,7 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-acides-nucleiques-31",
@@ -9542,7 +9570,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-1",
@@ -9642,7 +9670,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-3",
@@ -9693,7 +9721,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-4",
@@ -9743,7 +9771,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-5",
@@ -9793,7 +9821,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-6",
@@ -9843,7 +9871,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-7",
@@ -9893,7 +9921,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-8",
@@ -9944,7 +9972,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-9",
@@ -9994,7 +10022,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-10",
@@ -10098,7 +10126,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-12",
@@ -10148,7 +10176,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-13",
@@ -10198,7 +10226,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-14",
@@ -10248,7 +10276,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-15",
@@ -10299,7 +10327,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-16",
@@ -10349,7 +10377,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-17",
@@ -10399,7 +10427,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-18",
@@ -10449,7 +10477,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-19",
@@ -10499,7 +10527,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-20",
@@ -10603,7 +10631,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-22",
@@ -10653,7 +10681,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-23",
@@ -10703,7 +10731,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-24",
@@ -10753,7 +10781,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-25",
@@ -10803,7 +10831,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-26",
@@ -10853,7 +10881,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-27",
@@ -10903,7 +10931,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-28",
@@ -11003,7 +11031,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-techniques-bm-30",
@@ -11053,7 +11081,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-1",
@@ -11103,7 +11131,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-2",
@@ -11153,7 +11181,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-3",
@@ -11204,7 +11232,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-4",
@@ -11254,7 +11282,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-5",
@@ -11304,7 +11332,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-6",
@@ -11354,7 +11382,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-7",
@@ -11404,7 +11432,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-8",
@@ -11454,7 +11482,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-9",
@@ -11504,7 +11532,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-10",
@@ -11608,7 +11636,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-12",
@@ -11658,7 +11686,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-13",
@@ -11708,7 +11736,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-14",
@@ -11758,7 +11786,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-15",
@@ -11809,7 +11837,7 @@
       9,
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-16",
@@ -11859,7 +11887,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-17",
@@ -11909,7 +11937,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-18",
@@ -11959,7 +11987,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-19",
@@ -12009,7 +12037,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-20",
@@ -12113,7 +12141,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-22",
@@ -12163,7 +12191,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-23",
@@ -12214,7 +12242,7 @@
       12,
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-24",
@@ -12264,7 +12292,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-25",
@@ -12314,7 +12342,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-26",
@@ -12364,7 +12392,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-27",
@@ -12414,7 +12442,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-28",
@@ -12464,7 +12492,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-29",
@@ -12514,7 +12542,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-30",
@@ -12564,7 +12592,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-31",
@@ -12669,7 +12697,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-33",
@@ -12719,7 +12747,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-34",
@@ -12769,7 +12797,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-35",
@@ -12819,7 +12847,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-36",
@@ -12869,7 +12897,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-37",
@@ -12919,7 +12947,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-38",
@@ -12969,7 +12997,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-39",
@@ -13019,7 +13047,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-replication-40",
@@ -13069,7 +13097,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-1",
@@ -13119,7 +13147,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-2",
@@ -13169,7 +13197,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-3",
@@ -13219,7 +13247,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-4",
@@ -13269,7 +13297,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-5",
@@ -13319,7 +13347,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-6",
@@ -13369,7 +13397,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-7",
@@ -13419,7 +13447,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-8",
@@ -13469,7 +13497,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-9",
@@ -13519,7 +13547,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-10",
@@ -13623,7 +13651,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-12",
@@ -13673,7 +13701,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-13",
@@ -13773,7 +13801,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-15",
@@ -13823,7 +13851,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-16",
@@ -13873,7 +13901,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-17",
@@ -13923,7 +13951,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-18",
@@ -13973,7 +14001,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-19",
@@ -14023,7 +14051,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-20",
@@ -14127,7 +14155,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-22",
@@ -14177,7 +14205,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-23",
@@ -14227,7 +14255,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-24",
@@ -14277,7 +14305,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-25",
@@ -14327,7 +14355,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-26",
@@ -14377,7 +14405,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-27",
@@ -14427,7 +14455,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-28",
@@ -14477,7 +14505,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-29",
@@ -14581,7 +14609,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-31",
@@ -14631,7 +14659,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-32",
@@ -14681,7 +14709,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-transcription-33",
@@ -14781,7 +14809,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-2",
@@ -14831,7 +14859,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-3",
@@ -14882,7 +14910,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-4",
@@ -14932,7 +14960,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-5",
@@ -14982,7 +15010,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-6",
@@ -15032,7 +15060,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-7",
@@ -15082,7 +15110,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-8",
@@ -15133,7 +15161,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-9",
@@ -15183,7 +15211,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-10",
@@ -15285,7 +15313,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-12",
@@ -15335,7 +15363,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-13",
@@ -15385,7 +15413,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-14",
@@ -15435,7 +15463,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-15",
@@ -15485,7 +15513,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-16",
@@ -15535,7 +15563,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-17",
@@ -15585,7 +15613,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-18",
@@ -15635,7 +15663,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-19",
@@ -15685,7 +15713,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-20",
@@ -15735,7 +15763,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-21",
@@ -15785,7 +15813,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-22",
@@ -15835,7 +15863,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-23",
@@ -15885,7 +15913,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-24",
@@ -15935,7 +15963,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-25",
@@ -15985,7 +16013,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-26",
@@ -16036,7 +16064,7 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-27",
@@ -16086,7 +16114,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-28",
@@ -16136,7 +16164,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-29",
@@ -16186,7 +16214,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-traduction-30",
@@ -16236,7 +16264,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-1",
@@ -16286,7 +16314,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-2",
@@ -16336,7 +16364,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-3",
@@ -16386,7 +16414,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-4",
@@ -16436,7 +16464,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-5",
@@ -16486,7 +16514,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-6",
@@ -16536,7 +16564,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-7",
@@ -16586,7 +16614,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-8",
@@ -16636,7 +16664,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-9",
@@ -16686,7 +16714,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-10",
@@ -16790,7 +16818,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-12",
@@ -16840,7 +16868,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-13",
@@ -16890,7 +16918,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-14",
@@ -16940,7 +16968,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-15",
@@ -16990,7 +17018,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-16",
@@ -17040,7 +17068,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-17",
@@ -17140,7 +17168,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-19",
@@ -17190,7 +17218,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-20",
@@ -17294,7 +17322,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-22",
@@ -17344,7 +17372,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-23",
@@ -17395,7 +17423,7 @@
       12,
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-24",
@@ -17445,7 +17473,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-25",
@@ -17495,7 +17523,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-26",
@@ -17545,7 +17573,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-27",
@@ -17595,7 +17623,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-28",
@@ -17645,7 +17673,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-29",
@@ -17695,7 +17723,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-regulation-30",
@@ -17745,7 +17773,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-1",
@@ -17845,7 +17873,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-3",
@@ -17896,7 +17924,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-4",
@@ -17946,7 +17974,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-5",
@@ -17996,7 +18024,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-6",
@@ -18046,7 +18074,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-7",
@@ -18096,7 +18124,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-8",
@@ -18147,7 +18175,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-9",
@@ -18197,7 +18225,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-10",
@@ -18301,7 +18329,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-12",
@@ -18351,7 +18379,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-13",
@@ -18402,7 +18430,7 @@
       7,
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-14",
@@ -18452,7 +18480,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-15",
@@ -18502,7 +18530,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-16",
@@ -18552,7 +18580,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-17",
@@ -18602,7 +18630,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-18",
@@ -18653,7 +18681,7 @@
       9,
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-19",
@@ -18703,7 +18731,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-20",
@@ -18769,16 +18797,16 @@
     "chapter": "enzymologie",
     "topic": "Enzymologie 1",
     "title": "Concernant les propriétés générales des enzymes :",
-    "text": "Question 21 : Concernant les propriétés générales des enzymes :\n101.OUI/NON Les enzymes sont des catalyseurs retrouvés uniquement dans le monde\nvivant eucaryote.\n102.OUI/NON Les enzymes sont consommées au cours de la réaction.\nLes enzymes accélèrent les réactions d’un facteur k > 104. 103.OUI/NON\n104.OUI/NON Les enzymes ne modifient pas l’équilibre thermodynamique.\n105.OUI/NON Une enzyme peut rendre une réaction endothermique ou exothermique.",
+    "text": "Concernant les propriétés générales des enzymes :\nA. Les enzymes sont des catalyseurs retrouvés uniquement dans le monde vivant eucaryote.\nB. Les enzymes sont consommées au cours de la réaction.\nC. Les enzymes accélèrent les réactions d’un facteur k > 10⁴.\nD. Les enzymes ne modifient pas l’équilibre thermodynamique.\nE. Une enzyme peut rendre une réaction endothermique ou exothermique.",
     "images": [
       "assets/banques/banques-enzymologie-1-21-7.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Les enzymes sont des catalyseurs retrouvés uniquement dans le monde vivant eucaryote.",
+      "Les enzymes sont consommées au cours de la réaction.",
+      "Les enzymes accélèrent les réactions d’un facteur k > 10⁴.",
+      "Les enzymes ne modifient pas l’équilibre thermodynamique.",
+      "Une enzyme peut rendre une réaction endothermique ou exothermique."
     ],
     "answers": [
       false,
@@ -18800,7 +18828,9 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant les propriétés générales des enzymes :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-enzymologie-1-22",
@@ -18850,7 +18880,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-23",
@@ -18900,7 +18930,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-24",
@@ -18950,7 +18980,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-25",
@@ -19001,7 +19031,7 @@
       12,
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-26",
@@ -19051,7 +19081,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-27",
@@ -19101,7 +19131,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-28",
@@ -19151,7 +19181,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-29",
@@ -19201,7 +19231,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-30",
@@ -19251,7 +19281,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-31",
@@ -19355,7 +19385,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-33",
@@ -19405,7 +19435,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-34",
@@ -19456,7 +19486,7 @@
       16,
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-35",
@@ -19506,7 +19536,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-36",
@@ -19556,7 +19586,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-37",
@@ -19606,7 +19636,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-38",
@@ -19656,7 +19686,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-39",
@@ -19707,7 +19737,7 @@
       18,
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-40",
@@ -19757,7 +19787,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-41",
@@ -19808,7 +19838,7 @@
       19,
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-42",
@@ -19858,7 +19888,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-43",
@@ -19908,7 +19938,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-44",
@@ -19958,7 +19988,7 @@
     "correctionSourcePages": [
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-45",
@@ -20008,7 +20038,7 @@
     "correctionSourcePages": [
       21
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-1-46",
@@ -20059,7 +20089,7 @@
       21,
       22
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-1",
@@ -20159,7 +20189,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-3",
@@ -20210,7 +20240,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-4",
@@ -20310,7 +20340,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-6",
@@ -20410,7 +20440,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-8",
@@ -20510,7 +20540,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-10",
@@ -20576,16 +20606,16 @@
     "chapter": "enzymologie",
     "topic": "Enzymologie 2",
     "title": "Concernant la vitesse initiale :",
-    "text": "Question 11 : Concernant la vitesse initiale :\n51. OUI/NON La courbe de la variation en concentration de substrat et celle de la\nconcentration en produit sont images l’une de l’autre.\n𝑑[𝑆] 52. OUI/NON V = 𝑑𝑡.\n53. OUI/NON La phase pré-stationnaire dure plusieurs minutes.\n54. OUI/NON En phase stationnaire, la vitesse est constante.\n55. OUI/NON La phase d’équilibre est représentée par un plateau.",
+    "text": "Concernant la vitesse initiale :\nA. La courbe de la variation en concentration de substrat et celle de la concentration en produit sont images l’une de l’autre.\nB. V = d[S]/dt.\nC. La phase pré-stationnaire dure plusieurs minutes.\nD. En phase stationnaire, la vitesse est constante.\nE. La phase d’équilibre est représentée par un plateau.",
     "images": [
       "assets/banques/banques-enzymologie-2-11-4.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La courbe de la variation en concentration de substrat et celle de la concentration en produit sont images l’une de l’autre.",
+      "V = d[S]/dt.",
+      "La phase pré-stationnaire dure plusieurs minutes.",
+      "En phase stationnaire, la vitesse est constante.",
+      "La phase d’équilibre est représentée par un plateau."
     ],
     "answers": [
       true,
@@ -20607,7 +20637,9 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Concernant la vitesse initiale :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-enzymologie-2-12",
@@ -20657,7 +20689,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-13",
@@ -20669,16 +20701,16 @@
     "chapter": "enzymologie",
     "topic": "Enzymologie 2",
     "title": "A propos de cette courbe :",
-    "text": "Question 13 : A propos de cette courbe :\n61. OUI/NON Elle représente l’équation Vmax = f[S].\n62. OUI/NON Elle représente l’équation de Michaelis-Menten.\n63. OUI/NON Plus on augmente la concentration en substrat plus la vitesse diminue.\n64. OUI/NON V0 et S0 sont proportionnelles.\nQuand [S]🡪   ,  Vo🡪 Vmax. 65. OUI/NON",
+    "text": "À propos de cette courbe (voir le graphique de l’énoncé original) :\nA. Elle représente l’équation Vmax = f[S].\nB. Elle représente l’équation de Michaelis-Menten.\nC. Plus on augmente la concentration en substrat, plus la vitesse diminue.\nD. V₀ et S₀ sont proportionnelles.\nE. Quand [S] → [symbole non lisible dans le document], V₀ → Vmax.",
     "images": [
       "assets/banques/banques-enzymologie-2-13-4.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Elle représente l’équation Vmax = f[S].",
+      "Elle représente l’équation de Michaelis-Menten.",
+      "Plus on augmente la concentration en substrat, plus la vitesse diminue.",
+      "V₀ et S₀ sont proportionnelles.",
+      "Quand [S] → [symbole non lisible dans le document], V₀ → Vmax."
     ],
     "answers": [
       false,
@@ -20700,7 +20732,9 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "À propos de cette courbe (voir le graphique de l’énoncé original) :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-enzymologie-2-14",
@@ -20750,7 +20784,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-15",
@@ -20800,7 +20834,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-16",
@@ -20850,7 +20884,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-17",
@@ -20900,7 +20934,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-18",
@@ -20950,7 +20984,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-19",
@@ -21000,7 +21034,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-20",
@@ -21104,7 +21138,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-22",
@@ -21154,7 +21188,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-23",
@@ -21303,7 +21337,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-26",
@@ -21354,7 +21388,7 @@
       15,
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-27",
@@ -21404,7 +21438,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-28",
@@ -21508,7 +21542,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-30",
@@ -21558,7 +21592,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-31",
@@ -21608,7 +21642,7 @@
     "correctionSourcePages": [
       19
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-32",
@@ -21658,7 +21692,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-33",
@@ -21708,7 +21742,7 @@
     "correctionSourcePages": [
       20
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-2-34",
@@ -22465,7 +22499,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-2",
@@ -22515,7 +22549,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-3",
@@ -22566,7 +22600,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-4",
@@ -22616,7 +22650,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-5",
@@ -22666,7 +22700,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-6",
@@ -22716,7 +22750,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-7",
@@ -22766,7 +22800,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-8",
@@ -22817,7 +22851,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-9",
@@ -22867,7 +22901,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-10",
@@ -22971,7 +23005,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-12",
@@ -23021,7 +23055,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-13",
@@ -23072,7 +23106,7 @@
       7,
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-14",
@@ -23122,7 +23156,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-15",
@@ -23172,7 +23206,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-16",
@@ -23222,7 +23256,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-17",
@@ -23324,7 +23358,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-19",
@@ -23374,7 +23408,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-20",
@@ -23424,7 +23458,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-21",
@@ -23474,7 +23508,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-22",
@@ -23525,7 +23559,7 @@
       11,
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-23",
@@ -23575,7 +23609,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-24",
@@ -23625,7 +23659,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-25",
@@ -23675,7 +23709,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-26",
@@ -23725,7 +23759,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-27",
@@ -23829,7 +23863,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-29",
@@ -23841,16 +23875,16 @@
     "chapter": "enzymologie",
     "topic": "Enzymologie 3",
     "title": "A propos d'une enzyme michaelienne :",
-    "text": "Question 29 : A propos d'une enzyme michaelienne :\nCi-dessous les mesures de la vitesse initiale v0 selon différentes concentrations de substrat.\n141. La constante Km de l'enzyme pour le substrat est  9 × 10 -6 mol.L -1\nLa constante Km de l'enzyme pour le substrat est 20 × 10 -6mol.L-1 142.\n143. L'enzyme est allostérique pour ce substrat.\n144. En traçant le graphe correspondant au tableau on obtient une représentation de\nMichaelis et Menten.\n145. En traçant le graphe correspondant au tableau on obtient une représentation de\nLineweaver-Burk.",
+    "text": "À propos d’une enzyme michaelienne : ci-dessous les mesures de la vitesse initiale v₀ selon différentes concentrations de substrat. Voir le tableau de l’énoncé original.\nA. La constante Km de l’enzyme pour le substrat est 9 × 10⁻⁶ mol·L⁻¹.\nB. La constante Km de l’enzyme pour le substrat est 20 × 10⁻⁶ mol·L⁻¹.\nC. L’enzyme est allostérique pour ce substrat.\nD. En traçant le graphe correspondant au tableau, on obtient une représentation de Michaelis et Menten.\nE. En traçant le graphe correspondant au tableau, on obtient une représentation de Lineweaver-Burk.",
     "images": [
       "assets/banques/banques-enzymologie-3-29-8.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La constante Km de l’enzyme pour le substrat est 9 × 10⁻⁶ mol·L⁻¹.",
+      "La constante Km de l’enzyme pour le substrat est 20 × 10⁻⁶ mol·L⁻¹.",
+      "L’enzyme est allostérique pour ce substrat.",
+      "En traçant le graphe correspondant au tableau, on obtient une représentation de Michaelis et Menten.",
+      "En traçant le graphe correspondant au tableau, on obtient une représentation de Lineweaver-Burk."
     ],
     "answers": [
       true,
@@ -23873,7 +23907,9 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "À propos d’une enzyme michaelienne : ci-dessous les mesures de la vitesse initiale v₀ selon différentes concentrations de substrat. Voir le tableau de l’énoncé original.",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-enzymologie-3-30",
@@ -23923,7 +23959,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-31",
@@ -23973,7 +24009,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-32",
@@ -24023,7 +24059,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-33",
@@ -24074,7 +24110,7 @@
       16,
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-34",
@@ -24124,7 +24160,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-35",
@@ -24174,7 +24210,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-36",
@@ -24224,7 +24260,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-enzymologie-3-37",
@@ -24274,7 +24310,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-1",
@@ -24324,7 +24360,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-2",
@@ -24374,7 +24410,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-3",
@@ -24424,7 +24460,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-4",
@@ -24474,7 +24510,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-5",
@@ -24525,7 +24561,7 @@
       4,
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-6",
@@ -24575,7 +24611,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-7",
@@ -24625,7 +24661,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-8",
@@ -24676,7 +24712,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-9",
@@ -24726,7 +24762,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-10",
@@ -24830,7 +24866,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "OONON\nOUI : les voies anaboliques utilisent de l’ATP pour synthétiser des molécules comme\nles protéines ou les lipides.\nOUI : les voies cataboliques produisent des équivalents réducteurs pendant la\ndégradation des macronutriments.\nNON : le cycle de Krebs est une voie amphibolique, car il joue un rôle dans\nl’anabolisme et le catabolisme.\nOUI : les voies amphiboliques se situent au carrefour du métabolisme, comme le cycle\nde Krebs.\nNON : la β-oxydation est une voie purement catabolique, car elle dégrade les acides\ngras pour produire de l’énergie.",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -24906,7 +24942,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "ONONN\nOUI : la glycolyse produit directement de l'ATP dans le cytosol.\nNON : le cycle de Krebs produit des équivalents réducteurs mais pas directement\nd'ATP.\nOUI : la chaîne respiratoire utilise les équivalents réducteurs pour produire de l'ATP\npar phosphorylation oxydative.\nNON : la β-oxydation produit de l'acétyl-CoA et des équivalents réducteurs, mais pas\ndirectement d'ATP.\nNON : la voie des pentoses phosphates produit du NADPH, mais pas d'ATP.",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -24992,7 +25028,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "OONNN\nOUI : le foie stocke le glycogène et peut le libérer pour maintenir la glycémie.\nOUI : les muscles squelettiques stockent le glycogène pour un usage énergétique\nlocal.\nNON : le cerveau consomme du glucose mais ne le stocke pas sous forme de\nglycogène.\nNON : le tissu adipeux ne stocke pas le glucose en glycogène mais sous forme de\ntriglycérides.",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -25067,7 +25103,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "NOOON\nNON : les acides gras ne peuvent pas être convertis directement en glucose chez\nl’humain.\nOUI : les acides gras sont une source majeure d'énergie via la β-oxydation et le cycle\nde Krebs.\nOUI : les corps cétoniques sont produits à partir des acides gras lorsque le glucose est\nrare.\nOUI : l'acétyl-CoA dérivé des acides gras est un précurseur du cholestérol.\nNON : les acides gras ne sont pas convertis en pyruvate.",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -25139,7 +25175,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-16",
@@ -25191,7 +25227,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-17",
@@ -25241,7 +25277,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "NNOON\nNON : cytosol et mitochondrie.\nNON : cytosol et mitochondrie.\nNON : exclusivement dans la mitochondrie, la chaîne de respiration est dans leur\nmembrane INTERNE.\nOUI\nOUI",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -25302,7 +25338,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-19",
@@ -25352,7 +25388,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-20",
@@ -25456,7 +25492,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-22",
@@ -25506,7 +25542,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-23",
@@ -25557,7 +25593,7 @@
       11,
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-24",
@@ -25607,7 +25643,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-25",
@@ -25657,7 +25693,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-26",
@@ -25707,7 +25743,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-27",
@@ -25757,7 +25793,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-vue-metabolisme-28",
@@ -25808,7 +25844,7 @@
       13,
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-1",
@@ -25908,7 +25944,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-3",
@@ -26008,7 +26044,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-5",
@@ -26058,7 +26094,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-6",
@@ -26108,7 +26144,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-7",
@@ -26158,7 +26194,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-8",
@@ -26208,7 +26244,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-9",
@@ -26259,7 +26295,7 @@
       6,
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-10",
@@ -26360,7 +26396,7 @@
       7,
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-12",
@@ -26410,7 +26446,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-13",
@@ -26460,7 +26496,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-14",
@@ -26513,7 +26549,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-15",
@@ -26563,7 +26599,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-16",
@@ -26613,7 +26649,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-17",
@@ -26663,7 +26699,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "OOOOV\n31. OUI\n32. OUI\n33. OUI\n34. OUI\n35. NON : dans la membrane interne.",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -26734,7 +26770,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-19",
@@ -26785,7 +26821,7 @@
       10,
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-20",
@@ -26889,7 +26925,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-22",
@@ -26939,7 +26975,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-23",
@@ -26989,7 +27025,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-24",
@@ -27041,7 +27077,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-25",
@@ -27092,7 +27128,7 @@
       13,
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-26",
@@ -27142,7 +27178,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-27",
@@ -27193,7 +27229,7 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-28",
@@ -27243,7 +27279,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-29",
@@ -27295,7 +27331,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-30",
@@ -27361,16 +27397,16 @@
     "chapter": "metabolisme",
     "topic": "Cycle de Krebs",
     "title": "Concernant le cycle de Krebs :",
-    "text": "Question 31 : Concernant le cycle de Krebs :\n1. OUI/NON Le cycle de Krebs est localisé dans le cytosol uniquement.\n2. OUI/NON Le cycle de Krebs est localisé dans le cytosol et la mitochondrie.\n3. OUI/NON Il a lieu uniquement dans le foie.\n4. OUI/NON Le cycle de Krebs est nécessaire à la production énergétique.\n5. OUI/NON Le cycle de Krebs a lieu entre autres dans le globule rouge.\n6. OUI/NON",
+    "text": "Concernant le cycle de Krebs :\nA. Le cycle de Krebs est localisé dans le cytosol uniquement.\nB. Le cycle de Krebs est localisé dans le cytosol et la mitochondrie.\nC. Il a lieu uniquement dans le foie.\nD. Le cycle de Krebs est nécessaire à la production énergétique.\nE. Le cycle de Krebs a lieu entre autres dans le globule rouge.",
     "images": [
       "assets/banques/banques-krebs-31-8.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "Le cycle de Krebs est localisé dans le cytosol uniquement.",
+      "Le cycle de Krebs est localisé dans le cytosol et la mitochondrie.",
+      "Il a lieu uniquement dans le foie.",
+      "Le cycle de Krebs est nécessaire à la production énergétique.",
+      "Le cycle de Krebs a lieu entre autres dans le globule rouge."
     ],
     "answers": [
       false,
@@ -27392,7 +27428,9 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 0.935
+    "matchScore": 0.935,
+    "intro": "Concernant le cycle de Krebs :",
+    "transcriptionVerified": true
   },
   {
     "id": "banques-krebs-32",
@@ -27443,7 +27481,7 @@
       16,
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-33",
@@ -27495,7 +27533,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-34",
@@ -27546,7 +27584,7 @@
       17,
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-35",
@@ -27596,7 +27634,7 @@
     "correctionSourcePages": [
       18
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-krebs-36",
@@ -27696,7 +27734,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-2",
@@ -27746,7 +27784,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-3",
@@ -27797,7 +27835,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-4",
@@ -27847,7 +27885,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-5",
@@ -27897,7 +27935,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-6",
@@ -27947,7 +27985,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-7",
@@ -27997,7 +28035,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-8",
@@ -28048,7 +28086,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-9",
@@ -28098,7 +28136,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-10",
@@ -28202,7 +28240,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-12",
@@ -28253,7 +28291,7 @@
       7,
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-13",
@@ -28303,7 +28341,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0,
+    "matchScore": 1,
     "sourceExplanation": "Réponse : OOOON\n61. OUI : La glycolyse produit directement de l’ATP par phosphorylation au niveau du substrat.\n62. OUI : En conditions anaérobies, le pyruvate est réduit en lactate via la lactate déshydrogénase.\n63. OUI : En conditions aérobies, le pyruvate est transformé en acétyl-CoA qui entre dans le cycle\nde Krebs.\n64. NON : La glycolyse se déroule dans le cytoplasme, pas dans les mitochondries.\n65. OUI: Les érythrocytes dépendent exclusivement de la glycolyse pour produire de l’énergie,\ncar ils n’ont pas de mitochondries.",
     "sourceAnswers": null,
     "sourceCorrectionStatus": "conflict",
@@ -28387,7 +28425,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-15",
@@ -28437,7 +28475,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-16",
@@ -28542,7 +28580,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-18",
@@ -28592,7 +28630,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-19",
@@ -28642,7 +28680,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-20",
@@ -28692,7 +28730,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-21",
@@ -28742,7 +28780,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-22",
@@ -28792,7 +28830,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-23",
@@ -28842,7 +28880,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-24",
@@ -28892,7 +28930,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-25",
@@ -28942,7 +28980,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-26",
@@ -28992,7 +29030,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-27",
@@ -29042,7 +29080,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-28",
@@ -29092,7 +29130,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-29",
@@ -29142,7 +29180,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-glycolyse-30",
@@ -29192,7 +29230,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-1",
@@ -29242,7 +29280,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-2",
@@ -29292,7 +29330,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-3",
@@ -29343,7 +29381,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-4",
@@ -29393,7 +29431,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-5",
@@ -29446,7 +29484,7 @@
       4,
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-6",
@@ -29496,7 +29534,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-7",
@@ -29547,7 +29585,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-8",
@@ -29597,7 +29635,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-9",
@@ -29648,7 +29686,7 @@
       6,
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-10",
@@ -29751,7 +29789,7 @@
       7,
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-12",
@@ -29801,7 +29839,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-13",
@@ -29852,7 +29890,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-14",
@@ -29904,7 +29942,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-15",
@@ -29955,7 +29993,7 @@
       9,
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-16",
@@ -30005,7 +30043,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-17",
@@ -30056,7 +30094,7 @@
       10,
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-18",
@@ -30106,7 +30144,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-19",
@@ -30156,7 +30194,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-20",
@@ -30258,7 +30296,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-22",
@@ -30309,7 +30347,7 @@
       12,
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-23",
@@ -30359,7 +30397,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-24",
@@ -30412,7 +30450,7 @@
       13,
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-25",
@@ -30462,7 +30500,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-26",
@@ -30512,7 +30550,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-27",
@@ -30562,7 +30600,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-28",
@@ -30612,7 +30650,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-29",
@@ -30663,7 +30701,7 @@
       15,
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-lipides-30",
@@ -30713,7 +30751,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-1",
@@ -30763,7 +30801,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-2",
@@ -30813,7 +30851,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-3",
@@ -30864,7 +30902,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-4",
@@ -30914,7 +30952,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-5",
@@ -30965,7 +31003,7 @@
       4,
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-6",
@@ -31015,7 +31053,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-7",
@@ -31066,7 +31104,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-8",
@@ -31116,7 +31154,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-9",
@@ -31167,7 +31205,7 @@
       6,
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-10",
@@ -31270,7 +31308,7 @@
       7,
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-12",
@@ -31320,7 +31358,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-13",
@@ -31370,7 +31408,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-14",
@@ -31420,7 +31458,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-15",
@@ -31472,7 +31510,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-16",
@@ -31522,7 +31560,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-17",
@@ -31572,7 +31610,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-18",
@@ -31623,7 +31661,7 @@
       10,
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-19",
@@ -31675,7 +31713,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-20",
@@ -31829,7 +31867,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-23",
@@ -31880,7 +31918,7 @@
       12,
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-24",
@@ -31982,7 +32020,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-26",
@@ -32032,7 +32070,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-27",
@@ -32082,7 +32120,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-28",
@@ -32133,7 +32171,7 @@
       14,
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-29",
@@ -32183,7 +32221,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-30",
@@ -32287,7 +32325,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-biosynthese-32",
@@ -32337,7 +32375,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-1",
@@ -32387,7 +32425,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-2",
@@ -32437,7 +32475,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-3",
@@ -32487,7 +32525,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-4",
@@ -32591,7 +32629,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-6",
@@ -32641,7 +32679,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-7",
@@ -32691,7 +32729,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-8",
@@ -32741,7 +32779,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-9",
@@ -32791,7 +32829,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-10",
@@ -32841,7 +32879,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-11",
@@ -32891,7 +32929,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-12",
@@ -32941,7 +32979,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-13",
@@ -32991,7 +33029,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-14",
@@ -33095,7 +33133,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-16",
@@ -33145,7 +33183,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-17",
@@ -33195,7 +33233,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-18",
@@ -33245,7 +33283,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-19",
@@ -33295,7 +33333,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-20",
@@ -33345,7 +33383,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-21",
@@ -33395,7 +33433,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-22",
@@ -33445,7 +33483,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-23",
@@ -33497,7 +33535,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-24",
@@ -33547,7 +33585,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "banques-interrelations-25",
@@ -33597,7 +33635,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-1-1",
@@ -34945,7 +34983,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-2",
@@ -35045,7 +35083,7 @@
     "correctionSourcePages": [
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-4",
@@ -35096,7 +35134,7 @@
       4,
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-5",
@@ -35146,7 +35184,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-6",
@@ -35198,7 +35236,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-7",
@@ -35248,7 +35286,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-8",
@@ -35352,7 +35390,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-10",
@@ -35403,7 +35441,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-11",
@@ -35455,7 +35493,7 @@
     "correctionSourcePages": [
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-12",
@@ -35506,7 +35544,7 @@
       9,
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-13",
@@ -35556,7 +35594,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-14",
@@ -35606,7 +35644,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-15",
@@ -35656,7 +35694,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-16",
@@ -35706,7 +35744,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-17",
@@ -35756,7 +35794,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-18",
@@ -35861,7 +35899,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-20",
@@ -35913,7 +35951,7 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-21",
@@ -35963,7 +36001,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-22",
@@ -36013,7 +36051,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-23",
@@ -36063,7 +36101,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-24",
@@ -36113,7 +36151,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "eb-eb-2-25",
@@ -36165,7 +36203,7 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-1",
@@ -36215,7 +36253,7 @@
     "correctionSourcePages": [
       3
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-2",
@@ -36266,7 +36304,7 @@
       3,
       4
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-3",
@@ -36403,7 +36441,7 @@
     "correctionSourcePages": [
       5
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-5",
@@ -36454,7 +36492,7 @@
       5,
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-6",
@@ -36504,7 +36542,7 @@
     "correctionSourcePages": [
       6
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-7",
@@ -36555,7 +36593,7 @@
       6,
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-8",
@@ -36605,7 +36643,7 @@
     "correctionSourcePages": [
       7
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-9",
@@ -36655,7 +36693,7 @@
     "correctionSourcePages": [
       8
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-10",
@@ -36706,7 +36744,7 @@
       8,
       9
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-11",
@@ -36807,7 +36845,7 @@
     "correctionSourcePages": [
       10
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-13",
@@ -36858,7 +36896,7 @@
       10,
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-14",
@@ -36908,7 +36946,7 @@
     "correctionSourcePages": [
       11
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-15",
@@ -36959,7 +36997,7 @@
       11,
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-16",
@@ -37009,7 +37047,7 @@
     "correctionSourcePages": [
       12
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-17",
@@ -37060,7 +37098,7 @@
       12,
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-18",
@@ -37110,7 +37148,7 @@
     "correctionSourcePages": [
       13
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-19",
@@ -37161,7 +37199,7 @@
       13,
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-20",
@@ -37173,16 +37211,16 @@
     "chapter": "biomol",
     "topic": "Transcription",
     "title": "Transcription et ARN polymérase",
-    "text": "Question 20 : Transcription et ARN polymérase\n96. OUI/NON La transcription est la synthèse de l’ADN à partir de l’ARN.\n97. OUI/NON L’ARN polymérase se fixe sur le promoteur, ce qui oriente la\ntranscription.\n98. OUI/NON La transcription nécessite une amorce d’ARN pour démarrer.\n99. OUI/NON Le brin d’ADN utilisé par l’ARN polymérase est le brin matrice.\nOUI/NON La synthèse du brin d’ARN se fait dans le sens 3’→5’. 100.",
+    "text": "Transcription et ARN polymérase\nA. La transcription est la synthèse de l’ADN à partir de l’ARN.\nB. L’ARN polymérase se fixe sur le promoteur, ce qui oriente la transcription.\nC. La transcription nécessite une amorce d’ARN pour démarrer.\nD. Le brin d’ADN utilisé par l’ARN polymérase est le brin matrice.\nE. La synthèse du brin d’ARN se fait dans le sens 3’→5’.",
     "images": [
       "assets/banques/td-td-1-20-8.webp"
     ],
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
+      "La transcription est la synthèse de l’ADN à partir de l’ARN.",
+      "L’ARN polymérase se fixe sur le promoteur, ce qui oriente la transcription.",
+      "La transcription nécessite une amorce d’ARN pour démarrer.",
+      "Le brin d’ADN utilisé par l’ARN polymérase est le brin matrice.",
+      "La synthèse du brin d’ARN se fait dans le sens 3’→5’."
     ],
     "answers": [
       false,
@@ -37204,7 +37242,9 @@
     "correctionSourcePages": [
       14
     ],
-    "matchScore": 1.0
+    "matchScore": 1,
+    "intro": "Transcription et ARN polymérase",
+    "transcriptionVerified": true
   },
   {
     "id": "td-td-1-21",
@@ -37254,7 +37294,7 @@
     "correctionSourcePages": [
       15
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-22",
@@ -37305,7 +37345,7 @@
       15,
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-23",
@@ -37355,7 +37395,7 @@
     "correctionSourcePages": [
       16
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-24",
@@ -37406,7 +37446,7 @@
       16,
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   },
   {
     "id": "td-td-1-25",
@@ -37456,6 +37496,6 @@
     "correctionSourcePages": [
       17
     ],
-    "matchScore": 1.0
+    "matchScore": 1
   }
 ]

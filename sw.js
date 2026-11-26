@@ -1,4 +1,4 @@
-const RELEASE = '20261124-6';
+const RELEASE = '20261126-1';
 const SHELL_CACHE = `campus-qcm-shell-${RELEASE}`;
 const MEDIA_CACHE = 'campus-qcm-media-v1';
 const ROOT = self.registration.scope;
