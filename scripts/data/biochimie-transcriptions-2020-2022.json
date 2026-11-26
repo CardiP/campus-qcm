@@ -1,0 +1,552 @@
+{
+  "annale-2020-2021-q1": {
+    "intro": "À propos des acides nucléiques :",
+    "choices": [
+      "Ce sont des polymères de nucléotides.",
+      "Ils sont constitués de bases puriques et pyrimidiques.",
+      "L’ARN ne contient pas de bases azotées.",
+      "ADN signifie « acide ribonucléique ».",
+      "Une liaison peptidique permet de lier deux nucléotides de façon covalente."
+    ]
+  },
+  "annale-2020-2021-q2": {
+    "intro": "À propos des génomes :",
+    "choices": [
+      "La renaturation d’un génome procaryote est d’autant plus lente que le génome est grand.",
+      "La température de fusion (Tm) augmente quand le pourcentage en GC augmente.",
+      "Le génome humain est constitué d’un chromosome circulaire unique.",
+      "Le génome mitochondrial humain est plus grand que le génome nucléaire humain.",
+      "Les gènes aux fonctions cellulaires vitales sont plus conservés que les gènes dont la fonction est sans grande importance vitale."
+    ]
+  },
+  "annale-2020-2021-q3": {
+    "intro": "À propos de la réplication de l’ADN :",
+    "choices": [
+      "Il existe une seule origine de réplication chez les Procaryotes.",
+      "La réplication de l’ADN chez les Procaryotes se fait sans enzyme.",
+      "La réplication de l’ADN se déclenche au cours de la mort cellulaire.",
+      "La réplication de l’ADN est dite semi-conservative en lien avec la structure en double hélice de l’ADN.",
+      "Les ADN polymérases ne font pas d’erreur."
+    ]
+  },
+  "annale-2020-2021-q4": {
+    "intro": "À propos de la réparation des dommages à l’ADN :",
+    "choices": [
+      "La stabilité de l’ADN est indispensable à la survie de l’espèce.",
+      "Il existe des protéines de réparation de l’ADN chez les Eucaryotes.",
+      "La réparation des dommages à l’ADN est mise en œuvre en priorité au niveau des gènes aux fonctions essentielles.",
+      "La réparation de l’ADN se fait dans le cytoplasme.",
+      "La mort cellulaire programmée est déclenchée quand les dommages à l’ADN sont irréparables."
+    ]
+  },
+  "annale-2020-2021-q5": {
+    "intro": "À propos du vaccin à « ARN messager » qui permet l’immunisation par traduction de la protéine Spike du SARS-COV2.",
+    "choices": [
+      "L’ARN messager sera directement traduit en protéine dans le noyau des cellules des patients.",
+      "La traduction de cet ARN messager en protéine nécessitera de l’ATP.",
+      "Les ARN contiennent des thymidines.",
+      "Les ARN messagers sont bicaténaires contrairement à l’ADN.",
+      "La traduction de cet ARN messager sera assurée par des ribosomes."
+    ]
+  },
+  "annale-2020-2021-q6": {
+    "intro": "À propos de la PCR",
+    "choices": [
+      "PCR est l’acronyme de « Polymerase chain reaction ».",
+      "L’ARN du SARS-COV2 peut directement être amplifié par PCR.",
+      "La PCR est une technique d’amplification de l’ADN.",
+      "Au cours d’une réaction PCR, l’amplification de l’ADN est exponentielle, la quantité double à chaque cycle.",
+      "La PCR fonctionne sans enzyme."
+    ]
+  },
+  "annale-2020-2021-q7": {
+    "intro": "Au cours de la traduction",
+    "choices": [
+      "Des ARN de transfert interviennent.",
+      "Une conformation particulière de l’ARN messager qui fait intervenir la coiffe et la queue polyA est nécessaire pour un bon rendement.",
+      "Plusieurs acides aminés peuvent correspondre à un codon.",
+      "Plusieurs codons peuvent correspondre à un acide aminé.",
+      "La protéine est produite de son extrémité N-terminale vers son extrémité C-terminale."
+    ]
+  },
+  "annale-2020-2021-q8": {
+    "intro": "À propos de la régulation de l’expression des gènes",
+    "choices": [
+      "Les protéines régulatrices peuvent se lier à l’ADN en établissant des liaisons faibles avec les bases du grand sillon.",
+      "Les domaines de liaison à l’ADN sont tous de type « Doigts de Zinc ».",
+      "L’acétylation de l’ADN intervient dans le remodelage de la chromatine.",
+      "L’acétylation des histones intervient dans le remodelage de la chromatine.",
+      "L’empreinte génomique parentale est spécifique aux Procaryotes."
+    ]
+  },
+  "annale-2020-2021-q9": {
+    "intro": "Liaisons faibles dans les molécules biologiques",
+    "choices": [
+      "Une liaison ionique s’établit entre des atomes de charges opposées.",
+      "L’énergie d’interaction d’une liaison ionique est supérieure à celle d’une liaison de van der Waals.",
+      "L’énergie d’une liaison de van der Waals est indépendante de la constante diélectrique de l’eau.",
+      "Une liaison ionique est plus faible dans le vide que dans une solution aqueuse.",
+      "Une molécule d’eau peut s’engager dans quatre liaisons hydrogène."
+    ]
+  },
+  "annale-2020-2021-q10": {
+    "intro": "L’acide aminé (a)",
+    "choices": [
+      "est un acide aminé essentiel.",
+      "est classé parmi les acides aminés hydrophobes.",
+      "a pour code à une lettre \"L\".",
+      "a une charge nette de +2 à pH 3,0.",
+      "est la L-Lys."
+    ]
+  },
+  "annale-2020-2021-q11": {
+    "intro": "Courbe de titration de l’acide aspartique",
+    "choices": [
+      "Le plateau 1 correspond au pKa de la fonction α-aminée.",
+      "Le plateau 3 correspond au pKa de la fonction α-carboxylique.",
+      "Le point 4 correspond au point isoélectrique (pI).",
+      "À pH 7,0, c’est la forme zwitterion qui prédomine.",
+      "Au niveau 5, cet acide aminé porte deux charges négatives."
+    ]
+  },
+  "annale-2020-2021-q12": {
+    "intro": "Structure et propriétés des protéines",
+    "choices": [
+      "La liaison peptidique confère à la protéine un maximum d’absorption à 210 nm.",
+      "La solubilité d’une protéine globulaire est minimale à un pH égal à son pI.",
+      "La liaison peptidique est rompue par un traitement à l’urée.",
+      "Les structures en feuillets β anti-parallèles sont stabilisées par des liaisons ioniques.",
+      "La masse d’un pentapeptide est inférieure à 1000 Da."
+    ]
+  },
+  "annale-2020-2021-q13": {
+    "intro": "Protéines de transport et de stockage de l’oxygène (O₂)\nLes tracés (1) et (2) représentent respectivement les courbes d’oxygénation de la myoglobine (Mb) et de l’hémoglobine (Hb) α₂β₂ à pH = 7,2.",
+    "choices": [
+      "L’observation des tracés (1) et (2) suffit à démontrer une affinité de l’Hb pour l’O₂ supérieure à celle de la Mb.",
+      "L’aspect sigmoïde de la courbe (2) traduit une fixation de l’oxygène par l’Hb de type coopératif positif.",
+      "Toute chose restant identique par ailleurs, une augmentation d’une unité de pH provoquera un décalage de la courbe (1) vers la droite.",
+      "Toute chose restant identique par ailleurs, une augmentation de pCO₂ provoquera un décalage de la courbe (2) vers la droite.",
+      "Dans les mêmes conditions d’étude, la courbe d’oxygénation de l’hémoglobine fœtale serait semblable à la courbe (2) mais décalée vers la droite."
+    ]
+  },
+  "annale-2020-2021-q14": {
+    "intro": "À propos des peptides (a) et (b), une seule proposition est vraie : laquelle ?\n(a) L-W-K-P-E\n(b) A-P-R-K-R-K-T-A",
+    "choices": [
+      "À pH 7, (a) et (b) peuvent être séparés par chromatographie sur une résine échangeuse d’anions.",
+      "Au cours d’une chromatographie d’exclusion stérique, (a) est élué de la colonne avant (b).",
+      "(a) est sensible à l’action de la trypsine.",
+      "La concentration de (b) dans la solution peut être déterminée en utilisant la réaction du Biuret.",
+      "(b) adopte spontanément une structure en hélice α."
+    ]
+  },
+  "annale-2020-2021-q15": {
+    "intro": "Le cholestérol",
+    "choices": [
+      "est un ester d’acide phosphatidique.",
+      "est un sphingolipide constitué de 27 atomes de carbone.",
+      "transporte divers ions dans les membranes cellulaires.",
+      "agit comme co-enzyme dans la formation d’AMPc.",
+      "est le précurseur de la vitamine E."
+    ]
+  },
+  "annale-2020-2021-q16": {
+    "intro": "Structures peptidiques\nL’ocytocine (a) et la vasopressine (b) sont deux hormones nonapeptidiques avec des activités biologiques très différentes alors que leurs séquences en acides aminés sont très proches (7 résidus identiques et un pont disulfure (Cys¹ - Cys⁶))\n(a) C-Y-I-Q-N-C-P-L-G\n(b) C-Y-F-Q-N-C-P-R-G\nCes deux hormones peuvent être distinguées l’une de l’autre par :",
+    "choices": [
+      "leur profil de digestion par la chymotrypsine.",
+      "le produit issu de leur traitement par le 1-fluoro-2,4-dinitrobenzène (DNFB).",
+      "leur mobilité électrophorétique dans des conditions non-dénaturantes, à pH 8,5.",
+      "leur profil d’hydrolyse par HCl 6N à 110°C pendant 24 heures.",
+      "leur capacité à former des liaisons ioniques à pH 7,0."
+    ]
+  },
+  "annale-2020-2021-q17": {
+    "intro": "À propos de la catalyse enzymatique :",
+    "choices": [
+      "Elle fait intervenir des résidus d’acides aminés du site actif.",
+      "Elle peut mettre en jeu un transfert de protons.",
+      "Elle peut associer des mécanismes acide-base et covalent.",
+      "Elle est maintenue après dénaturation du site actif.",
+      "La catalyse métallique peut faire intervenir l’ion zinc Zn²⁺."
+    ]
+  },
+  "annale-2020-2021-q18": {
+    "intro": "Les graphes de Lineweaver-Burk ci-dessous représentent l’effet d’inhibiteurs potentiels (I1 à I4) d’une enzyme E, la droite 0 étant la référence sans inhibiteur.",
+    "choices": [
+      "I1 est un inhibiteur compétitif.",
+      "I1 n’est pas un inhibiteur.",
+      "I2 est un inhibiteur compétitif.",
+      "I3 un inhibiteur non-compétitif.",
+      "I4 est un inhibiteur incompétitif."
+    ]
+  },
+  "annale-2020-2021-q19": {
+    "intro": "À propos de l’équation de Michaelis-Menten",
+    "choices": [
+      "Elle exprime la vitesse initiale en fonction de la concentration de substrat.",
+      "Elle est linéarisée en la transformant par les doubles inverses.",
+      "Elle permet de déterminer Km au point d’intersection du graphe de Michaelis avec l’axe des abscisses.",
+      "La limite du graphe de Michaelis est une asymptote.",
+      "C’est l’équation d’une sigmoïde."
+    ]
+  },
+  "annale-2020-2021-q20": {
+    "intro": "À propos de l’allostérie enzymatique :",
+    "choices": [
+      "Le substrat se lie dans le site effecteur.",
+      "La représentation graphique de v₀ = f([S]) est une hyperbole.",
+      "La vitesse maximale (Vmax) est infinie.",
+      "Quand v₀ = Vmax/2, [S] = K₀,₅.",
+      "Un inhibiteur allostérique stabilise la forme de l’enzyme la moins affine pour le substrat."
+    ]
+  },
+  "annale-2020-2021-q21": {
+    "intro": "L’enzyme glucose-6-phosphatase est produite dans :",
+    "choices": [
+      "Les érythrocytes.",
+      "Le foie.",
+      "Le muscle.",
+      "Le tissu adipeux.",
+      "La glande mammaire en lactation."
+    ]
+  },
+  "annale-2020-2021-q22": {
+    "intro": "La voie métabolique indiquée se déroule exclusivement dans le cytosol :",
+    "choices": [
+      "La chaîne respiratoire.",
+      "La glycolyse.",
+      "La cétogenèse.",
+      "La lipogenèse.",
+      "La néoglucogenèse."
+    ]
+  },
+  "annale-2020-2021-q23": {
+    "intro": "Concernant la chaîne respiratoire :",
+    "choices": [
+      "Le complexe III de la chaîne respiratoire est la succinate déshydrogénase.",
+      "Un gradient de protons passe du compartiment intermembranaire vers la matrice mitochondriale au niveau des complexes I, III et IV.",
+      "L’ATP synthase est une enzyme transmembranaire positionnée au niveau de la membrane mitochondriale interne.",
+      "La synthèse d’ATP est réalisée à partir d’une molécule d’ADP et d’une molécule de phosphate inorganique.",
+      "Le coenzyme Q est une protéine hydrosoluble localisée sur la face externe de la membrane mitochondriale interne."
+    ]
+  },
+  "annale-2020-2021-q24": {
+    "intro": "Concernant le cycle de l’acide citrique",
+    "choices": [
+      "En situation aérobie, il intervient dans la production d’énergie à partir des glucides, des lipides, des acides aminés et des corps cétoniques.",
+      "Il permet l’oxydation complète d’une molécule d’acétyl-CoA en produisant du CO₂, de l’H₂O, du GTP, du NAD⁺ et du FAD.",
+      "Il est régulé par des mécanismes allostériques en fonction des besoins énergétiques.",
+      "La succinyl-CoA déshydrogénase est l’une des enzymes du cycle.",
+      "C’est un passage obligatoire pour la synthèse des acides gras à partir du glucose."
+    ]
+  },
+  "annale-2020-2021-q25": {
+    "intro": "Concernant le pyruvate et l’acétyl-CoA :",
+    "choices": [
+      "La lactate déshydrogénase est présente dans le compartiment cytosolique.",
+      "L’ALAT (alanine aminotransférase) convertit de façon réversible le pyruvate en alanine.",
+      "Le complexe pyruvate déshydrogénase convertit le pyruvate en acétyl-CoA.",
+      "La pyruvate carboxylase convertit l’acétyl-CoA en oxalo-acétate.",
+      "Le pyruvate peut passer la membrane mitochondriale interne en empruntant un transporteur."
+    ]
+  },
+  "annale-2020-2021-q26": {
+    "intro": "À propos du glycogène :",
+    "choices": [
+      "C’est un polymère de glucose branché en α-1,3 et en α-1,6.",
+      "C’est un polymère de glucose organisé autour d’un radical glycogénine.",
+      "La production du glucose-1-phosphate à partir du glycogène par la glycogène synthase nécessite l’hydrolyse d’une molécule d’ATP.",
+      "La synthèse du glycogène nécessite l’activation d’une molécule de glucose activée sous forme de glucose-CoA.",
+      "La dégradation du glycogène est réalisée par la glycogène phosphorylase."
+    ]
+  },
+  "annale-2020-2021-q27": {
+    "intro": "Les enzymes suivantes sont impliquées dans la néoglucogenèse :",
+    "choices": [
+      "La phospho-énol pyruvate carboxykinase.",
+      "La pyruvate kinase.",
+      "L’acyl-CoA déshydrogénase.",
+      "L’acétyl CoA carboxylase.",
+      "La pyruvate carboxylase."
+    ]
+  },
+  "annale-2020-2021-q28": {
+    "intro": "Concernant les lipoprotéines :",
+    "choices": [
+      "Les lipoprotéines les plus riches en triglycérides sont les LDL.",
+      "Les lipoprotéines les moins riches en protéines sont les chylomicrons.",
+      "Les VLDL sont synthétisées par le foie.",
+      "Les HDL drainent l’excès de cholestérol des tissus périphériques vers le foie.",
+      "La lipoprotéine lipase permet la transformation des chylomicrons en remnants."
+    ]
+  },
+  "annale-2020-2021-q29": {
+    "intro": "Concernant le métabolisme des glucides :",
+    "choices": [
+      "Le rendement énergétique de la glycolyse en aérobiose dépend du type de navette utilisée pour transférer dans la mitochondrie le NADH, H⁺ produit par la glycéraldehyde-3-phosphate déshydrogénase.",
+      "La glucokinase est une enzyme exprimée dans tous les tissus de l’organisme sauf le foie et le pancréas.",
+      "L’hexokinase est une enzyme régulée de façon allostérique.",
+      "La phosphofructokinase 1 (PFK1) catalyse la conversion du fructose-6-phosphate en fructose-2,6-bisphosphate.",
+      "La pyruvate kinase est activée de façon allostérique par le fructose-1,6-bisphosphate."
+    ]
+  },
+  "annale-2020-2021-q30": {
+    "intro": "Le NADPH, H⁺ est un coenzyme utilisé lors de :",
+    "choices": [
+      "La glycolyse aérobie.",
+      "La glycolyse anaérobie.",
+      "La β-oxydation.",
+      "La lipogenèse.",
+      "La cétogenèse."
+    ]
+  },
+  "annale-2021-2022-q1": {
+    "intro": "Les acides aminés standard",
+    "choices": [
+      "Tous les acides aminés standard ont une masse molaire inférieur à 250 Da.",
+      "Tous les acides aminés standard possèdent au minimum un carbone asymétrique.",
+      "Tous les acides aminés protéinogènes sont des acides aminés essentiels.",
+      "Tous les acides aminés polaires ont un pouvoir rotatoire de la lumière polarisée.",
+      "Tous les acides aminés standard ont un caractère amphotère."
+    ]
+  },
+  "annale-2021-2022-q2": {
+    "intro": "L’acide aminé (a)",
+    "choices": [
+      "La molécule (a) est la L-Phe.",
+      "La molécule (a) est un acide aminé essentiel.",
+      "La molécule (a) absorbe la lumière à 280nm.",
+      "Au sein d’une protéine, les résidus de (a) stabilisent les structures en hélice α.",
+      "À pH 6,0, la molécule (a) est principalement sous la forme zwitterion."
+    ]
+  },
+  "annale-2021-2022-q3": {
+    "intro": "Les liaisons peptidiques",
+    "choices": [
+      "Le traitement d’une protéine par l’acide chlorhydrique 6N, à 110°C pendant 24 heures rompt les liaisons peptidiques.",
+      "La liaison peptidique est une liaison ionique à caractère polaire.",
+      "La liaison peptidique est à la fois plane et rigide.",
+      "Les liaisons peptidiques confèrent aux protéines un pic d’absorption de la lumière à 210 nm.",
+      "La réaction chimique qui conduit à la formation d’une liaison peptidique est thermodynamiquement spontanée."
+    ]
+  },
+  "annale-2021-2022-q4": {
+    "intro": "Propriétés des acides aminés et des peptides\nLe peptide suivant : LACHIMIECESTGENIAL",
+    "choices": [
+      "est sensible à l’action du bromure de cyanogène.",
+      "a une charge nette de +2 à pH 1,0.",
+      "est sensible à l’action de la chymotrypsine.",
+      "contient trois acides aminés soufrés.",
+      "est adsorbé sur une résine échangeuse d’anions à pH 7,5."
+    ]
+  },
+  "annale-2021-2022-q5": {
+    "intro": "Structure et propriétés des protéines",
+    "choices": [
+      "La structure quaternaire du collagène est stabilisée par des ponts disulfure.",
+      "La solubilité d’une protéine globulaire est minimale à un pH égal à son pI.",
+      "La liaison peptidique est rompue par un traitement à l’urée.",
+      "Les structures en feuillets β anti-parallèles sont stabilisées par des liaisons ioniques.",
+      "La structure tertiaire de la myoglobine est stabilisée par des ponts disulfure."
+    ]
+  },
+  "annale-2021-2022-q6": {
+    "intro": "Analyse des protéines\nOn dispose d’un mélange de 3 protéines globulaires (a), (b) et (c) à pH 8.\nLa protéine (a) est un monomère de 42 kDa dont le pI est 11.\nLa protéine (b) est un homodimère de 42 kDa dont le pI est 4.\nLa protéine (c) est un homotétramère de 168 kDa dont le pI est 7.\nParmi les propositions suivantes, indiquez celle qui est exacte.",
+    "choices": [
+      "Si le mélange est soumis à une électrophorèse sur gel de polyacrylamide, en présence de SDS et de β-mercaptoéthanol, on observera 2 bandes après coloration au bleu de Coomassie.",
+      "À pH 8, seule la protéine (a) est sous forme cationique.",
+      "Si le mélange est soumis à une chromatographie échangeuse d’anions à pH 8, seules les protéines (b) et (c) interagiront avec la phase stationnaire.",
+      "Si le mélange est soumis à une chromatographie d’exclusion stérique, l’ordre d’élution des protéines du mélange sera (a) et (b) simultanément, suivi de (c).",
+      "La solubilité de la protéine (a) est maximale à pH 11."
+    ]
+  },
+  "annale-2021-2022-q7": {
+    "intro": "À propos de l’hémoglobine",
+    "choices": [
+      "L’hémoglobine est une holoprotéine tétramérique.",
+      "Les angles ψ et ϕ de part et d’autre de l’Histidine F8 ont l’un et l’autre une valeur négative.",
+      "La distance axiale entre l’Histidine E7 et le résidu E4 qui la précède est 4,5 Å.",
+      "L’histidine proximale établit une liaison de coordination avec l’atome de fer de l’hème.",
+      "Son affinité pour le monoxyde carbone est plus grande que pour l’oxygène moléculaire."
+    ]
+  },
+  "annale-2021-2022-q8": {
+    "intro": "À propos des peptides (a) et (b) en solution\n(a) A-P-R-K-R-K-A-T\n(b) A-E-K-P-W",
+    "choices": [
+      "À pH 7, (a) et (b) peuvent être séparés par chromatographie sur une résine échangeuse d’anions.",
+      "Le traitement par le 1-fluoro-2,4-dinitobenzène permet de mettre en évidence la présence des deux protéines dans la solution.",
+      "Seul (a) est sensible à l’action de la trypsine.",
+      "La concentration de (a) dans la solution peut être déterminée en utilisant la réaction du Biuret.",
+      "(a) adopte spontanément une structure en hélice α."
+    ]
+  },
+  "annale-2021-2022-q9": {
+    "intro": "Les acides nucléiques",
+    "choices": [
+      "Les acides nucléiques sont des polymères d’acides aminés.",
+      "Des bases puriques et pyrimidiques entrent dans leur composition.",
+      "Chez les Eucaryotes, les acides nucléiques sont des composés spécifiques du noyau.",
+      "ADN signifie « acide désoxyribonucléique ».",
+      "Une liaison phosphodiester permet de lier de façon covalente deux nucléotides."
+    ]
+  },
+  "annale-2021-2022-q10": {
+    "intro": "Les génomes",
+    "choices": [
+      "Le génome d’un Procaryote présente plusieurs phases de renaturation.",
+      "La température de fusion (Tm) n’est pas influencée par le pourcentage en GC.",
+      "Le génome nucléaire humain est constitué d’un chromosome circulaire unique.",
+      "Dans l’espèce humaine, le génome mitochondrial est plus petit que le génome nucléaire.",
+      "L’être humain est le « Roi de la nature » car il a le plus gros génome."
+    ]
+  },
+  "annale-2021-2022-q11": {
+    "intro": "La réplication de l’ADN",
+    "choices": [
+      "Il existe une seule origine de réplication chez les Procaryotes.",
+      "Il y a une seule fourche de réplication chez les Procaryotes.",
+      "La réplication de l’ADN est plus rapide chez les Eucaryotes que chez les Procaryotes.",
+      "La réplication est dite semi-conservative en lien avec la structure en double hélice de l’ADN.",
+      "À partir de chaque origine de réplication, il y a deux fourches de réplication qui progressent dans des directions opposées."
+    ]
+  },
+  "annale-2021-2022-q12": {
+    "intro": "Le vaccin à « ARN messager » permettant l’immunisation par la protéine Spike du SARS-COV2 vous permet de mettre en avant vos connaissances en biologie moléculaire.",
+    "choices": [
+      "L’ARN messager sera directement traduit en protéine dans le cytoplasme des cellules des patients.",
+      "La traduction de cet ARN messager en protéine nécessitera du GTP.",
+      "L’ARN contient de l’uracile.",
+      "Les ARN messagers sont bicaténaires chez les Eucaryotes.",
+      "La traduction de l’ARN messager sera assurée par une ARN polymérase de type II."
+    ]
+  },
+  "annale-2021-2022-q13": {
+    "intro": "La PCR",
+    "choices": [
+      "Est l’acronyme de « Polymerase chain reaction ».",
+      "L’ARN du SARS-COV2 peut directement être amplifié par PCR.",
+      "C’est une technique d’amplification de l’ADN.",
+      "L’amplification est exponentielle car la quantité d’ADN double à chaque cycle de PCR.",
+      "La PCR ne nécessite pas d’enzyme."
+    ]
+  },
+  "annale-2021-2022-q14": {
+    "intro": "Le séquençage Sanger de l’ADN",
+    "choices": [
+      "Repose sur la synthèse d’un brin complémentaire à l’un des brins de l’ADN.",
+      "Nécessite des dNTP marqués.",
+      "Nécessite des ddNTP marqués.",
+      "Nécessite deux amorces.",
+      "Nécessite une séparation par électrophorèse."
+    ]
+  },
+  "annale-2021-2022-q15": {
+    "intro": "La traduction",
+    "choices": [
+      "Le rendement de traduction dans le cytoplasme des ARN non épissés est plus élevé que celui des ARN messagers.",
+      "À un codon ne correspond qu’un seul acide aminé.",
+      "À un acide aminé peut correspondre plusieurs codons.",
+      "La protéine est synthétisée du domaine C-terminal vers le domaine N-terminal.",
+      "La traduction fait intervenir des ARN de transfert."
+    ]
+  },
+  "annale-2021-2022-q16": {
+    "intro": "La régulation de l’expression des gènes",
+    "choices": [
+      "Les protéines régulatrices peuvent se lier à l’ADN en établissant des liaisons faibles avec les bases du grand sillon.",
+      "L’acétylation des histones intervient dans le remodelage de la chromatine.",
+      "L’acétylation des cytosines de l’ADN intervient dans le remodelage de la chromatine.",
+      "Les domaines de liaison à l’ADN sont présents dans toutes les protéines codées par le génome humain.",
+      "L’empreinte génomique parentale fait intervenir la méthylation des guanines."
+    ]
+  },
+  "annale-2021-2022-q17": {
+    "intro": "Catalyse enzymatique",
+    "choices": [
+      "Les enzymes sont des catalyseurs abaissant la barrière de l’énergie d’activation.",
+      "Des substances non protéiques peuvent porter une activité de catalyse enzymatique.",
+      "L’enzyme dénaturée garde son activité catalytique.",
+      "Les enzymes extrêmophiles perdent leur activité catalytique aux températures extrêmes.",
+      "Les enzymes catalysent la transformation d’un produit en un ou plusieurs substrats."
+    ]
+  },
+  "annale-2021-2022-q18": {
+    "intro": "Classification des enzymes",
+    "choices": [
+      "Dans cette classification le deuxième chiffre donne la nature du substrat.",
+      "Les hydrolases n’ont pas besoin de cofacteur.",
+      "La phospho-hexose-isomérase est une enzyme de classe 3.",
+      "Les lyases ont besoin d’un cofacteur apportant une liaison riche en énergie.",
+      "Les hydrolases sont des enzymes de classe 2"
+    ]
+  },
+  "annale-2021-2022-q19": {
+    "intro": "Équation de Michaelis-Menten",
+    "choices": [
+      "Elle s’écrit par v₀ = Vm.[S]/(Km + [S]).",
+      "Sa représentation graphique permet de déterminer Km comme un point d’intersection de droites.",
+      "Elle correspond à un graphique linéaire.",
+      "Elle exprime les vitesses initiales en fonction des concentrations de substrat.",
+      "Elle est linéarisée en exprimant les inverses des vitesses initiales en fonction des inverses des concentrations de substrat."
+    ]
+  },
+  "annale-2021-2022-q20": {
+    "intro": "Régulation des enzymes",
+    "choices": [
+      "L’activation des zymogènes est une régulation non covalente.",
+      "La phosphorylation des enzymes est une régulation activatrice.",
+      "L’allostérie est une régulation non covalente des enzymes.",
+      "Une enzyme allostérique de type K modifie le Km.",
+      "Un inhibiteur allostérique déplace la sigmoïde vers la droite."
+    ]
+  },
+  "annale-2021-2022-q21": {
+    "intro": "Le cycle de Krebs et la chaîne respiratoire",
+    "choices": [
+      "La matrice mitochondriale est plus électronégative que l’espace inter-membranaire.",
+      "Le NADH, H⁺ est la forme réduite du NAD⁺.",
+      "La dégradation complète d’une molécule d’acétyl-CoA en un tour du cycle de Krebs permet de générer 3 molécules de NADH, H⁺, 1 molécule de FADH₂ et une molécule d’ATP.",
+      "La molécule suivante : COOH-CH2-CH2-CO~SCoA est l’acétyl-CoA.",
+      "La synthèse d’ATP par l’ATP synthase est dépendante de la réoxydation des molécules de NADH, H⁺ et FADH₂ provenant du cycle de Krebs."
+    ]
+  },
+  "annale-2021-2022-q22": {
+    "intro": "La glycolyse",
+    "choices": [
+      "La phosphofructokinase 1 catalyse la conversion du glucose-6-phosphate en fructose-6-phosphate.",
+      "L’hexokinase phosphoryle le glucose en glucose-6-Phosphate de façon réversible.",
+      "La pyruvate kinase catalyse la conversion du 2 phospho-énol-pyruvate en pyruvate.",
+      "L’étape catalysée par la glucokinase permet de générer une molécule d’ATP à partir d’une molécule l’ADP.",
+      "La pyruvate kinase convertit une molécule d’ATP en ADP pour chaque molécule de substrat transformé en produit."
+    ]
+  },
+  "annale-2021-2022-q23": {
+    "intro": "Le glycogène",
+    "choices": [
+      "Le glycogène contenu dans le muscle participe au maintien de la glycémie.",
+      "La synthèse de glycogène débute par l’activation du glucose en glucose 6 phosphate par la glucokinase dans le foie.",
+      "La glycogène synthase est l’enzyme responsable de la formation des ramifications de la chaîne principale de glycogène par des liaisons osidiques alpha-1,6.",
+      "La glycogène phosphorylase est responsable de la libération du glucose sous forme de glucose-1-phosphate.",
+      "La glucose-6-phosphatase est une enzyme exprimée dans le muscle squelettique."
+    ]
+  },
+  "annale-2021-2022-q24": {
+    "intro": "Les lipoprotéines",
+    "choices": [
+      "Les lipides sont transportés dans le compartiment sanguin sous forme de lipoprotéines.",
+      "Les chylomicrons sont des lipoprotéines synthétisées par le foie.",
+      "Les lipoprotéines LDL sont les lipoprotéines les plus riches en triglycérides.",
+      "Les lipoprotéines HDL drainent le cholestérol des tissus périphériques vers le foie.",
+      "La fonction des LDL est de véhiculer le cholestérol synthétisé par le foie vers les tissus périphériques."
+    ]
+  },
+  "annale-2021-2022-q25": {
+    "intro": "La biosynthèse des acides gras",
+    "choices": [
+      "L’étape limitante de la synthèse des acides gras est catalysée par l’acétyl-CoA carboxylase.",
+      "Le foie possède toutes les enzymes nécessaires à la synthèse des acides gras.",
+      "L’acétyl-CoA est transféré du compartiment cytosolique vers la matrice mitochondriale via un transporteur spécifique : L’acétyl-CoA Translocase.",
+      "L’acide gras synthase est une enzyme homodimérique.",
+      "L’acétyl-CoA doit être activé sous forme d’acyl-CoA pour initier cette biosynthèse."
+    ]
+  }
+}

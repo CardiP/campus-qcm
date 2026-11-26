@@ -1,0 +1,82 @@
+{
+  "banques-architecture-32": {
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["DERKHNQST est un peptide.", "DERKHNQST est un polypeptide.", "DERKHNQST est une protéine.", "DERKHNQST est un oligopeptide.", "Un oligopeptide a un poids moyen inférieur à 1100 Da."]
+  },
+  "banques-architecture-33": {
+    "intro": "Concernant la liaison peptidique, quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["La liaison peptidique est covalente.", "Elle confère un pic d’absorption à 280 nm.", "C’est une réaction thermodynamiquement défavorable.", "Une molécule d’eau est libérée.", "La liaison peptidique est une liaison amine particulière à caractère de double liaison."]
+  },
+  "banques-architecture-34": {
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["La liaison peptidique est une liaison amide particulière, hybride de résonance entre trois formes extrêmes.", "La liaison peptidique a un caractère partiel de double liaison Ω = 0 ou Ω = 180°.", "Il n’y a pas de liberté de rotation entre le C du carbonyle et le N.", "Habituellement configuration Trans, angle de torsion Ω = 0°, exception : la liaison X-Pro dont 10 % sont Cis (Ω = 180°).", "Habituellement configuration Trans, angle de torsion Ω = 180°, exception : la liaison X-Pro dont 10 % sont Cis (Ω = 0°)."]
+  },
+  "banques-architecture-35": {
+    "intro": "La liaison peptidique possède trois propriétés fondamentales. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["Plane.", "Configuration cis.", "Rigide.", "Apolaire.", "Polaire."]
+  },
+  "banques-architecture-36": {
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["φ (phi) entre le Cα et l’N amidique.", "φ (phi) entre le Cα et le carbonyle.", "Plus grandes libertés de rotation autour de φ (phi) et ψ (psi).", "On peut déterminer les valeurs de φ et ψ stériquement possibles (autorisées) en calculant la distance entre les atomes d’un tétrapeptide.", "Certaines valeurs sont interdites par suite d’encombrements stériques entre la chaîne principale (squelette) et la chaîne latérale des AA."]
+  },
+  "banques-architecture-37": {
+    "intro": "Concernant les résidus favorables à une hélice α. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["V, I, T.", "D, E, R, K.", "P grâce à son groupement aminé.", "Volumineux, non ou peu polaires.", "L, F, W."]
+  },
+  "banques-architecture-38": {
+    "intro": "Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["Hélice de jonction 3,6₁₃.", "Hélice alpha 3,6₁₃.", "Hélice Pi 3₁₄.", "Feuillets β antiparallèles plus stables que les feuillets parallèles.", "Feuillets β parallèles plus stables que les feuillets antiparallèles."]
+  },
+  "banques-architecture-39": {
+    "intro": "Énoncé de la question 11 avec toutes les informations nécessaires. Données : Max veut faire une fiche de révisions pour les angles et le diagramme de Ramachandran. Je te propose de l’aider et de la recopier dans ton carnet d’erreur. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ? Voir le diagramme de l’énoncé original.",
+    "choices": ["Phi Cα–N est l’ordonnée et Cα–CO psi l’ordonnée.", "1 : feuillet β ; 2 : hélice droite fréquente (= hélice α) ; 3 : hélice gauche très rare ; 4 : conformation généralement interdite sauf pour la Gly.", "1 : feuillet β ; 2 : hélice droite très rare (= hélice α) ; 3 : hélice gauche fréquente ; 4 : conformation généralement interdite pour tous.", "1 : hélice droite fréquente (= hélice α) ; 2 : conformation impossible ; 3 : hélice gauche fréquente ; 4 : conformation impossible.", "1 : feuillet β ; 2 : hélice droite fréquente ; 3 : hélice gauche fréquente (= hélice α) ; 4 : conformation interdite sauf pour la Gly."]
+  },
+  "banques-architecture-40": {
+    "intro": "Max veut mettre des pointillés sur son diagramme pour se souvenir des valeurs, et c’est grâce au diagramme qu’on se souvient des valeurs. Quelle(s) est (sont) la (les) réponse(s) exacte(s) ?",
+    "choices": ["1 : feuillet β, φ (phi) = −60° et ψ (psi) = 90° ; 2 : hélice droite (= hélice α), φ = −60° et ψ = −60° ; 3 : hélice gauche, φ = +60° et ψ = +60° ; 4 : conformation interdite sauf pour la Gly, φ > 0° et ψ < 0°.", "1 : feuillet β, φ (phi) = −60° et ψ (psi) = 90° ; 2 : hélice gauche (= hélice α), φ = −60° et ψ = −60° ; 3 : hélice droite, φ = +60° et ψ = +60° ; 4 : conformation interdite sauf pour la Gly, φ > 0° et ψ < 0°.", "1 : conformation impossible ; 2 : hélice droite (= hélice α), φ (phi) = −60° et ψ (psi) = −60° ; 3 : hélice gauche, φ = +60° et ψ = +60° ; 4 : feuillet β, φ = +60°.", "Conformation impossible sauf pour la glycine, φ (phi) = 0° et ψ (psi) = 0°.", "Les 4 cadrans sont possibles dans un cas particulier."]
+  },
+  "banques-architecture-41": {
+    "intro": "Concernant la structure tertiaire des protéines :",
+    "choices": ["Elle correspond à la forme native et fonctionnelle de la protéine.", "Elle correspond à l’enchaînement des AA liés entre eux par des liaisons peptidiques.", "Elle ne porte pas l’activité biologique.", "La ribonucléase A ne possède pas de pont disulfure.", "La forme normale de Prion (PrPc) est extrêmement stable et insensible aux protéases et aux agents dénaturants."]
+  },
+  "banques-architecture-42": {
+    "intro": "À propos de la dénaturation des protéines :",
+    "choices": ["L’urée est un agent dénaturant réversible capable de rompre les ponts disulfures.", "La chaleur est un agent dénaturant réversible.", "Après une dénaturation irréversible, lorsque l’agent est retiré, la protéine sera incapable de retrouver ses structures secondaires et tertiaires.", "Le pH est un agent réducteur irréversible.", "Les ponts disulfures sont des liaisons non covalentes entre deux cystéines."]
+  },
+  "banques-architecture-43": {
+    "intro": "Concernant les protéines globulaires à structure quaternaire :",
+    "choices": ["La structure quaternaire concerne les protéines constituées de plusieurs chaînes polypeptidiques.", "Les anticorps sont composés de 2 chaînes légères et de 2 chaînes lourdes.", "Les anticorps sont riches en feuillets alpha.", "La protéine Spike est responsable de la liaison du virus à la surface des cellules hôtes.", "Les domaines constants CH2–CH3 des anticorps interviennent dans la reconnaissance de la cible des anticorps."]
+  },
+  "banques-architecture-44": {
+    "intro": "Concernant le collagène :",
+    "choices": ["Sa structure primaire est pauvre en proline.", "Sa structure secondaire est une hélice gauche de translation 0,29 nm.", "La glycine assure la rigidité de l’hélice gauche.", "La structure quaternaire du collagène est formée de 6 hélices gauches.", "Le tropocollagène est stabilisé par des liaisons inter-chaînes."]
+  },
+  "banques-architecture-45": {
+    "intro": "Parmi les acides aminés suivants, lesquels ne sont pas présents dans la structure du collagène ?",
+    "choices": ["La lysine.", "Le glutamate.", "L’arginine.", "La sérine.", "La proline."]
+  },
+  "banques-enzymologie-1-21": {
+    "intro": "Concernant les propriétés générales des enzymes :",
+    "choices": ["Les enzymes sont des catalyseurs retrouvés uniquement dans le monde vivant eucaryote.", "Les enzymes sont consommées au cours de la réaction.", "Les enzymes accélèrent les réactions d’un facteur k > 10⁴.", "Les enzymes ne modifient pas l’équilibre thermodynamique.", "Une enzyme peut rendre une réaction endothermique ou exothermique."]
+  },
+  "banques-enzymologie-2-11": {
+    "intro": "Concernant la vitesse initiale :",
+    "choices": ["La courbe de la variation en concentration de substrat et celle de la concentration en produit sont images l’une de l’autre.", "V = d[S]/dt.", "La phase pré-stationnaire dure plusieurs minutes.", "En phase stationnaire, la vitesse est constante.", "La phase d’équilibre est représentée par un plateau."]
+  },
+  "banques-enzymologie-2-13": {
+    "intro": "À propos de cette courbe (voir le graphique de l’énoncé original) :",
+    "choices": ["Elle représente l’équation Vmax = f[S].", "Elle représente l’équation de Michaelis-Menten.", "Plus on augmente la concentration en substrat, plus la vitesse diminue.", "V₀ et S₀ sont proportionnelles.", "Quand [S] → [symbole non lisible dans le document], V₀ → Vmax."]
+  },
+  "banques-enzymologie-3-29": {
+    "intro": "À propos d’une enzyme michaelienne : ci-dessous les mesures de la vitesse initiale v₀ selon différentes concentrations de substrat. Voir le tableau de l’énoncé original.",
+    "choices": ["La constante Km de l’enzyme pour le substrat est 9 × 10⁻⁶ mol·L⁻¹.", "La constante Km de l’enzyme pour le substrat est 20 × 10⁻⁶ mol·L⁻¹.", "L’enzyme est allostérique pour ce substrat.", "En traçant le graphe correspondant au tableau, on obtient une représentation de Michaelis et Menten.", "En traçant le graphe correspondant au tableau, on obtient une représentation de Lineweaver-Burk."]
+  },
+  "banques-krebs-31": {
+    "intro": "Concernant le cycle de Krebs :",
+    "choices": ["Le cycle de Krebs est localisé dans le cytosol uniquement.", "Le cycle de Krebs est localisé dans le cytosol et la mitochondrie.", "Il a lieu uniquement dans le foie.", "Le cycle de Krebs est nécessaire à la production énergétique.", "Le cycle de Krebs a lieu entre autres dans le globule rouge."]
+  },
+  "td-td-1-20": {
+    "intro": "Transcription et ARN polymérase",
+    "choices": ["La transcription est la synthèse de l’ADN à partir de l’ARN.", "L’ARN polymérase se fixe sur le promoteur, ce qui oriente la transcription.", "La transcription nécessite une amorce d’ARN pour démarrer.", "Le brin d’ADN utilisé par l’ARN polymérase est le brin matrice.", "La synthèse du brin d’ARN se fait dans le sens 3’→5’."]
+  }
+}

@@ -17,6 +17,14 @@ Site de révision adapté au téléphone et au PC, créé à partir des document
 
 Les données personnelles sont conservées dans le navigateur (`localStorage`). La sauvegarde JSON permet de les transférer entre appareils. Il n’y a ni compte ni synchronisation automatique. Les imports personnels ne modifient pas le site partagé.
 
+## Corriger un erratum
+
+Le bouton **Modifier la correction**, présent sur chaque QCM en Révision, en Annale et dans les résultats, permet de modifier les cinq réponses attendues et le texte explicatif. **À confirmer** laisse le QCM hors du score. Les modifications portent la mention **Erratum personnel**, restent disponibles hors connexion sur cet appareil et prennent le dessus sur la correction partagée. **Rétablir la correction d’origine** les annule. Les images du corrigé d’origine restent consultables.
+
+La session ouverte est recalculée immédiatement ; les autres anciennes sessions conservent leur score historique. Les sauvegardes incluent les errata ; à l’import, une correction plus ancienne ne remplace pas une plus récente. Pour transférer les modifications entre téléphone et PC, exporter puis importer la sauvegarde.
+
+Les 869 QCM de biochimie disposent de cinq propositions lisibles dans les lignes de réponse. Les annales et les découpages ambigus ont été vérifiés contre leurs images. Les transcriptions revues sont dans `scripts/data/biochimie-transcriptions-*.json` ; les réappliquer après une reconstruction des données avec `node scripts/biochimie-transcriptions.mjs`. Les réponses attendues et les corrigés scientifiques d’origine ne sont pas modifiés par ce script.
+
 ## Réviser hors connexion
 
 Le site télécharge automatiquement les énoncés, images, tableaux nécessaires et corrections **de la session choisie uniquement**. Il ne télécharge pas les images du reste de la bibliothèque. La question actuelle et les suivantes passent avant les questions précédentes encore manquantes ; cet ordre est réévalué à chaque réponse et chaque changement de QCM. Une réponse relance aussi le téléchargement s’il était interrompu et que la connexion est revenue.

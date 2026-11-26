@@ -1,4 +1,4 @@
-export const RELEASE = '20261124-6';
+export const RELEASE = '20261126-1';
 export const MEDIA_CACHE = 'campus-qcm-media-v1';
 
 export function questionAssets(questions, baseURL) {

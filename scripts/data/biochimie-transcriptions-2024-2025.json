@@ -1,0 +1,252 @@
+{
+  "annale-2024-2025-q1": {
+    "intro": "Soit l’acide aminé (a)",
+    "choices": [
+      "(a) possède une chaîne latérale polaire chargée.",
+      "(a) est un acide aminé synthétisé par l’homme.",
+      "Le pI de l’acide aminé (a) est inférieur à celui de l’acide aminé « Ile ».",
+      "L’acide aminé (a) peut être le siège d’une modification post-traductionnelle.",
+      "Le code à une lettre de l’acide aminé (a) est « N »."
+    ]
+  },
+  "annale-2024-2025-q2": {
+    "intro": "Au sujet de la structure des protéines",
+    "choices": [
+      "Les hélices gauches sont caractérisées par des angles ψ et φ positifs.",
+      "La composition du peptide « L-I-C-T-V-W-P-Y-V » est favorable à la formation d’une hélice α.",
+      "Dans les feuillets β parallèles, chaque résidu d’acides aminés d’un brin établit des liaisons hydrogène avec deux résidus d’acides aminés différents du brin adjacent.",
+      "Dans l’hélice α, les chaînes latérales des résidus d’acides aminés sont orientées vers l’intérieur de l’hélice.",
+      "Les feuillets β parallèles sont plus stables que les feuillets β anti-parallèles car la distance axiale est de 3,5 Å."
+    ]
+  },
+  "annale-2024-2025-q3": {
+    "intro": "Au sujet des méthodes d’exploration des protéines",
+    "choices": [
+      "La réaction avec le DNFB permet d’identifier entre 3 et 5 acides aminés N-terminaux.",
+      "L’absorption de la lumière par la liaison peptidique à 280 nm est plus importante et plus spécifique qu’à 210 nm.",
+      "Pour purifier une protéine par chromatographie échangeuse d’ions, la phase stationnaire est choisie en fonction du pI de la protéine.",
+      "Le bleu de Coomassie est un colorant bleu qui se fixe sur les groupements acides des protéines.",
+      "Les peptides générés par l’action du bromure de cyanogène sur un polypeptide ne peuvent pas être ensuite séquencés par la dégradation d’Edman."
+    ]
+  },
+  "annale-2024-2025-q4": {
+    "intro": "Au sujet de la relation structure-fonction des protéines",
+    "choices": [
+      "L’allure sigmoïdale de la courbe de saturation en oxygène de l’hémoglobine est due à la rupture des liaisons ioniques stabilisatrices de la forme R de la protéine.",
+      "En fonction de son état oxygéné ou non, la myoglobine adopte deux structures tertiaires légèrement différentes.",
+      "La stabilisation de la structure quaternaire de la désoxy-hémoglobine par des liaisons ioniques entre les résidus β His H21 et le 2,3-bisphosphoglycérate (2,3-BPG) conduit à la réduction de l’affinité de l’hémoglobine pour l’oxygène.",
+      "Dans le muscle, une augmentation de la pCO₂ n’affecte pas le relargage de l’oxygène par l’hémoglobine.",
+      "Le 2,3-bisphosphoglycérate (2,3-BPG) a plus d’affinité pour la chaîne β de l’hémoglobine adulte que pour la chaîne γ de l’hémoglobine fœtale."
+    ]
+  },
+  "annale-2024-2025-q5": {
+    "intro": "Au sujet de la liaison peptidique",
+    "choices": [
+      "De part et d’autre de la liaison peptidique, la valeur des angles φ et ψ augmente par rotation dans le sens des aiguilles d’une montre en observant la liaison depuis le Cα.",
+      "Les conformations interdites pour un tripeptide sont celles pour lesquelles la distance séparant deux atomes non-liés est inférieure à la distance de contact de van der Waals correspondante.",
+      "La réaction chimique de formation de la liaison peptidique est thermodynamiquement favorable.",
+      "Le plan de l’amide contient trois atomes de carbone, un atome d’azote, un atome d’oxygène et un atome d’hydrogène.",
+      "Une séquence de type « polyGly » est caractérisée par de multiples repliements de la chaîne polypeptidique et une grande variété de conformations."
+    ]
+  },
+  "annale-2024-2025-q6": {
+    "intro": "Soit la séquence peptidique (P) A-G-Q-K-M-Y-P-S-V",
+    "choices": [
+      "L’action de la carboxypeptidase A libère un octapeptide.",
+      "On obtient un tripeptide et un hexapeptide après action de la chymotrypsine.",
+      "Après hydrolyse acide, la réaction à la ninhydrine avec chacun des acides aminés libérés conduit à la formation de composés bleus.",
+      "On obtient un tétrapeptide et un pentapeptide après action du CNBr.",
+      "La masse moléculaire de (P) est proche de 1 ± 0,45 kDa."
+    ]
+  },
+  "annale-2024-2025-q7": {
+    "intro": "Au sujet de l’architecture des protéines",
+    "choices": [
+      "Les ponts disulfure sont essentiels au maintien de la structure tertiaire des protéines.",
+      "La structure tertiaire caractéristique des protéines globulaires impose l’activité biologique.",
+      "L’abondance de brins β confère à la protéine PrPsc son pouvoir pathogène.",
+      "Un protomère est constitué d’une seule chaîne protéique.",
+      "La structure quaternaire du tropocollagène est stabilisée par des liaisons hydrogène entre les hélices gauches."
+    ]
+  },
+  "annale-2024-2025-q8": {
+    "intro": "Soit l’oligopeptide (O) : Gly-Met-Pro-Glu-Arg-Gln-Lys-Asn",
+    "choices": [
+      "À pH = 5,0, la charge nette de (O) est +2.",
+      "(O) est susceptible d’être glycosylé.",
+      "(O) peut être purifié sur une colonne de chromatographie échangeuse d’ions type DEAE équilibrée à pH = 8,0 suivie d’une élution par un gradient de pH décroissant.",
+      "(O) possède 3 résidus d’acides aminés essentiels.",
+      "(O) possède autant de chaînes latérales chargées positivement que négativement à pH = 5,0."
+    ]
+  },
+  "annale-2024-2025-q9": {
+    "intro": "Au sujet des acides nucléiques",
+    "choices": [
+      "Les deux brins de l’ADN sont antiparallèles.",
+      "L’adénine est une base purique.",
+      "L’adénosine (A) peut s’apparier avec la thymidine (T) au moyen de 2 liaisons hydrogène.",
+      "Les acides nucléiques sont des polymères de nucléosides.",
+      "Les deux brins de l’ADN s’hybrident grâce à des liaisons hydrogène."
+    ]
+  },
+  "annale-2024-2025-q10": {
+    "intro": "Au sujet des génomes",
+    "choices": [
+      "La renaturation des génomes procaryotes est d’autant plus rapide que le génome est petit.",
+      "La température de fusion (Tm) augmente quand le pourcentage de guanosines augmente.",
+      "Le génome mitochondrial est circulaire.",
+      "Le génome nucléaire humain est constitué de 22 paires d’autosomes et 1 paire de chromosomes sexuels.",
+      "La taille du génome est directement proportionnelle au degré de complexité des organismes."
+    ]
+  },
+  "annale-2024-2025-q11": {
+    "intro": "Au sujet de la réplication",
+    "choices": [
+      "Il existe plusieurs origines de réplication par chromosome chez les eucaryotes.",
+      "La réplication est dite semi-conservative à cause des erreurs de réplication.",
+      "Les ADN polymérases synthétisent l’ADN de façon processive.",
+      "Le clamp est un facteur de processivité.",
+      "La synthèse des fragments d’Okazaki se fait dans le sens 3’ vers 5’."
+    ]
+  },
+  "annale-2024-2025-q12": {
+    "intro": "Au sujet de la transcription",
+    "choices": [
+      "Le brin négatif des chromosomes eucaryotes sert toujours de brin matrice.",
+      "Dans un type cellulaire donné, tous les gènes sont transcrits avec le même niveau d’expression.",
+      "L’exon correspond à la séquence codante d’un ARN.",
+      "Les introns sont éliminés par épissage.",
+      "Des modifications post-transcriptionnelles sont indispensables pour la stabilité des ARN messagers."
+    ]
+  },
+  "annale-2024-2025-q13": {
+    "intro": "Au sujet de la traduction",
+    "choices": [
+      "Chez les eucaryotes, elle se déroule dans le noyau.",
+      "La protéine est produite dans le sens N-terminal vers C-terminal.",
+      "La traduction de l’ARN de transfert en protéine nécessite des ARN messagers.",
+      "Le code génétique est dit dégénéré car plusieurs codons peuvent correspondre à un même acide aminé.",
+      "Le wobble concerne le premier nucléotide du codon et le troisième nucléotide de l’anticodon."
+    ]
+  },
+  "annale-2024-2025-q14": {
+    "intro": "Au sujet de la régulation de l’expression des gènes",
+    "choices": [
+      "Les protéines régulatrices établissent des liaisons covalentes avec l’ADN au niveau du grand sillon.",
+      "Toutes les protéines participant à cette régulation se lient à l’ADN.",
+      "Certaines protéines avec des domaines « doigts de zinc » peuvent lier l’ADN.",
+      "La méthylation de l’ADN est possible sur toutes les cytosines du génome.",
+      "L’empreinte génomique parentale est spécifique des procaryotes."
+    ]
+  },
+  "annale-2024-2025-q15": {
+    "intro": "Au sujet de la PCR",
+    "choices": [
+      "L’ARN du SARS-COV2 est directement amplifiable par PCR.",
+      "L’amplification par PCR est exponentielle car la quantité d’ADN double à chaque cycle.",
+      "La PCR nécessite une enzyme Taq polymérase.",
+      "La PCR nécessite une dénaturation de l’ADN par chauffage.",
+      "La PCR nécessite une seule amorce."
+    ]
+  },
+  "annale-2024-2025-q16": {
+    "intro": "Au sujet du séquençage de l’ADN par la méthode de Sanger",
+    "choices": [
+      "Les bloqueurs de polymérisation sont des didesoxyribonucléosides triphosphate (ddNTP).",
+      "Les bloqueurs de polymérisation sont marqués.",
+      "Les bloqueurs de polymérisation sont modifiés au niveau du carbone 5’ du sucre.",
+      "Le séquençage nécessite deux amorces.",
+      "Une électrophorèse doit être réalisée."
+    ]
+  },
+  "annale-2024-2025-q17": {
+    "intro": "Au sujet des enzymes",
+    "choices": [
+      "Elles peuvent modifier l’équilibre d’une réaction.",
+      "Elles ont une conformation rigide.",
+      "Elles sont consommées au cours des réactions qu’elles catalysent.",
+      "Elles possèdent toujours un domaine de fixation du substrat, un site actif et un domaine de dimérisation.",
+      "Leur activité est dépendante du pH."
+    ]
+  },
+  "annale-2024-2025-q18": {
+    "intro": "En enzymologie",
+    "choices": [
+      "Parmi les mécanismes de catalyse enzymatique, celui de l’attaque nucléophile crée un intermédiaire covalent stable.",
+      "La majorité des coenzymes vrais sont des molécules protéiques dérivées des vitamines du groupe B.",
+      "L’enzyme augmente l’énergie d’activation du substrat.",
+      "Une réaction enzymatique peut être co-catalysée par l’ion Mg²⁺.",
+      "Au cours de la transformation enzymatique du substrat en produit, la vitesse initiale de la réaction catalysée par l’enzyme peut être déterminée à n’importe quel point de la courbe [P] = f(temps)."
+    ]
+  },
+  "annale-2024-2025-q19": {
+    "intro": "Au sujet de la cinétique enzymatique Michaelienne",
+    "choices": [
+      "L’équation de Michaelis-Menten relie la vitesse initiale à la concentration en substrat.",
+      "La vitesse initiale de la réaction est proportionnelle à la concentration du complexe enzyme-substrat.",
+      "La vitesse initiale de la réaction est indépendante de la température.",
+      "La constante de Michaelis Km dépend de la concentration en substrat utilisée.",
+      "Un inhibiteur incompétitif réversible augmente le rapport Vm apparente/Km apparente."
+    ]
+  },
+  "annale-2024-2025-q20": {
+    "intro": "Au sujet des modulations d’activité enzymatique\nSoit le graphique suivant V₀ = f([S]) ; toutes les courbes ont été obtenues dans les mêmes conditions : A sans inhibiteur, B et C en présence d’un inhibiteur.",
+    "choices": [
+      "Ce graphique correspond à une représentation d’Eadie-Hosftee.",
+      "Les courbes B et C peuvent être obtenues en présence d’un inhibiteur compétitif réversible.",
+      "Les courbes B et C peuvent être obtenues en présence d’un inhibiteur non compétitif réversible.",
+      "Les courbes B et C peuvent être obtenues en présence d’un inhibiteur incompétitif réversible.",
+      "Les courbes B et C peuvent être obtenues en présence d’un activateur allostérique."
+    ]
+  },
+  "annale-2024-2025-q21": {
+    "intro": "Au sujet de la chaîne respiratoire :",
+    "choices": [
+      "Le NADH,H⁺ transfère ses électrons au complexe II de la chaîne respiratoire.",
+      "Le cytochrome C est un composé très hydrophobe, donc mobile dans la membrane mitochondriale interne.",
+      "Les électrons provenant de la réoxydation du FADH₂ en FAD permettent la formation d’H₂O à partir des ions H⁺ et du dioxygène présents dans la matrice mitochondriale.",
+      "L’ATP phosphorylase permet la formation d’ATP à partir d’une molécule d’ADP et de phosphate inorganique.",
+      "Le complexe II de la chaîne respiratoire est la succinate deshydrogénase."
+    ]
+  },
+  "annale-2024-2025-q22": {
+    "intro": "Au sujet de la glycolyse",
+    "choices": [
+      "La phosphofructokinase 1 est une enzyme impliquée dans la néoglucogenèse et dans la glycolyse.",
+      "Une concentration élevée de glucose-6-phosphate inhibe l’activité de la pyruvate kinase.",
+      "Le 2,3-bisphosphoglycérate (2,3-BPG) est un intermédiaire de la glycolyse dans toutes les cellules de l’organisme.",
+      "La phosphofructokinase 1 permet la synthèse de fructose-1,6-bisphosphate à partir du fructose-6-phosphate.",
+      "Une concentration élevée d’ATP dans la cellule active la phosphofructokinase 1."
+    ]
+  },
+  "annale-2024-2025-q23": {
+    "intro": "Au sujet des lipoprotéines",
+    "choices": [
+      "Les LDL contiennent environ 10% de cholestérol.",
+      "Le foie synthétise les VLDL, les HDL et les chylomicrons.",
+      "Les HDL sont les lipoprotéines les plus denses.",
+      "Les VLDL contiennent environ 50% de triglycérides.",
+      "Le cholestérol est dégradé par la lipoprotéine lipase."
+    ]
+  },
+  "annale-2024-2025-q24": {
+    "intro": "Au sujet de la β-oxydation des acides gras",
+    "choices": [
+      "Pour être oxydé dans le cycle de la β-oxydation, les acides gras doivent être activés sous forme d’acyl-CoA.",
+      "La dégradation d’un acide gras à nombre impair de carbone génère une molécule d’oxaloacétate qui entre dans le cycle de Krebs.",
+      "Elle est réalisée exclusivement dans le foie et le muscle.",
+      "Un acide gras à plus de 12 atomes de carbone doit passer par la navette carnitine pour être dégradé.",
+      "La voie de la β-oxydation permet de générer de l’acétyl-CoA qui pourra entrer dans le cycle de Krebs ou servir de précurseur aux corps cétoniques."
+    ]
+  },
+  "annale-2024-2025-q25": {
+    "intro": "Au sujet des corps cétoniques",
+    "choices": [
+      "Le myocarde utilise les corps cétoniques à des fins énergétiques.",
+      "Le foie est le seul organe capable de synthétiser les corps cétoniques.",
+      "A partir de l’acéto-acétate, la cétolyse permet de former deux molécules d’acétyl-CoA.",
+      "L’α-cétoglutarate est un corps cétonique.",
+      "Les corps cétoniques sont stockés dans le foie sous forme de polymères."
+    ]
+  }
+}

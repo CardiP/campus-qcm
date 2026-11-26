@@ -4,6 +4,31 @@ export function matchesSource(q, filters) {
  return questionSources(q).some(s=>(!filters.category || filters.category==='all' || s.category===filters.category) && (!filters.source || s.sourceId===filters.source));
 }
 export const LETTERS = ['A','B','C','D','E'];
+export function validateErratum(raw, now=Date.now()) {
+ if(!raw || !Array.isArray(raw.answers) || raw.answers.length!==5 || raw.answers.some(value=>value!==true&&value!==false&&value!==null))throw Error('Indique Oui, Non ou À confirmer pour chacune des cinq propositions.');
+ if(typeof raw.explanation!=='string'||raw.explanation.length>12000)throw Error('La correction doit contenir au maximum 12 000 caractères.');
+ const updatedAt=raw.updatedAt??now;
+ if(!Number.isFinite(updatedAt)||updatedAt<0)throw Error('La date de cette correction est invalide.');
+ return {answers:[...raw.answers],explanation:raw.explanation.trim(),updatedAt};
+}
+export function validateErrata(raw={}) {
+ if(!raw||typeof raw!=='object'||Array.isArray(raw)||Object.keys(raw).length>10000)throw Error('Le format des corrections personnelles est invalide.');
+ const result={};
+ for(const [id,entry] of Object.entries(raw)){
+  if(!/^[a-z0-9][a-z0-9_-]{0,199}$/i.test(id)||['__proto__','constructor','prototype'].includes(id))throw Error('Une correction personnelle contient un identifiant invalide.');
+  result[id]=validateErratum(entry);
+ }
+ return result;
+}
+export function mergeErrata(existing, incoming) {
+ const result={...existing};
+ for(const [id,entry] of Object.entries(validateErrata(incoming)))if(!Object.hasOwn(result,id)||entry.updatedAt>result[id].updatedAt)result[id]=entry;
+ return result;
+}
+export function applyErratum(question, errata) {
+ const edit=Object.hasOwn(errata,question.id)?errata[question.id]:null;
+ return edit?{...question,answers:[...edit.answers],explanation:edit.explanation,correctionStatus:'personal',localErratum:true,erratumUpdatedAt:edit.updatedAt}:question;
+}
 export function shuffled(items, rng = Math.random) { const out=[...items]; for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]];} return out; }
 export function filterQuestions(questions, filters, progress = {}) {
  const result=questions.filter(q => matchesSource(q,filters)
@@ -35,11 +60,17 @@ export function validateQuestion(raw, index, subject='anatomie') {
 }
 // Offer selectable text alongside the faithful original images only when all five item boundaries are unambiguous.
 export function readableQuestion(q) {
- // Anatomy imports include reviewed boundaries (inline PDF item numbers and TD
- // adaptations cannot reliably be reparsed from the raw text at display time).
- if(q.transcriptionVerified===true && Array.isArray(q.choices) && q.choices.length===5 && q.choices.every(t=>typeof t==='string'&&t.trim()))return {intro:q.title||'',choices:q.choices};
- if(!q.text || !Array.isArray(q.itemNumbers) || q.itemNumbers.length!==5) return null;
- const matches=q.itemNumbers.map(n=>new RegExp('(?:^|\\n)\\s*'+Number(n)+'\\s*[.)]\\s*(?:(?:OUI\\s*[/]\\s*NON)\\s*:?\\s*)?','i').exec(q.text));
+ // Reviewed boundaries take precedence over the original PDF/OCR reading order.
+ if(q.transcriptionVerified===true && Array.isArray(q.choices) && q.choices.length===5 && q.choices.every(t=>typeof t==='string'&&t.trim()))return {intro:q.intro||q.title||'',choices:q.choices};
+ if(!q.text)return null;
+ let matches;
+ if(Array.isArray(q.itemNumbers)&&q.itemNumbers.length===5){
+  matches=q.itemNumbers.map(n=>new RegExp('(?:^|\\n)\\s*'+Number(n)+'\\s*[.)]\\s*(?:(?:OUI\\s*[/]\\s*NON)\\s*:?\\s*)?','i').exec(q.text));
+ }else{
+  // Some banks use five unnumbered OUI/NON rows. Do not guess paragraph boundaries.
+  matches=[...q.text.matchAll(/(?:^|\n)[ \t]*OUI[ \t]*\/[ \t]*NON[ \t]*:?[ \t]*/gi)];
+  if(matches.length!==5)return null;
+ }
  if(matches.some(m=>!m))return null;
  if(matches.some((m,i)=>i>0&&m.index<=matches[i-1].index))return null;
  const clean=t=>t.replace(/\s+/g,' ').trim();

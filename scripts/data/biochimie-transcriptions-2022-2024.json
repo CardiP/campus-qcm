@@ -1,0 +1,502 @@
+{
+  "annale-2022-2023-q1": {
+    "intro": "Au sujet de l’acide aminé (a)",
+    "choices": [
+      "(a) est le D-Glu.",
+      "(a) ne possède aucun groupement chargé dans sa forme zwitterion.",
+      "(a) est un acide aminé polaire chargé à pH 7,0.",
+      "(a) a comme code à une lettre D.",
+      "(a) est un acide aminé essentiel."
+    ]
+  },
+  "annale-2022-2023-q2": {
+    "intro": "Au sujet de la liaison peptidique et des structures secondaires",
+    "choices": [
+      "La formation d’une liaison peptidique entre deux acides aminés est une réaction thermodynamiquement favorable.",
+      "Dans une liaison peptidique, la valeur de l’angle de torsion Ω est habituellement 0°.",
+      "La longueur axiale d’un dodécapeptide qui adopte une structure en hélice 3,6₁₃ est 13 ± 2 Å.",
+      "À nombre égal de résidus d’acides aminés, un brin β sera plus étiré qu’une hélice α.",
+      "La structure d’une hélice α est stabilisée par des liaisons ioniques orientées dans l’axe de l’hélice, entre les résidus de rang n et n+4."
+    ]
+  },
+  "annale-2022-2023-q3": {
+    "intro": "Au sujet de l’architecture des protéines",
+    "choices": [
+      "La structure quaternaire de l’hémoglobine est stabilisée par des interactions faibles et des ponts disulfures entre ses sous-unités.",
+      "Les collagènes sont des protéines fibreuses pour lesquelles les motifs de structure secondaire sont décrits dans le quadrant supérieur droit du diagramme de Ramachandran.",
+      "La structure primaire d’une protéine décrit sa séquence.",
+      "Les profils électrophorétiques d’un anticorps en conditions dénaturantes sont identiques qu’il soit préalablement traité par le β-mercaptoéthanol ou pas.",
+      "La myoglobine est une hétéroprotéine riche en feuillets β."
+    ]
+  },
+  "annale-2022-2023-q4": {
+    "intro": "Relations structure-activité des protéines",
+    "choices": [
+      "Une hémoglobine dans laquelle le résidu F8 de la chaîne β est muté en Tyr a une affinité augmentée pour le dioxygène.",
+      "La myoglobine a une affinité pour le monoxyde de carbone plus élevée que pour le dioxygène.",
+      "Le 2,3-bisphosphoglycérate (2,3-BPG) a plus d’affinité pour l’hémoglobine adulte (HbA) que pour l’hémoglobine fœtale (HbF).",
+      "L’hémoglobine S résulte de la mutation d’un résidu d’acide aminé localisé dans la cavité centrale du tétramère d’hémoglobine.",
+      "La variation d’affinité de l’hémoglobine pour l’O₂ en fonction du pH est connue sous le nom d’effet Bohr."
+    ]
+  },
+  "annale-2022-2023-q5": {
+    "intro": "La protéine à prion\nLes modèles moléculaires (a) et (b) représentent les deux formes de la protéine à prion.",
+    "choices": [
+      "Les structures primaires de (a) et (b) sont identiques.",
+      "(a) est constituée de sept domaines protéiques.",
+      "(a) contient quatre hélices droites.",
+      "(b) contient deux hélices α et quatre brins β.",
+      "(b) est la forme anormale de la protéine à prion, résistante aux agents dénaturants."
+    ]
+  },
+  "annale-2022-2023-q6": {
+    "intro": "Méthodes d’analyse des protéines\nSoit un mélange de deux peptides (a) et (b) dont on connaît la séquence, en solution à pH 7,5\n(a) YDEWEL\n(b) AVGQACIGGL",
+    "choices": [
+      "La concentration de (a) dans le mélange peut être déterminée par mesure de l’absorbance à 280 nm.",
+      "La concentration de (b) dans le mélange peut être déterminée par mesure de l’absorbance à 210 nm.",
+      "(a) et (b) peuvent être séparés l’un de l’autre par une chromatographie échangeuse de cations à pH 7,0.",
+      "Au cours d’une électrophorèse en conditions dénaturantes (PAGE-SDS), la migration de (a) dans le gel sera plus importante que celle de (b).",
+      "Au cours d’une chromatographie d’exclusion stérique, (a) sera élué avant (b)."
+    ]
+  },
+  "annale-2022-2023-q7": {
+    "intro": "Soit une hélice α constituée de 18 résidus d’acides aminés",
+    "choices": [
+      "Sa longueur est 27 Å ± 2 Å.",
+      "Elle est constituée de 5 ± 1 tours.",
+      "Elle a un pas de 3,6 Å.",
+      "Elle est plus compacte qu’un brin β constitué du même nombre de résidus.",
+      "Elle contient 13 atomes pris dans la boucle fermée par une liaison hydrogène."
+    ]
+  },
+  "annale-2022-2023-q8": {
+    "intro": "Soit le peptide (a) CAMVPREGFPR",
+    "choices": [
+      "(a) est sensible à l’action de la trypsine.",
+      "(a) est sensible à l’action de la chymotrypsine.",
+      "(a) est sensible à l’action du bromure de cyanogène.",
+      "(a) est sensible à l’action des carboxypeptidases.",
+      "(a) est sensible à l’action du réactif du Biuret."
+    ]
+  },
+  "annale-2022-2023-q9": {
+    "intro": "Au sujet des acides nucléiques",
+    "choices": [
+      "La molécule d’ADN est constituée de deux chaînes antiparallèles.",
+      "Les deux chaînes de l’ADN s’apparient par des liaisons hydrogène.",
+      "La polymérisation des acides nucléiques se fait dans le sens 5’-phosphate vers 3’-hydroxyle.",
+      "Les acides nucléiques sont des polymères de bases puriques et pyrimidiques.",
+      "Les nucléotides sont liés de façon covalente par des liaisons phosphodiesters."
+    ]
+  },
+  "annale-2022-2023-q10": {
+    "intro": "Au sujet des génomes",
+    "choices": [
+      "Chez les Eucaryotes, l’ADN est strictement localisé dans le noyau.",
+      "Le génome des Procaryotes est circulaire.",
+      "Le génome nucléaire humain est constitué d’environ 3 millions de nucléotides.",
+      "Le génome mitochondrial est exclusivement constitué de séquences répétées.",
+      "Le génome nucléaire humain contient moins de 5% de séquences répétées."
+    ]
+  },
+  "annale-2022-2023-q11": {
+    "intro": "Au sujet de la réplication de l’ADN",
+    "choices": [
+      "Des désoxyribonucléotides monophosphates (dNMP) sont nécessaires à la synthèse de l’ADN.",
+      "La réplication de l’ADN est dite semi-conservative.",
+      "Le génome Procaryote possède au moins 20 origines de réplication.",
+      "La réplication de l’ADN est plus rapide chez les Eucaryotes grâce aux nucléosomes.",
+      "L’ADN polymérase possède une activité exonucléasique pour corriger ses erreurs."
+    ]
+  },
+  "annale-2022-2023-q12": {
+    "intro": "Au sujet de la PCR",
+    "choices": [
+      "La PCR permet directement d’amplifier de l’ARN.",
+      "La quantité d’ADN ciblée par PCR double à chaque cycle.",
+      "La PCR nécessite une enzyme.",
+      "La PCR nécessite des incubations à différentes températures.",
+      "La PCR nécessite deux amorces."
+    ]
+  },
+  "annale-2022-2023-q13": {
+    "intro": "Au sujet des techniques de biologie moléculaire",
+    "choices": [
+      "La « reverse transcription » permet de convertir l’ARN en ADN complémentaire.",
+      "Le séquençage Sanger nécessite une enzyme.",
+      "Le séquençage Sanger requiert des didésoxyribonucléosides triphosphates (ddNTP).",
+      "L’électrophorèse est appropriée pour analyser des fragments d’ADN de tailles différentes.",
+      "L’enzyme EcoRI a un site de restriction unique dans sur le génome humain."
+    ]
+  },
+  "annale-2022-2023-q14": {
+    "intro": "Au sujet de la transcription chez les Eucaryotes",
+    "choices": [
+      "Elle fait intervenir des facteurs de transcription généraux.",
+      "Elle fait intervenir des ADN polymérases.",
+      "L’épissage permet d’éliminer les introns.",
+      "La maturation de l’ARN messager est indispensable pour sa stabilité.",
+      "Chaque unité de transcription est transcrite une seule fois au cours du cycle cellulaire."
+    ]
+  },
+  "annale-2022-2023-q15": {
+    "intro": "Au sujet de la traduction",
+    "choices": [
+      "Elle fait intervenir des ribosomes.",
+      "Elle nécessite du GTP.",
+      "Elle nécessite de l’ATP.",
+      "Au cours de la phase de pré-initiation de la traduction, la grosse sous-unité du ribosome va se fixer sur l’ARNm.",
+      "La protéine est synthétisée dans le sens C-terminal vers N-terminal."
+    ]
+  },
+  "annale-2022-2023-q16": {
+    "intro": "Au sujet de la régulation de l’expression des gènes chez les Eucaryotes",
+    "choices": [
+      "Elle nécessite de modifier la séquence ADN.",
+      "Elle peut faire intervenir des modifications post-traductionnelles des histones.",
+      "Elle fait appel à des protéines qui se lient à l’ADN.",
+      "Elle peut faire intervenir la méthylation de l’ADN au niveau de séquences CpG.",
+      "C’est un mécanisme irréversible au cours de la vie cellulaire."
+    ]
+  },
+  "annale-2022-2023-q17": {
+    "intro": "Au sujet de la classification des enzymes",
+    "choices": [
+      "Il existe 5 classes d’enzymes.",
+      "Chaque enzyme est désignée par EC suivi de 4 chiffres.",
+      "La classe 3 regroupe les hydrolases.",
+      "Le NAD⁺/NADH,H⁺ est le coenzyme d’enzymes de diverses classes.",
+      "Les enzymes de classe 1 catalysent des réactions de transfert de groupements carbonés."
+    ]
+  },
+  "annale-2022-2023-q18": {
+    "intro": "On compare deux inhibiteurs I1 et I2 pour une même enzyme E et le même substrat S, sur une représentation graphique de Lineweaver-Burk :",
+    "choices": [
+      "I1 présente la même Vm apparente que I2.",
+      "I2 est un inhibiteur non compétitif.",
+      "I1 est un inhibiteur incompétitif.",
+      "I1 diminue la Vm apparente de E avec S.",
+      "I1 et I2 sont des inhibiteurs du même type."
+    ]
+  },
+  "annale-2022-2023-q19": {
+    "intro": "Au sujet des enzymes allostériques",
+    "choices": [
+      "Elles présentent une structure quaternaire.",
+      "Elles sont dissociées par les sels mercuriels.",
+      "Elles répondent toutes au modèle de Koshland.",
+      "Elles sont toutes de type K.",
+      "Elles régulent de nombreux métabolismes."
+    ]
+  },
+  "annale-2022-2023-q20": {
+    "intro": "Au sujet des cofacteurs",
+    "choices": [
+      "Les coenzymes sont des cofacteurs.",
+      "Le NAD⁺/NADH,H⁺ est un coenzyme d’oxydoréduction.",
+      "Les coenzymes substrats sont liés fortement au site actif des enzymes qui les utilisent.",
+      "La vitamine B1 est un coenzyme d’oxydoréduction.",
+      "La vitamine B6 est un coenzyme prosthétique."
+    ]
+  },
+  "annale-2022-2023-q21": {
+    "intro": "Au sujet du cycle de Krebs",
+    "choices": [
+      "L’étape catalysée par la succinate deshydrogénase est une étape productrice d’énergie.",
+      "L’alpha-cétoglutarate deshydrogénase catalyse une réaction de décarboxylation oxydative de l’alpha-cétoglutarate.",
+      "L’oxydation d’une molécule d’acétyl-Coa dans le cycle de Krebs conduit à la formation de 12 molécules d’ATP.",
+      "Une partie des enzymes impliquées dans le cycle de Krebs est localisée dans la matrice mitochondriale.",
+      "Le FADH₂ est la forme réduite du FAD."
+    ]
+  },
+  "annale-2022-2023-q22": {
+    "intro": "Au sujet de la chaîne respiratoire",
+    "choices": [
+      "Tous les complexes fixes de la chaîne respiratoire sont localisés dans la membrane mitochondriale externe.",
+      "La réoxydation des cofacteurs enzymatiques réduits (NADH,H⁺ et FADH₂) conduit à la formation d’ATP.",
+      "Les protons peuvent diffuser librement de la matrice mitochondriale vers le cytosol.",
+      "Le cytochrome C est une protéine hydrosoluble localisée sur la face externe de la membrane mitochondriale interne.",
+      "Le transfert d’électrons du complexe II vers l’ubiquinone s’accompagne d’un pompage de protons de la matrice mitochondriale vers l’espace intermembranaire."
+    ]
+  },
+  "annale-2022-2023-q23": {
+    "intro": "Au sujet des glucides",
+    "choices": [
+      "La glucokinase peut phosphoryler tous les glucides à 6 atomes de carbone.",
+      "Le foie réalise principalement de la glycolyse anaérobie.",
+      "La phosphofructokinase 1 catalyse l’isomérisation du glucose-6-phosphate en fructose-6-phosphate.",
+      "Dans toutes les cellules de l’organisme, la glycolyse aboutit à la formation du composé suivant : CH₃-CO-COO⁻.",
+      "L’étape catalysée par la pyruvate kinase est une étape productrice d’énergie."
+    ]
+  },
+  "annale-2022-2023-q24": {
+    "intro": "Au sujet de la néoglucogenèse et du métabolisme du glycogène",
+    "choices": [
+      "Le rein exprime les enzymes de la néoglucogenèse.",
+      "La glycogène synthase génère des liaisons osidiques en alpha 1,6.",
+      "Au cours de la synthèse de glycogène, l’enzyme branchante crée des ramifications environ tous les cinquante résidus de glucose.",
+      "La dégradation du glycogène par la glycogène phosphorylase libère du glucose-3-phosphate.",
+      "Dans le foie, la dernière étape de la glycogénogenèse est catalysée par la glucose-6-phosphatase."
+    ]
+  },
+  "annale-2022-2023-q25": {
+    "intro": "Au sujet des lipoprotéines",
+    "choices": [
+      "Les lipoprotéines sont des transporteurs de lipides extracellulaires.",
+      "Les chylomicrons sont constitués majoritairement de cholestérol.",
+      "La lipoprotéine lipase hydrolyse le cholestérol porté par les lipoprotéines.",
+      "Les lipoprotéines VLDL sont synthétisées par le foie.",
+      "Les lipoprotéines LDL sont formées dans le compartiment sanguin à partir des IDL."
+    ]
+  },
+  "annale-2023-2024-q1": {
+    "intro": "Soit l’acide aminé suivant (a)",
+    "choices": [
+      "(a) est la Val.",
+      "(a) est un acide aminé essentiel.",
+      "(a) est ici représenté à un pH égal à son pI (point isoélectrique).",
+      "(a) présente un maximum d’absorption de la lumière à 210 nm.",
+      "(a) est un acide aminé polaire."
+    ]
+  },
+  "annale-2023-2024-q2": {
+    "intro": "Au sujet de la courbe de titration de l’acide aminé standard (b)",
+    "choices": [
+      "Le plateau 1 correspond au pKa de la fonction α-carboxylique.",
+      "(b) est un acide aminé polaire à caractère acide.",
+      "Le point 2 correspond au point isoélectrique (pI).",
+      "À pH 8,0, c’est la forme zwitterion qui prédomine.",
+      "À pH 8,0, une seule fonction de (b) est chargée positivement."
+    ]
+  },
+  "annale-2023-2024-q3": {
+    "intro": "Au sujet de la liaison peptidique",
+    "choices": [
+      "La formation d’une liaison peptidique entre deux acides aminés est thermodynamiquement favorable.",
+      "Les liaisons peptidiques sont rompues par un traitement au β-mercaptoéthanol.",
+      "La liaison peptidique confère un pouvoir rotatoire aux protéines.",
+      "La liaison peptidique confère un maximum d’absorption de la lumière à 280 nm.",
+      "Les liaisons peptidiques sont rompues par un traitement à l’acide chlorhydrique (6N) à 110 °C, pendant 24 heures."
+    ]
+  },
+  "annale-2023-2024-q4": {
+    "intro": "Soit l’octapeptide (c) : A-R-G-E-N-T-I-N",
+    "choices": [
+      "La masse moléculaire de (c) est 900 ± 150 Da.",
+      "(c) est insensible à l’action de la trypsine.",
+      "Le pI de (c) est 6,55.",
+      "(c) a une charge nette de +1 à pH 7,0.",
+      "(c) contient un résidu soufré unique."
+    ]
+  },
+  "annale-2023-2024-q5": {
+    "intro": "Au sujet de la structure des sous-unités d’hémoglobine (Hb)",
+    "choices": [
+      "Le brin peptidique compris entre les résidus désignés E1 et E19 dans la séquence adopte une structure secondaire en boucle.",
+      "Dans une sous-unité d’hémoglobine, le résidu F8 est le huitième résidu de l’hélice F.",
+      "La longueur du segment peptidique entre les résidus H1 et H19 est 28 ± 2 Å.",
+      "Les sous-unités d’hémoglobine sont des holoprotéines.",
+      "L’état T (désoxy-Hb) est stabilisé par des liaisons ioniques qui doivent être rompues pour passer à l’état R (oxy-Hb)."
+    ]
+  },
+  "annale-2023-2024-q6": {
+    "intro": "Au sujet de la structure des protéines",
+    "choices": [
+      "La structure secondaire d’une protéine est altérée par sa mise en solution dans un tampon dont le pH est égal à son pI.",
+      "À nombre égal de résidus, un brin β est plus court qu’une hélice 3,6₁₃.",
+      "La protéine à prion en conformation PrPSc a la même structure primaire que PrPc.",
+      "Le pourcentage d’hélices α dans la protéine PrPc peut changer au contact de PrPsc.",
+      "Les anticorps sont des hétéroprotéines dont la structure quaternaire est stabilisée par des ponts disulfure."
+    ]
+  },
+  "annale-2023-2024-q7": {
+    "intro": "Soit un mélange M de trois protéines globulaires (a), (b), (c) qui présentent les caractéristiques suivantes en solution dans une large gamme de pH (2 à 12)\n(a) est un monomère de 1000 résidus d’acides aminés et son pI est 8.\n(b) est une protéine dimérique de 100 kDa dont le pI est 6.\n(c) est un hétérotrimère de 60 kDa dont le pI est 3.\nLe mélange est soumis à une chromatographie d’exclusion stérique. Les trois fractions protéiques F1, F2 et F3 recueillies sont analysées par électrophorèse en conditions dénaturantes, en présence de β-mercaptoéthanol.",
+    "choices": [
+      "La concentration protéique du mélange M pourra être déterminée par traitement au réactif du Biuret.",
+      "Si le mélange M est soumis à une chromatographie échangeuse d’anions à pH 7,0, seule la protéine (a) interagira avec la phase stationnaire.",
+      "Une chromatographie échangeuse de cations, dont l’étape d’adsorption est conduite à pH 5,0 et suivie d’une élution par un gradient de pH croissant, est adaptée à la séparation des trois protéines du mélange M.",
+      "Au cours de la chromatographie d’exclusion stérique, les protéines seront éluées dans l’ordre : (c) puis (b) puis (a).",
+      "Le profil d’élution de la chromatographie d’exclusion stérique et l’analyse par électrophorèse des fractions protéiques présentés dans la figure ci-dessous sont compatibles avec les données de l’énoncé."
+    ]
+  },
+  "annale-2023-2024-q8": {
+    "intro": "Soit un octapeptide désigné P8\nSon hydrolyse acide (HCl 6N, 110 °C, 24 heures) indique la composition suivante :\n(Arg, Asn, Asp, 2 Gly, Phe, Thr).\nSa digestion par la trypsine donne un tripeptide TP3 et un pentapeptide TP5.\nSa digestion par la chymotrypsine donne un tripeptide CP3 et un pentapeptide CP5.\nLe traitement de ces peptides par le fluorodinitrobenzène (DNFB) ou la carboxypeptidase A donne les résultats indiqués dans le tableau :\nPeptide ; Fluorodinitrobenzène ; Carboxypeptidase A\nP 8 ; DNP-Asp ; Trp\nTP 3 ; DNP-Thr ; Trp\nTP 5 ; Non déterminé ; Non déterminé\nCP 3 ; Non déterminé ; Non déterminé\nCP 5 ; DNP-Asn ; Trp\nLa séquence de P8 est :",
+    "choices": [
+      "D-G-R-F-T-R-N-W",
+      "W-G-T-R-N-F-G-D",
+      "D-G-R-N-F-T-G-W",
+      "D-G-F-N-R-T-G-W",
+      "T-G-W-R-N-F-G-D"
+    ]
+  },
+  "annale-2023-2024-q9": {
+    "intro": "Au sujet des acides nucléiques",
+    "choices": [
+      "Les acides nucléiques sont des polymères de nucléotides.",
+      "Les nucléotides de l’ARN ne contiennent pas de base purique.",
+      "Dans l’ADN, les liaisons phosphodiesters permettent de relier le désoxyribose à la base azotée.",
+      "Dans l’ARN, la thymine (T) est remplacée par l’uracile (U).",
+      "L’appariement des deux brins de l’ADN est permis grâce à des liaisons hydrogène."
+    ]
+  },
+  "annale-2023-2024-q10": {
+    "intro": "Au sujet des génomes",
+    "choices": [
+      "La renaturation d’un génome procaryote est d’autant plus rapide que le génome est grand.",
+      "La température de fusion de l’ADN augmente avec le pourcentage de GC.",
+      "Le génome nucléaire humain est constitué de 46 chromosomes linéaires.",
+      "Le génome mitochondrial humain est circulaire.",
+      "Les gènes impliqués dans l’olfaction sont plus conservés que ceux impliqués dans la mitose."
+    ]
+  },
+  "annale-2023-2024-q11": {
+    "intro": "Au sujet de la réplication de l’ADN",
+    "choices": [
+      "Il existe une seule origine de réplication par chromosome chez les eucaryotes.",
+      "La réplication de l’ADN nécessite des amorces ARN.",
+      "La synthèse du brin discontinu (tardif) nécessite les fragments d’Okazaki.",
+      "La synthèse du brin discontinu (tardif) se fait dans le sens 3’→5’.",
+      "La réplication de l’ADN est plus rapide chez les eucaryotes que chez les procaryotes."
+    ]
+  },
+  "annale-2023-2024-q12": {
+    "intro": "Au sujet de la PCR",
+    "choices": [
+      "La PCR permet d’amplifier directement l’ARN du SARS-COV2.",
+      "La PCR nécessite une Taq Polymérase.",
+      "La PCR nécessite une seule amorce contrairement au séquençage Sanger.",
+      "La PCR nécessite un thermocycleur.",
+      "Après N cycles de PCR, l’ADN est amplifié d’un facteur 10ᴺ."
+    ]
+  },
+  "annale-2023-2024-q13": {
+    "intro": "Au sujet du séquençage de l’ADN par la méthode de Sanger",
+    "choices": [
+      "C’est une méthode de séquençage par synthèse enzymatique.",
+      "Cette méthode requiert une majorité de ddNTP et une minorité de dNTP.",
+      "Les ddNTP bloquent la polymérisation.",
+      "Cette méthode nécessite une électrophorèse.",
+      "Il s’agit d’une technique de séquençage haut-débit."
+    ]
+  },
+  "annale-2023-2024-q14": {
+    "intro": "Au sujet de la transcription chez les Eucaryotes",
+    "choices": [
+      "Chaque gène est transcrit de façon bidirectionnelle.",
+      "La séquence de l’ARNm correspond à la séquence du brin codant dans l’ADN.",
+      "La transcription nécessite une amorce.",
+      "Les exons sont en moyenne plus longs que les introns.",
+      "La maturation des ARNm est nécessaire à leur export du noyau vers le cytoplasme."
+    ]
+  },
+  "annale-2023-2024-q15": {
+    "intro": "Au sujet de la traduction",
+    "choices": [
+      "Les aminoacyls ARNt synthéthases consomment de l’ATP.",
+      "L’initiation de la traduction fait intervenir la grosse sous-unité ribosomale.",
+      "L’élongation de la traduction consomme du GTP.",
+      "Les vaccins à ARN messager sont traduits dans le noyau de la cellule eucaryote.",
+      "Dans l’ARNm, le codon d’initiation de la traduction est un codon AUG."
+    ]
+  },
+  "annale-2023-2024-q16": {
+    "intro": "Au sujet de la régulation de l’expression des gènes chez les eucaryotes",
+    "choices": [
+      "Elle fait appel à la modification post-traductionnelle des queues N-terminales des histones.",
+      "Elle fait appel à des protéines qui lient l’ADN par des liaisons covalentes.",
+      "Elle fait appel à la méthylation de l’ADN au niveau des séquences 5’-GC-3’.",
+      "C’est un mécanisme irréversible au cours de la vie cellulaire.",
+      "L’interaction entre protéines et ADN se fait au niveau du petit sillon."
+    ]
+  },
+  "annale-2023-2024-q17": {
+    "intro": "Au sujet de la catalyse acide-base exercée par des enzymes",
+    "choices": [
+      "Elle peut impliquer un résidu de cystéine.",
+      "L’acylation du substrat par un résidu de sérine en est un exemple.",
+      "Elle peut impliquer la déprotonation d’un résidu d’acide aspartique.",
+      "Elle résulte d’une attaque électrophile d’un atome de carbone du substrat.",
+      "Elle permet d’abaisser la barrière d’activation énergétique."
+    ]
+  },
+  "annale-2023-2024-q18": {
+    "intro": "Soient 4 graphes de Lineweaver-Burk représentant l’effet d’un inhibiteur (I) en comparaison d’une droite de référence sans inhibiteur (R)",
+    "choices": [
+      "L’unité de l’axe des abscisses est 1/[S] et de l’axe des ordonnées est 1/v₀.",
+      "A représente l’effet d’un inhibiteur non compétitif.",
+      "B représente l’effet d’un inhibiteur compétitif.",
+      "C représente l’effet d’un inhibiteur non compétitif.",
+      "D représente l’effet d’un inhibiteur incompétitif."
+    ]
+  },
+  "annale-2023-2024-q19": {
+    "intro": "À partir de l’équation de Michaelis-Menten, on montre que",
+    "choices": [
+      "Vₘ = v₀ / (Vₘ (Kₘ + [S]))",
+      "Vₘ = v₀ (Kₘ / [S] + 1)",
+      "Kₘ = [S] (Vₘ / v₀ − 1)",
+      "1 / v₀ = (1 / [S]) × (Kₘ / Vₘ) + 1 / Vₘ",
+      "v₀ / [S] = Kₘ / Vₘ − v₀ / Kₘ"
+    ]
+  },
+  "annale-2023-2024-q20": {
+    "intro": "Au sujet de l’allostérie enzymatique",
+    "choices": [
+      "Le substrat se lie dans le site effecteur.",
+      "La représentation graphique de v₀ = f([S]) est une hyperbole.",
+      "La vitesse maximale (Vm) est infinie.",
+      "Quand v₀ = Vm/2, [S] = K₀,₅",
+      "Un inhibiteur allostérique stabilise la forme de l’enzyme la moins affine pour le substrat."
+    ]
+  },
+  "annale-2023-2024-q21": {
+    "intro": "Au sujet du cycle de Krebs et de la chaîne respiratoire",
+    "choices": [
+      "La citrate synthase produit du NADH, H⁺.",
+      "La synthèse d’ATP requiert le passage de 3 protons au travers de l’ATP synthase.",
+      "La malate deshydrogénase oxyde le malate en oxaloacétate.",
+      "Le complexe II de la chaîne respiratoire réoxyde le NADH, H⁺ en NAD⁺.",
+      "Le complexe I de la chaîne respiratoire est la succinate deshydrogénase."
+    ]
+  },
+  "annale-2023-2024-q22": {
+    "intro": "Au sujet de la glucokinase et de l’hexokinase",
+    "choices": [
+      "Les deux enzymes catalysent des réactions irréversibles.",
+      "L’activité de la glucokinase est importante juste après un repas.",
+      "L’hexokinase est régulée allostériquement, contrairement à la glucokinase.",
+      "La spécificité de l’hexokinase pour le glucose est supérieure à celle de la glucokinase.",
+      "La glucokinase catalyse la formation de glucose à partir de glucose-6-phosphate."
+    ]
+  },
+  "annale-2023-2024-q23": {
+    "intro": "Au sujet du métabolisme des lipides",
+    "choices": [
+      "Au cours de la synthèse des acides gras, une molécule de malonyl-CoA est formée à chaque ajout de deux unités carbonées.",
+      "La part des triglycérides dans la composition des chylomicrons est d’environ 20 %.",
+      "La molécule ⁻OOC-CO-CH₃ est un corps cétonique.",
+      "L’acide gras synthase est localisée dans le cytosol des cellules.",
+      "La synthèse des acides gras nécessite du NADPH, H⁺."
+    ]
+  },
+  "annale-2023-2024-q24": {
+    "intro": "Au sujet de la néoglucogenèse et du métabolisme du glycogène",
+    "choices": [
+      "La phospho-énol-pyruvate carboxykinase catalyse la formation de phospho-énol-pyruvate à partir de malate.",
+      "L’oxaloacétate peut passer directement de la matrice mitochondriale vers le cytosol par un transporteur spécifique.",
+      "Les chaînes glucidiques du glycogène sont constituées de molécules de glucose liées entre elles par des liaisons β1-4 et β1-6.",
+      "La glycogène phosphorylase libère du glucose-1-phosphate.",
+      "La glucose-6-phosphatase est produite dans le foie."
+    ]
+  },
+  "annale-2023-2024-q25": {
+    "intro": "Au sujet des organes",
+    "choices": [
+      "Le rein stocke le glucose sous forme de glycogène.",
+      "Le foie produit l’hexokinase.",
+      "Le muscle synthétise des corps cétoniques.",
+      "Le foie consomme de l’acétoacétate.",
+      "Le muscle produit la pyruvate deshydrogénase."
+    ]
+  }
+}
